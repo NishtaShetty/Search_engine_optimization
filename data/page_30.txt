@@ -1,0 +1,2245 @@
+
+
+
+
+Augmented reality - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Comparison with mixed reality/virtual reality
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+
+
+
+
+3
+Displays
+
+
+
+
+Toggle Displays subsection
+
+
+
+
+
+3.1
+Head-mounted displays
+
+
+
+
+
+
+
+
+3.2
+AR glasses
+
+
+
+
+
+
+
+
+3.3
+Handheld
+
+
+
+
+
+
+
+
+3.4
+Contact lenses
+
+
+
+
+
+
+
+
+3.5
+Virtual retinal display
+
+
+
+
+
+
+
+
+3.6
+Projection mapping
+
+
+
+
+
+
+
+
+
+
+4
+3D tracking
+
+
+
+
+Toggle 3D tracking subsection
+
+
+
+
+
+4.1
+Camera-based tracking
+
+
+
+
+
+
+
+
+
+
+5
+Input devices
+
+
+
+
+
+
+
+
+6
+Processing
+
+
+
+
+
+
+
+
+7
+Software
+
+
+
+
+Toggle Software subsection
+
+
+
+
+
+7.1
+Rendering
+
+
+
+
+
+
+
+
+7.2
+Design
+
+
+
+
+
+
+7.2.1
+Environmental/context design
+
+
+
+
+
+
+
+
+7.2.2
+Interaction design
+
+
+
+
+
+
+
+
+7.2.3
+Visual design
+
+
+
+
+
+
+
+
+
+
+
+
+8
+Uses
+
+
+
+
+Toggle Uses subsection
+
+
+
+
+
+8.1
+Education and training
+
+
+
+
+
+
+
+
+8.2
+Visual art
+
+
+
+
+
+
+
+
+8.3
+Industrial manufacturing
+
+
+
+
+
+
+
+
+8.4
+Video games
+
+
+
+
+
+
+
+
+8.5
+Industrial design
+
+
+
+
+
+
+
+
+8.6
+Architecture
+
+
+
+
+
+
+
+
+8.7
+Archaeology
+
+
+
+
+
+
+
+
+8.8
+Commerce
+
+
+
+
+
+
+
+
+8.9
+Literature
+
+
+
+
+
+
+
+
+8.10
+Fitness
+
+
+
+
+
+
+
+
+8.11
+Emergency management/search and rescue
+
+
+
+
+
+
+
+
+8.12
+Social interaction
+
+
+
+
+
+
+
+
+8.13
+Healthcare planning, practice and education
+
+
+
+
+
+
+
+
+8.14
+Spatial immersion and interaction
+
+
+
+
+
+
+
+
+8.15
+Flight training
+
+
+
+
+
+
+
+
+8.16
+Military
+
+
+
+
+
+
+
+
+8.17
+Navigation
+
+
+
+
+
+
+
+
+8.18
+Workplace
+
+
+
+
+
+
+
+
+8.19
+Product content management
+
+
+
+
+
+
+
+
+8.20
+Functional mockup
+
+
+
+
+
+
+
+
+8.21
+Broadcast and live events
+
+
+
+
+
+
+
+
+8.22
+Tourism and sightseeing
+
+
+
+
+
+
+
+
+8.23
+Translation
+
+
+
+
+
+
+
+
+8.24
+Music
+
+
+
+
+
+
+
+
+8.25
+Human-in-the-loop operation of robots
+
+
+
+
+
+
+
+
+
+
+9
+Apps
+
+
+
+
+
+
+
+
+10
+Concerns
+
+
+
+
+Toggle Concerns subsection
+
+
+
+
+
+10.1
+Reality modifications
+
+
+
+
+
+
+
+
+10.2
+Privacy concerns
+
+
+
+
+
+
+
+
+
+
+11
+Notable researchers
+
+
+
+
+
+
+
+
+12
+See also
+
+
+
+
+
+
+
+
+13
+References
+
+
+
+
+
+
+
+
+14
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Augmented reality
+
+
+
+62 languages
+
+
+
+
+AfrikaansالعربيةAzərbaycancaتۆرکجهবাংলাБългарскиབོད་ཡིགCatalàČeštinaCymraegDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego한국어Հայերենहिन्दीIdoBahasa IndonesiaIsiZuluItalianoעבריתҚазақшаLatviešuLietuviųMagyarമലയാളംBahasa MelayuМонголမြန်မာဘာသာNederlandsNedersaksies日本語Norsk bokmålPolskiPortuguêsRomânăРусскийShqipSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSuomiSvenskaதமிழ்తెలుగుไทยTürkçeУкраїнськаاردوTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+View of the real world with computer-generated supplementary features
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: Unfocused, lots of trivial and dated examples. Please help improve this article if you can. (June 2025) (Learn how and when to remove this message)
+This article may contain an excessive amount of intricate detail that may interest only a particular audience. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (June 2025) (Learn how and when to remove this message)
+
+ (Learn how and when to remove this message)
+
+
+A man using an augmented reality headset to view a life-size virtual model of a building
+An augmented reality mapping application
+Augmented reality (AR), also known as mixed reality (MR), is a technology that overlays real-time 3D-rendered computer graphics onto a portion of the real world through a display, such as a handheld device or head-mounted display. This experience is seamlessly interwoven with the physical world such that it is perceived as an immersive aspect of the real environment.[1] In this way, augmented reality alters one's ongoing perception of a real-world environment, compared to virtual reality, which aims to completely replace the user's real-world environment with a simulated one.[2][3] Augmented reality is typically visual, but can span multiple sensory modalities, including auditory, haptic, and somatosensory.[4]
+The primary value of augmented reality is the manner in which components of a digital world blend into a person's perception of the real world, through the integration of immersive sensations, which are perceived as real in the user's environment. The earliest functional AR systems that provided immersive mixed reality experiences for users were invented in the early 1990s, starting with the Virtual Fixtures system developed at the U.S. Air Force's Armstrong Laboratory in 1992.[1][5][6] Commercial augmented reality experiences were first introduced in entertainment and gaming businesses.[7] Subsequently, augmented reality applications have spanned industries such as education, communications, medicine, and entertainment.
+Augmented reality can be used to enhance natural environments or situations and offers perceptually enriched experiences. With the help of advanced AR technologies (e.g. adding computer vision, incorporating AR cameras into smartphone applications, and object recognition) the information about the surrounding real world of the user becomes interactive and digitally manipulated.[8] Information about the environment and its objects is overlaid on the real world. This information can be virtual or real, e.g. seeing other real sensed or measured information such as electromagnetic radio waves overlaid in exact alignment with where they actually are in space.[9][10][11] Augmented reality also has a lot of potential in the gathering and sharing of tacit knowledge. Immersive perceptual information is sometimes combined with supplemental information like scores over a live video feed of a sporting event. This combines the benefits of both augmented reality technology and heads up display technology (HUD).
+Augmented reality frameworks include ARKit and ARCore. Commercial augmented reality headsets include the Magic Leap 1 and HoloLens. A number of companies have promoted the concept of smartglasses that have augmented reality capability.
+Augmented reality can be defined as a system that incorporates three basic features: a combination of real and virtual worlds, real-time interaction, and accurate 3D registration of virtual and real objects.[12] The overlaid sensory information can be constructive (i.e. additive to the natural environment), or destructive (i.e. masking of the natural environment).[1] As such, it is one of the key technologies in the reality-virtuality continuum.[13] Augmented reality refers to experiences that are artificial and that add to the already existing reality.[14][15][16]
+
+
+Comparison with mixed reality/virtual reality[edit]
+Augmented reality (AR) is largely synonymous with mixed reality(MR). There is also overlap in terminology with extended reality and computer-mediated reality. However, In the 2020s, the differences between AR and MR began to be emphasized.[17][18]
+
+Types of extended reality
+Mixed reality (MR) is an advanced technology that extends beyond augmented reality (AR) by seamlessly integrating the physical and virtual worlds.[19] In MR, users are not only able to view digital content within their real environment but can also interact with it as if it were a tangible part of the physical world.[20] This is made possible through devices such as Meta Quest 3S and Apple Vison Pro, which utilize multiple cameras and sensors to enable real-time interaction between virtual and physical elements.[21] Mixed reality that incorporates haptics has sometimes been referred to as visuo-haptic mixed reality.[22][23]
+In virtual reality (VR), the users' perception is completely computer-generated, whereas with augmented reality (AR), it is partially generated and partially from the real world.[24][25] For example, in architecture, VR can be used to create a walk-through simulation of the inside of a new building; and AR can be used to show a building's structures and systems super-imposed on a real-life view. Another example is through the use of utility applications. Some AR applications, such as Augment, enable users to apply digital objects into real environments, allowing businesses to use augmented reality devices as a way to preview their products in the real world.[26] Similarly, it can also be used to demo what products may look like in an environment for customers, as demonstrated by companies such as Mountain Equipment Co-op or Lowe's who use augmented reality to allow customers to preview what their products might look like at home.[27]
+Augmented reality (AR) differs from virtual reality (VR) in the sense that in AR, the surrounding environment is 'real' and AR is just adding virtual objects to the real environment. On the other hand, in VR, the surrounding environment is completely virtual and computer generated. A demonstration of how AR layers objects onto the real world can be seen with augmented reality games. WallaMe is an augmented reality game application that allows users to hide messages in real environments, utilizing geolocation technology in order to enable users to hide messages wherever they may wish in the world.[28]
+In a physics context, the term "interreality system" refers to a virtual reality system coupled with its real-world counterpart.[29] A 2007 paper describes an interreality system comprising a real physical pendulum coupled to a pendulum that only exists in virtual reality.[30] This system has two stable states of motion: a "dual reality" state in which the motion of the two pendula are uncorrelated, and a "mixed reality" state in which the pendula exhibit stable phase-locked motion, which is highly correlated. The use of the terms "mixed reality" and "interreality" is clearly defined in the context of physics and may be slightly different in other fields, however, it is generally seen as, "bridging the physical and virtual world".[31]
+
+History[edit]
+Virtual Fixtures – first AR system, U.S. Air Force, Wright-Patterson Air Force Base (1992)
+1901: Author L. Frank Baum, in his science-fiction novel The Master Key, first mentions the idea of an electronic display/spectacles that overlays data onto real life (in this case 'people'). It is named a 'character marker'.[32]
+Heads-up displays (HUDs), a precursor technology to augmented reality, were first developed for pilots in the 1950s, projecting simple flight data into their line of sight, thereby enabling them to keep their "heads up" and not look down at the instruments. It is a transparent display.
+1968: Ivan Sutherland creates the first head-mounted display that has graphics rendered by a computer.[33]
+1975: Myron Krueger creates Videoplace to allow users to interact with virtual objects.
+1980: The research by Gavan Lintern of the University of Illinois is the first published work to show the value of a heads up display for teaching real-world flight skills.[34]
+1980: Steve Mann creates the first wearable computer, a computer vision system with text and graphical overlays on a photographically mediated scene.[35]
+1986: Within IBM, Ron Feigenblatt describes the most widely experienced form of AR today (viz. "magic window," e.g. smartphone-based Pokémon Go), use of a small, "smart" flat panel display positioned and oriented by hand.[36][37]
+1987: Douglas George and Robert Morris create a working prototype of an astronomical telescope-based "heads-up display" system (a precursor concept to augmented reality) which superimposed in the telescope eyepiece, over the actual sky images, multi-intensity star, and celestial body images, and other relevant information.[38]
+1990: The term augmented reality is attributed to Thomas P. Caudell, a former Boeing researcher.[39]
+1992: Louis Rosenberg developed one of the first functioning AR systems, called Virtual Fixtures, at the United States Air Force Research Laboratory—Armstrong, that demonstrated benefit to human perception.[40]
+1992: Steven Feiner, Blair MacIntyre and Doree Seligmann present an early paper on an AR system prototype, KARMA, at the Graphics Interface conference.
+1993: Mike Abernathy, et al., report the first use of augmented reality in identifying space debris using Rockwell WorldView by overlaying satellite geographic trajectories on live telescope video.[41]
+1993: A widely cited version of the paper above is published in Communications of the ACM – Special issue on computer augmented environments, edited by Pierre Wellner, Wendy Mackay, and Rich Gold.[42]
+1993: Loral WDL, with sponsorship from STRICOM, performed the first demonstration combining live AR-equipped vehicles and manned simulators. Unpublished paper, J. Barrilleaux, "Experiences and Observations in Applying Augmented Reality to Live Training", 1999.[43]
+1995: S. Ravela et al. at University of Massachusetts introduce a vision-based system using monocular cameras to track objects (engine blocks) across views for augmented reality.[44][45]
+1996: General Electric develops system for projecting information from 3D CAD models onto real-world instances of those models.[46]
+1998: Spatial augmented reality introduced at University of North Carolina at Chapel Hill by Ramesh Raskar, Greg Welch, Henry Fuchs.[47]
+1999: Frank Delgado, Mike Abernathy et al. report successful flight test of LandForm software video map overlay from a helicopter at Army Yuma Proving Ground overlaying video with runways, taxiways, roads and road names.[48][49]
+1999: The US Naval Research Laboratory engages on a decade-long research program called the Battlefield Augmented Reality System (BARS) to prototype some of the early wearable systems for dismounted soldier operating in urban environment for situation awareness and training.[50]
+1999: NASA X-38 flown using LandForm software video map overlays at Dryden Flight Research Center.[51]
+2000: Rockwell International Science Center demonstrates tetherless wearable augmented reality systems receiving analog video and 3D audio over radio-frequency wireless channels. The systems incorporate outdoor navigation capabilities, with digital horizon silhouettes from a terrain database overlain in real time on the live outdoor scene, allowing visualization of terrain made invisible by clouds and fog.[52][53]
+2004: An outdoor helmet-mounted AR system was demonstrated by Trimble Navigation and the Human Interface Technology Laboratory (HIT lab).[54]
+2006: Outland Research develops AR media player that overlays virtual content onto a users view of the real world synchronously with playing music, thereby providing an immersive AR entertainment experience.[55][56]
+2008: Wikitude AR Travel Guide launches on 20 Oct 2008 with the G1 Android phone.[57]
+2009: ARToolkit was ported to Adobe Flash (FLARToolkit) by Saqoosha, bringing augmented reality to the web browser.[58]
+2012: Launch of Lyteshot, an interactive AR gaming platform that utilizes smart glasses for game data
+2013: Niantic releases "Ingress", an augmented reality mobile game for iOS and Android operating systems (and a predecessor of Pokémon Go).
+2015: Microsoft announced the HoloLens augmented reality headset, which uses various sensors and a processing unit to display virtual imagery over the real world.[59]
+2016: Niantic released Pokémon Go for iOS and Android in July 2016. The game quickly became one of the most popular smartphone applications and in turn spikes the popularity of augmented reality games.[60]
+2018: Magic Leap launched the Magic Leap One augmented reality headset.[61] Leap Motion announced the Project North Star augmented reality headset, and later released it under an open source license.[62][63][64][65]
+2019: Microsoft announced HoloLens 2 with significant improvements in terms of field of view and ergonomics.[66]
+2022: Magic Leap launched the Magic Leap 2 headset.[67]
+2024: Meta Platforms revealed the Orion AR glasses prototype.[68]
+Displays[edit]
+ A man wearing an augmented reality headset
+Augmented reality requires a head-mounted display or a handheld device, which includes a processor, display, sensors, and one or more input devices. Modern mobile computing devices like smartphones and tablet computers contain these elements, which often include a camera and microelectromechanical systems (MEMS) sensors such as an accelerometer, GPS, and solid state compass.[69][70]
+Various technologies can be used to display augmented reality, including optical see-through head mounted displays, monitors, and handheld devices. Two of the display technologies used in augmented reality are diffractive waveguides and reflective waveguides.
+
+Head-mounted displays[edit]
+A head-mounted display (HMD) is a display device worn on the forehead, such as a harness or helmet-mounted. HMDs place images of virtual objects over the user's field of view. Augmented reality HMDs are either optical see-through or video passthrough.[71][72] Modern HMDs often employ sensors for six degrees of freedom monitoring that allow the system to align virtual information to the physical world and adjust accordingly with the user's head movements.[73][74][75] When using AR technology, the HMDs only require relatively small displays. In this situation, liquid crystal on silicon (LCOS) and micro-OLED (organic light-emitting diodes) are commonly used.[76] HMDs can provide VR users with mobile and collaborative experiences.[77] Specific providers, such as uSens and Gestigon, include gesture controls for full virtual immersion.[78][79]
+AR headsets typically have a field of view of about 30 to 50 degrees per eye.[80]
+Near-eye augmented reality devices can be used as portable head-up displays as they can show data, information, and images while the user views the real world. This is basically what a head-up display does; however, practically speaking, augmented reality is expected to include registration and tracking between the superimposed perceptions, sensations, information, data, and images and some portion of the real world.[81]
+
+AR glasses[edit]
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (August 2024)
+AR displays can be rendered on devices resembling eyeglasses. Versions include eyewear that employs cameras to intercept the real world view and re-display its augmented view through the eyepieces[82] and devices in which the AR imagery is projected through or reflected off the surfaces of the eyewear lens pieces.[83][84][85]
+
+Handheld[edit]
+An augmented reality app on a smartphone using GPS and a solid state compass
+A handheld display employs a small display that fits in a user's hand. All handheld AR solutions to date opt for video passthrough. Initially handheld AR employed fiducial markers,[86] and later GPS units and MEMS sensors such as digital compasses and six degrees of freedom accelerometer–gyroscope. Today simultaneous localization and mapping (SLAM) markerless trackers such as PTAM (parallel tracking and mapping) are starting to come into use. Handheld display AR promises to be the first commercial success for AR technologies. The two main advantages of handheld AR are the portable nature of handheld devices and the ubiquitous nature of camera phones. The disadvantages are the physical constraints of the user having to hold the handheld device out in front of them at all times, as well as the distorting effect of classically wide-angled mobile phone cameras when compared to the real world as viewed through the eye.[87]
+
+Contact lenses[edit]
+Contact lenses that display AR imaging are in development. These bionic contact lenses might contain the elements for display embedded into the lens including integrated circuitry, LEDs and an antenna for wireless communication.
+The first contact lens display was patented in 1999 by Steve Mann and was intended to work in combination with AR spectacles, but the project was abandoned,[88][89] then 11 years later in 2010–2011.[90][91][92][93] Another version of contact lenses, in development for the U.S. military, is designed to function with AR spectacles, allowing soldiers to focus on close-to-the-eye AR images on the spectacles and distant real world objects at the same time.[94][95]
+The first publicly unveiled working prototype of an AR contact lens not requiring the use of glasses in conjunction was developed by Mojo Vision and announced and shown off at CES 2020.[96][97][98]
+
+Virtual retinal display[edit]
+A virtual retinal display (VRD) is a type of theoretical display device that was in development at the University of Washington's Human Interface Technology Laboratory under Dr. Thomas A. Furness III.[99] With this technology, a display is scanned directly onto the retina of a viewer's eye. This results in bright images with high resolution and high contrast. The viewer sees what appears to be a conventional display floating in space.[100]
+Several of tests were done to analyze the safety of the VRD.[99] In one test, patients with partial loss of vision—having either macular degeneration (a disease that degenerates the retina) or keratoconus—were selected to view images using the technology. In the macular degeneration group, five out of eight subjects preferred the VRD images to the cathode-ray tube (CRT) or paper images and thought they were better and brighter and were able to see equal or better resolution levels. The Keratoconus patients could all resolve smaller lines in several line tests using the VRD as opposed to their own correction. They also found the VRD images to be easier to view and sharper. As a result of these several tests, virtual retinal display is considered safe technology.
+Virtual retinal display creates images that can be seen in ambient daylight and ambient room light. The VRD is considered a preferred candidate to use in a surgical display due to its combination of high resolution and high contrast and brightness. Additional tests show high potential for VRD to be used as a display technology for patients that have low vision.
+
+Projection mapping[edit]
+Projection mapping augments real-world objects and scenes without the use of special displays such as monitors, head-mounted displays or hand-held devices. Projection mapping makes use of digital projectors to display graphical information onto physical objects. The key difference in projection mapping is that the display is separated from the users of the system. Since the displays are not associated with each user, projection mapping scales naturally up to groups of users, allowing for collocated collaboration between users.
+Examples include shader lamps, mobile projectors, virtual tables, and smart projectors. Shader lamps mimic and augment reality by projecting imagery onto neutral objects. This provides the opportunity to enhance the object's appearance with materials of a simple unit—a projector, camera, and sensor.
+Other applications include table and wall projections. Virtual showcases, which employ beam splitter mirrors together with multiple graphics displays, provide an interactive means of simultaneously engaging with the virtual and the real.
+A projection mapping system can display on any number of surfaces in an indoor setting at once. Projection mapping supports both a graphical visualization and passive haptic sensation for the end users. Users are able to touch physical objects in a process that provides passive haptic sensation.[16][47][101][102]
+
+3D tracking[edit]
+Main article: Positional tracking
+3D tracking is an integral part of augmented reality, as it allows a headset and controllers to be tracked in the user's environment. Tracking is often camera-based, which uses cameras on the device.
+Mobile augmented-reality systems use one or more of the following motion tracking technologies: digital cameras and/or other optical sensors, accelerometers, GPS, gyroscopes, solid state compasses, radio-frequency identification (RFID). These technologies offer varying levels of accuracy and precision. These technologies are implemented in the ARKit API by Apple and ARCore API by Google to allow tracking for their respective mobile device platforms.
+CMOS camera sensors are widely used for camera-based tracking in AR technology.[103]
+
+Camera-based tracking[edit]
+Comparison of fiducial markers used for 3D tracking in augmented reality
+Augmented reality systems must realistically integrate virtual imagery into the real world. The software must derive real world coordinates, independent of camera, and camera images. That process is called image registration, and uses different methods of computer vision, mostly related to video tracking.[104][105] Many computer vision methods of augmented reality are inherited from visual odometry.
+Usually those methods consist of two parts. The first stage is to detect interest points, fiducial markers or optical flow in the camera images. This step can use feature detection methods like corner detection, blob detection, edge detection or thresholding, and other image processing methods.[106][107] The second stage restores a real world coordinate system from the data obtained in the first stage.
+Some methods assume objects with known geometry (or fiducial markers) are present in the scene. In some of those cases the scene 3D structure should be calculated beforehand. If part of the scene is unknown, simultaneous localization and mapping (SLAM) can map relative positions. If no information about scene geometry is available, structure from motion methods like bundle adjustment are used. Mathematical methods used in the second stage include: projective (epipolar) geometry, kalman and particle filters, nonlinear optimization, robust statistics.[citation needed]
+There are two methods of camera-based tracking: marker-based tracking and markerless tracking.[108] Marker-based tracking uses fiducial markers, whereas markerless tracking stores a representation of the real world using visual-inertial odometry (VIO) or simultaneous localization and mapping (SLAM). A piece of paper with some distinct geometries can be used for marker-based tracking. The camera recognizes the geometries by identifying specific points in the drawing. Markerless tracking, also called instant tracking, does not use markers. It uses sensors in mobile devices to accurately detect the real-world environment, such as the locations of walls and points of intersection.[109]
+
+Input devices[edit]
+Techniques include gesture recognition systems that interpret a user's body movements by visual detection or from sensors embedded in a peripheral device such as a wand, stylus, pointer, glove or other body wear.[110][111][112][113] Products which are trying to serve as a controller of AR headsets include Wave by Seebright Inc. and Nimble by Intugine Technologies.
+
+Processing[edit]
+Computers are responsible for graphics and processing 3D tracking data for augmented reality. For camera-based 3D tracking methods, a computer analyzes the sensed visual and other data to synthesize and position virtual objects. With the improvement of technology and computers, augmented reality is going to lead to a drastic change on ones perspective of the real world.[114]
+Computers are improving at a very fast rate, leading to new ways to improve other technology. Computers are the core of augmented reality.[115] The computer receives data from the sensors which determine the relative position of an objects' surface. This translates to an input to the computer which then outputs to the users by adding something that would otherwise not be there. The computer comprises memory and a processor.[116] The computer takes the scanned environment then generates images or a video and puts it on the receiver for the observer to see. The fixed marks on an object's surface are stored in the memory of a computer. The computer also withdraws from its memory to present images realistically to the onlooker.
+
+Software[edit]
+Augmented Reality Markup Language (ARML) is a data standard developed within the Open Geospatial Consortium (OGC),[117] which consists of Extensible Markup Language (XML) grammar to describe the location and appearance of virtual objects in the scene, as well as ECMAScript bindings to allow dynamic access to properties of virtual objects.
+
+To enable rapid development of augmented reality applications, software development applications have emerged, including Lens Studio from Snapchat and Spark AR from Facebook. Augmented reality Software Development Kits (SDKs) have been launched by Apple and Google: Apple's ARKit and Google's ARCore.[118][119]
+According to a 2017 Time article, in about 15 to 20 years it is predicted that augmented reality and virtual reality are going to become the primary method for computer interactions.[120]
+
+Rendering[edit]
+Software that renders onto displays can create a realistic view by using occlusion, which hides parts of virtual objects behind parts of the real world. Having accurate occlusion creates a much more realistic view of virtual objects integrated into the real world.[121]
+
+Design[edit]
+AR systems rely heavily on the immersion of the user. The following lists some considerations for designing augmented reality applications:
+
+Environmental/context design[edit]
+Context Design focuses on the end-user's physical surrounding, spatial space, and accessibility that may play a role when using the AR system. Designers should be aware of the possible physical scenarios the end-user may be in such as:
+
+Public, in which the users use their whole body to interact with the software
+Personal, in which the user uses a smartphone in a public space
+Intimate, in which the user is sitting with a desktop and is not really moving
+Private, in which the user has on a wearable.[122]
+By evaluating each physical scenario, potential safety hazards can be avoided and changes can be made to greater improve the end-user's immersion. UX designers will have to define user journeys for the relevant physical scenarios and define how the interface reacts to each.
+Another aspect of context design involves the design of the system's functionality and its ability to accommodate user preferences.[123][124] While accessibility tools are common in basic application design, some consideration should be made when designing time-limited prompts (to prevent unintentional operations), audio cues and overall engagement time. In some situations, the application's functionality may hinder the user's ability. For example, applications that is used for driving should reduce the amount of user interaction and use audio cues instead.
+
+Interaction design[edit]
+Interaction design in augmented reality technology centers on the user's engagement with the end product to improve the overall user experience and enjoyment. The purpose of interaction design is to avoid alienating or confusing the user by organizing the information presented. Since user interaction relies on the user's input, designers must make system controls easier to understand and accessible. A common technique to improve usability for augmented reality applications is by discovering the frequently accessed areas in the device's touch display and design the application to match those areas of control.[125] It is also important to structure the user journey maps and the flow of information presented which reduce the system's overall cognitive load and greatly improves the learning curve of the application.[126]
+In interaction design, it is important for developers to utilize augmented reality technology that complement the system's function or purpose.[127] For instance, the utilization of exciting AR filters and the design of the unique sharing platform in Snapchat enables users to augment their in-app social interactions. In other applications that require users to understand the focus and intent, designers can employ a reticle or raycast from the device.[123]
+
+Visual design[edit]
+In some augmented reality applications that use a 2D device as an interactive surface, the 2D control environment does not translate well in 3D space, which can make users hesitant to explore their surroundings. To solve this issue, designers should apply visual cues to assist and encourage users to explore their surroundings.[122]
+It is important to note the two main objects in AR when developing VR applications: 3D volumetric objects that are manipulated and realistically interact with light and shadow; and animated media imagery such as images and videos which are mostly traditional 2D media rendered in a new context for augmented reality.[122] When virtual objects are projected onto a real environment, it is challenging for augmented reality application designers to ensure a perfectly seamless integration relative to the real-world environment, especially with 2D objects. As such, designers can add weight to objects, use depths maps, and choose different material properties that highlight the object's presence in the real world. Another visual design that can be applied is using different lighting techniques or casting shadows to improve overall depth judgment. For instance, a common lighting technique is simply placing a light source overhead at the 12 o’clock position, to create shadows on virtual objects.[122]
+
+Uses[edit]
+Augmented reality has been explored for many uses, including gaming, medicine, and entertainment. It has also been explored for education and business.[128] Some of the earliest cited examples include augmented reality used to support surgery by providing virtual overlays to guide medical practitioners, to AR content for astronomy and welding.[6][129] Example application areas described below include archaeology, architecture, commerce and education.
+
+Education and training[edit]
+In educational settings, text, graphics, video, and audio may be superimposed into a student's real-time environment.[130][131][132] Simulation-based learning includes VR and AR based training and interactive, experiential learning. There are many potential use cases in both educational settings and professional training settings. In education, AR has been used to simulate historical battles, providing an unparalleled immersive experience for students and potentially enhanced learning experiences.[133] In addition, AR has shown effectiveness in university education for health science and medical students within disciplines that benefit from 3D representations of models, such as physiology and anatomy.[134][135]
+The 2015 Virtual, Augmented and Mixed Reality: 7th International Conference mentioned Google Glass as an example of augmented reality that can replace the physical classroom.[136] Content may be accessed by scanning or viewing an image with a mobile device or by using markerless AR techniques.[137][138][139]
+In 2017, a local government in Australia, used augmented and mixed reality technology to transform urban planning and community engagement. By integrating immersive 3D visualizations with real-time data, allowing stakeholders and citizens to interact with proposed developments in a more intuitive and dynamic way.[140]
+In higher education, Construct3D, a Studierstube system, allows students to learn mechanical engineering concepts, math or geometry.[141] Chemistry AR apps allow students to visualize and interact with the spatial structure of a molecule using a marker object held in the hand.[142] Others have used HP Reveal, a free app, to create AR notecards for studying organic chemistry mechanisms or to create virtual demonstrations of how to use laboratory instrumentation.[143]
+Anatomy students can visualize different systems of the human body in three dimensions.[144] Using AR as a tool to learn anatomical structures has been shown to increase the learner knowledge and provide intrinsic benefits, such as increased engagement and learner immersion.[145][146]
+AR has been used to develop different safety training applications for several types of disasters, such as, earthquakes and building fire, and health and safety tasks.[147][148][149] Further, several AR solutions have been proposed and tested to navigate building evacuees towards safe places in both large scale and small scale disasters.[150][151] AR applications can have several overlapping with many other digital technologies, such as BIM, internet of things and artificial intelligence, to generate smarter safety training and navigation solutions.[152]
+
+Visual art[edit]
+AR applied in the visual arts allows objects or places to trigger artistic multidimensional experiences and interpretations of reality.
+The Australian new media artist Jeffrey Shaw pioneered Augmented Reality in three artworks: Viewpoint in 1975, Virtual Sculptures in 1987 and The Golden Calf in 1993.[153][154] He continues to explore new permutations of AR in numerous recent works.
+Manifest.AR was an international artists' collective founded in 2010 that specialized in augmented reality (AR) art and interventions. The collective typically created site-specific AR installations that could be viewed through mobile devices using custom-developed applications. Their work often placed virtual artworks in spaces without institutional permission. The collective gained prominence in 2010 when they staged an unauthorized virtual exhibition at the Museum of Modern Art (MoMA) in New York City, overlaying their digital artworks throughout the museum's spaces using AR technology. The collective's unauthorized AR intervention at MoMA involved placing virtual artworks throughout the museum's spaces, viewable through mobile devices. The group published their "AR Art Manifesto" in 2011, which outlined their artistic philosophy and approach to augmented reality as a medium. The manifesto emphasized the democratic potential of AR technology and its ability to challenge traditional institutional control over public space and art display.[155] Manifest.AR has been influential in: Pioneering artistic applications of AR technology; Developing new forms of institutional critique; Expanding concepts of public art and digital space; and Influencing subsequent generations of new media artists. Their work has been documented and discussed in various publications about digital art and new media, and has influenced contemporary discussions about virtual and augmented reality in artistic practice.[156]
+Augmented reality can aid in the progression of visual art in museums by allowing museum visitors to view artwork in galleries in a multidimensional way through their phone screens.[157] The Museum of Modern Art in New York has created an exhibit in their art museum showcasing AR features that viewers can see using an app on their smartphone.[158] The museum has developed their personal app, called MoMAR Gallery, that museum guests can download and use in the augmented reality specialized gallery in order to view the museum's paintings in a different way.[159] This allows individuals to see hidden aspects and information about the paintings, and to be able to have an interactive technological experience with artwork as well.
+AR technology aided the development of eye tracking technology to translate a disabled person's eye movements into drawings on a screen.[160]
+
+Further information on the 2004 augmented reality outdoor art project: LifeClipper
+Industrial manufacturing[edit]
+AR is used to substitute paper manuals with digital instructions which are overlaid on the manufacturing operator's field of view, reducing mental effort required to operate.[161] AR makes machine maintenance efficient because it gives operators direct access to a machine's maintenance history.[162] Virtual manuals help manufacturers adapt to rapidly-changing product designs, as digital instructions are more easily edited and distributed compared to physical manuals.[161]
+Digital instructions increase operator safety by removing the need for operators to look at a screen or manual away from the working area, which can be hazardous. Instead, the instructions are overlaid on the working area.[163][164] The use of AR can increase operators' feeling of safety when working near high-load industrial machinery by giving operators additional information on a machine's status and safety functions, as well as hazardous areas of the workspace.[163][165]
+
+Video games[edit]
+"Augmented reality game" redirects here and is not to be confused with alternate reality game.
+"AR games" redirects here. For the Nintendo 3DS game, see AR Games.
+See also: List of augmented reality video games
+ An AR mobile game using a trigger image as fiducial marker
+The gaming industry embraced AR technology. A number of games were developed for prepared indoor environments, such as AR air hockey, Titans of Space, collaborative combat against virtual enemies, and AR-enhanced pool table games.[166][167][168]
+The 2004 British game show Bamzooki called upon child contestants to create virtual "Zooks" and watch them compete in a variety of challenges.[169] The show used mixed reality to bring the Zooks to life. The television show ran for four seasons, ending in 2010.[169]
+The 2003 game show FightBox also called upon contestants to create competitive characters and used mixed reality to allow them to interact.[170] Unlike Bamzoomi's generally non-violent challenges, the goal of FightBox was for new contestants to create the strongest fighter to win the competition.[170]
+In 2009, researchers presented to the International Symposium on Mixed and Augmented Reality (ISMAR) their social product called "BlogWall", which consisted of a projected screen on a wall.[171] Users could post short text clips or images on the wall and play simple games such as Pong.[171] The BlogWall also featured a poetry mode where it would rearrange the messages it received to form a poem and a polling mode where users could ask others to answer their polls.[171]
+In 2010, Ogmento became the first AR gaming startup to receive venture capital funding. The company went on to produce early location-based AR games for titles like Paranormal Activity: Sanctuary, NBA: King of the Court, and Halo: King of the Hill. Ogmento's computer vision technology was eventually repackaged and sold to Apple, became a major contribution to ARKit.[172]
+Augmented reality allows video game players to experience digital game play in a real-world environment. Niantic released the augmented reality mobile game Pokémon Go.[173]
+Mario Kart Live: Home Circuit is a mixed reality racing game for the Nintendo Switch that was released in October 2020.[16a-New] The game allows players to use their home as a race track[174] Within the first week of release, 73,918 copies were sold in Japan, making it the country's best selling game of the week.[175]
+Other research has examined the potential for mixed reality to be applied to theatre, film, and theme parks.[176]
+
+Industrial design[edit]
+Main article: Industrial augmented reality
+AR allows industrial designers to experience a product's design and operation before completion. Volkswagen has used AR for comparing calculated and actual crash test imagery.[177] AR has been used to visualize and modify car body structure and engine layout. It has also been used to compare digital mock-ups with physical mock-ups to find discrepancies between them.[178][179]
+
+Architecture[edit]
+See also: Virtual home design software
+AR can aid in visualizing building projects. Computer-generated images of a structure can be superimposed onto a real-life local view of a property before the physical building is constructed there; this was demonstrated publicly by Trimble Navigation in 2004. AR can also be employed within an architect's workspace, rendering animated 3D visualizations of their 2D drawings. Architecture sight-seeing can be enhanced with AR applications, allowing users viewing a building's exterior to virtually see through its walls, viewing its interior objects and layout.[180][181][54]
+With continual improvements to GPS accuracy, businesses are able to use augmented reality to visualize georeferenced models of construction sites, underground structures, cables and pipes using mobile devices.[182] Augmented reality is applied to present new projects, to solve on-site construction challenges, and to enhance promotional materials.[183] Examples include the Daqri Smart Helmet, an Android-powered hard hat used to create augmented reality for the industrial worker, including visual instructions, real-time alerts, and 3D mapping.
+Following the Christchurch earthquake, the University of Canterbury released CityViewAR,[184] which enabled city planners and engineers to visualize buildings that had been destroyed.[185] This not only provided planners with tools to reference the previous cityscape, but it also served as a reminder of the magnitude of the resulting devastation, as entire buildings had been demolished.
+
+Archaeology[edit]
+AR has been used to aid archaeological research. By augmenting archaeological features onto the modern landscape, AR allows archaeologists to formulate possible site configurations from extant structures.[186] Computer generated models of ruins, buildings, landscapes or even ancient people have been recycled into early archaeological AR applications.[187][188][189] For example, implementing a system like VITA (Visual Interaction Tool for Archaeology) will allow users to imagine and investigate instant excavation results without leaving their home. Each user can collaborate by mutually "navigating, searching, and viewing data". Hrvoje Benko, a researcher in the computer science department at Columbia University, points out that these particular systems and others like them can provide "3D panoramic images and 3D models of the site itself at different excavation stages" all the while organizing much of the data in a collaborative way that is easy to use. Collaborative AR systems supply multimodal interactions that combine the real world with virtual images of both environments.[190]
+
+Commerce[edit]
+Main article: Commercial augmented reality
+AR is used to integrate print and video marketing. Printed marketing material can be designed with certain "trigger" images that, when scanned by an AR-enabled device using image recognition, activate a video version of the promotional material. A major difference between augmented reality and straightforward image recognition is that one can overlay multiple media at the same time in the view screen, such as social media share buttons, the in-page video even audio and 3D objects. Traditional print-only publications are using augmented reality to connect different types of media.[191][192][193][194][195]
+AR can enhance product previews such as allowing a customer to view what's inside a product's packaging without opening it.[196] AR can also be used as an aid in selecting products from a catalog or through a kiosk. Scanned images of products can activate views of additional content such as customization options and additional images of the product in its use.[197]
+In 2018, Apple announced Universal Scene Description (USDZ) AR file support for iPhones and iPads with iOS 12. Apple has created an AR QuickLook Gallery that allows people to experience augmented reality through their own Apple device.[198]
+In 2018, Shopify, the Canadian e-commerce company, announced AR Quick Look integration. Their merchants will be able to upload 3D models of their products and their users will be able to tap on the models inside the Safari browser on their iOS devices to view them in their real-world environments.[199]
+In 2018, Twinkl released a free AR classroom application. Pupils can see how York looked over 1,900 years ago.[200] Twinkl launched the first ever multi-player AR game, Little Red[201] and has over 100 free AR educational models.[202]
+Augmented reality is becoming more frequently used for online advertising. Retailers offer the ability to upload a picture on their website and "try on" various clothes which are overlaid on the picture. Even further, companies such as Bodymetrics install dressing booths in department stores that offer full-body scanning. These booths render a 3D model of the user, allowing the consumers to view different outfits on themselves without the need of physically changing clothes.[203] For example, JC Penney and Bloomingdale's use "virtual dressing rooms" that allow customers to see themselves in clothes without trying them on.[204] Another store that uses AR to market clothing to its customers is Neiman Marcus.[205] Neiman Marcus offers consumers the ability to see their outfits in a 360-degree view with their "memory mirror".[205] Makeup stores like L'Oreal, Sephora, Charlotte Tilbury, and Rimmel also have apps that utilize AR.[206] These apps allow consumers to see how the makeup will look on them.[206] According to Greg Jones, director of AR and VR at Google, augmented reality is going to "reconnect physical and digital retail".[206]
+AR technology is also used by furniture retailers such as IKEA, Houzz, and Wayfair.[206][204] These retailers offer apps that allow consumers to view their products in their home prior to purchasing anything.[206][207]
+In 2017, Ikea announced the Ikea Place app. It contains a catalogue of over 2,000 products—nearly the company's full collection of sofas, armchairs, coffee tables, and storage units which one can place anywhere in a room with their phone.[208] The app made it possible to have 3D and true-to-scale models of furniture in the customer's living space. IKEA realized that their customers are not shopping in stores as often or making direct purchases anymore.[209][210] Shopify's acquisition of Primer, an AR app aims to push small and medium-sized sellers towards interactive AR shopping with easy to use AR integration and user experience for both merchants and consumers. AR helps the retail industry reduce operating costs. Merchants upload product information to the AR system, and consumers can use mobile terminals to search and generate 3D maps.[211]
+
+Literature[edit]
+ An example of an AR code containing a QR code
+The first description of AR as it is known today was in Virtual Light, the 1994 novel by William Gibson. 
+
+Fitness[edit]
+AR hardware and software for use in fitness includes smart glasses made for biking and running, with performance analytics and map navigation projected onto the user's field of vision,[212] and boxing, martial arts, and tennis, where users remain aware of their physical environment for safety.[213] Fitness-related games and software include Pokémon Go and Jurassic World Alive.[214]
+
+Emergency management/search and rescue[edit]
+Augmented reality systems are used in public safety situations, from super storms to suspects at large.
+As early as 2009, two articles from Emergency Management discussed AR technology for emergency management. The first was "Augmented Reality—Emerging Technology for Emergency Management", by Gerald Baron.[215] According to Adam Crow,: "Technologies like augmented reality (ex: Google Glass) and the growing expectation of the public will continue to force professional emergency managers to radically shift when, where, and how technology is deployed before, during, and after disasters."[216]
+Another early example was a search aircraft looking for a lost hiker in rugged mountain terrain. Augmented reality systems provided aerial camera operators with a geographic awareness of forest road names and locations blended with the camera video. The camera operator was better able to search for the hiker knowing the geographic context of the camera image. Once located, the operator could more efficiently direct rescuers to the hiker's location because the geographic position and reference landmarks were clearly labeled.[217]
+
+Social interaction[edit]
+AR can be used to facilitate social interaction, however, use of an AR headset can inhibit the quality of an interaction between two people if one isn't wearing one if the headset becomes a distraction.[218]
+Augmented reality also gives users the ability to practice different forms of social interactions with other people in a safe, risk-free environment. Hannes Kauffman, Associate Professor for virtual reality at TU Vienna, says: "In collaborative augmented reality multiple users may access a shared space populated by virtual objects, while remaining grounded in the real world. This technique is particularly powerful for educational purposes when users are collocated and can use natural means of communication (speech, gestures, etc.), but can also be mixed successfully with immersive VR or remote collaboration."[This quote needs a citation] Hannes cites education as a potential use of this technology.
+
+Healthcare planning, practice and education[edit]
+One of the first applications of augmented reality was in healthcare, particularly to support the planning, practice, and training of surgical procedures. As far back as 1992, enhancing human performance during surgery was a formally stated objective when building the first augmented reality systems at U.S. Air Force laboratories.[1] AR provides surgeons with patient monitoring data in the style of a fighter pilot's heads-up display, and allows patient imaging records, including functional videos, to be accessed and overlaid. Examples include a virtual X-ray view based on prior tomography or on real-time images from ultrasound and confocal microscopy probes,[219] visualizing the position of a tumor in the video of an endoscope,[220] or radiation exposure risks from X-ray imaging devices.[221][222] AR can enhance viewing a fetus inside a mother's womb.[223] Siemens, Karl Storz and IRCAD have developed a system for laparoscopic liver surgery that uses AR to view sub-surface tumors and vessels.[224]
+AR has been used for cockroach phobia treatment[225] and to reduce the fear of spiders.[226] Patients wearing augmented reality glasses can be reminded to take medications.[227] Augmented reality can be very helpful in the medical field.[228] It could be used to provide crucial information to a doctor or surgeon without having them take their eyes off the patient.
+On 30 April 2015, Microsoft announced the Microsoft HoloLens, their first attempt at augmented reality. The HoloLens is capable of displaying images for image-guided surgery.[229] As augmented reality advances, it finds increasing applications in healthcare. Augmented reality and similar computer based-utilities are being used to train medical professionals.[230][231] In healthcare, AR can be used to provide guidance during diagnostic and therapeutic interventions e.g. during surgery. Magee et al.,[232] for instance, describe the use of augmented reality for medical training in simulating ultrasound-guided needle placement. Recently, augmented reality began seeing adoption in neurosurgery, a field that requires heavy amounts of imaging before procedures.[233]
+Smartglasses can be incorporated into the operating room to aide in surgical procedures; possibly displaying patient data conveniently while overlaying precise visual guides for the surgeon.[234][235] Augmented reality headsets like the Microsoft HoloLens have been theorized to allow for efficient sharing of information between doctors, in addition to providing a platform for enhanced training.[236][235] This can, in some situations (i.e. patient infected with contagious disease), improve doctor safety and reduce PPE use.[237] While mixed reality has lots of potential for enhancing healthcare, it does have some drawbacks too.[235] The technology may never fully integrate into scenarios when a patient is present, as there are ethical concerns surrounding the doctor not being able to see the patient.[235] Mixed reality is also useful for healthcare education. For example, according to a 2022 report from the World Economic Forum, 85% of first-year medical students at Case Western Reserve University reported that mixed reality for teaching anatomy was "equivalent" or "better" than the in-person class.[238]
+
+Spatial immersion and interaction[edit]
+Augmented reality applications, running on handheld devices utilized as virtual reality headsets, can also digitize human presence in space and provide a computer generated model of them, in a virtual space where they can interact and perform various actions. Such capabilities are demonstrated by Project Anywhere, developed by a postgraduate student at ETH Zurich, which was dubbed as an "out-of-body experience".[239][240][241]
+
+Flight training[edit]
+Building on decades of perceptual-motor research in experimental psychology, researchers at the Aviation Research Laboratory of the University of Illinois at Urbana–Champaign used augmented reality in the form of a flight path in the sky to teach flight students how to land an airplane using a flight simulator. An adaptive augmented schedule in which students were shown the augmentation only when they departed from the flight path proved to be a more effective training intervention than a constant schedule.[34][242] Flight students taught to land in the simulator with the adaptive augmentation learned to land a light aircraft more quickly than students with the same amount of landing training in the simulator but with constant augmentation or without any augmentation.[34]
+
+Military[edit]
+Augmented reality system for soldier ARC4 (U.S. Army 2017)
+The first fully immersive system was the Virtual Fixtures platform, which was developed in 1992 by Louis Rosenberg at the Armstrong Laboratories of the United States Air Force.[243] It enabled human users to control robots in real-world environments that included real physical objects and 3D virtual overlays ("fixtures") that were added enhance human performance of manipulation tasks. Published studies showed that by introducing virtual objects into the real world, significant performance increases could be achieved by human operators.[243][244][245]
+An interesting early application of AR occurred when Rockwell International created video map overlays of satellite and orbital debris tracks to aid in space observations at Air Force Maui Optical System. In their 1993 paper "Debris Correlation Using the Rockwell WorldView System" the authors describe the use of map overlays applied to video from space surveillance telescopes. The map overlays indicated the trajectories of various objects in geographic coordinates. This allowed telescope operators to identify satellites, and also to identify and catalog potentially dangerous space debris.[41]
+Starting in 2003 the US Army integrated the SmartCam3D augmented reality system into the Shadow Unmanned Aerial System to aid sensor operators using telescopic cameras to locate people or points of interest. The system combined fixed geographic information including street names, points of interest, airports, and railroads with live video from the camera system. The system offered a "picture in picture" mode that allows it to show a synthetic view of the area surrounding the camera's field of view. This helps solve a problem in which the field of view is so narrow that it excludes important context, as if "looking through a soda straw". The system displays real-time friend/foe/neutral location markers blended with live video, providing the operator with improved situational awareness.
+Combat reality can be simulated and represented using complex, layered data and visual aides, most of which are head-mounted displays (HMD), which encompass any display technology that can be worn on the user's head.[246] Military training solutions are often built on commercial off-the-shelf (COTS) technologies, such as Improbable's synthetic environment platform, Virtual Battlespace 3 and VirTra, with the latter two platforms used by the United States Army. As of 2018[update], VirTra is being used by both civilian and military law enforcement to train personnel in a variety of scenarios, including active shooter, domestic violence, and military traffic stops.[247][248] 
+In 2017, the U.S. Army was developing the Synthetic Training Environment (STE), a collection of technologies for training purposes that was expected to include mixed reality. As of 2018[update], STE was still in development without a projected completion date. Some recorded goals of STE included enhancing realism and increasing simulation training capabilities and STE availability to other systems.[249]
+It was claimed that mixed-reality environments like STE could reduce training costs,[250][251] such as reducing the amount of ammunition expended during training.[252] In 2018, it was reported that STE would include representation of any part of the world's terrain for training purposes.[253] STE would offer a variety of training opportunities for squad brigade and combat teams, including Stryker, armory, and infantry teams.[254]
+Researchers at USAF Research Lab (Calhoun, Draper et al.) found an approximately two-fold increase in the speed at which UAV sensor operators found points of interest using this technology.[255] This ability to maintain geographic awareness quantitatively enhances mission efficiency. The system is in use on the US Army RQ-7 Shadow and the MQ-1C Gray Eagle Unmanned Aerial Systems.
+In combat, AR can serve as a networked communication system that renders useful battlefield data onto a soldier's goggles in real time. From the soldier's viewpoint, people and various objects can be marked with special indicators to warn of potential dangers. Virtual maps and 360° view camera imaging can also be rendered to aid a soldier's navigation and battlefield perspective, and this can be transmitted to military leaders at a remote command center.[256] The combination of 360° view cameras visualization and AR can be used on board combat vehicles and tanks as circular review system.
+AR can be an effective tool for virtually mapping out the 3D topologies of munition storages in the terrain, with the choice of the munitions combination in stacks and distances between them with a visualization of risk areas.[257][unreliable source?] The scope of AR applications also includes visualization of data from embedded munitions monitoring sensors.[257]
+
+Navigation[edit]
+See also: Automotive navigation system
+LandForm video map overlay marking runways, road, and buildings during 1999 helicopter flight test
+The NASA X-38 was flown using a hybrid synthetic vision system that overlaid map data on video to provide enhanced navigation for the spacecraft during flight tests from 1998 to 2002. It used the LandForm software which was useful for times of limited visibility, including an instance when the video camera window frosted over leaving astronauts to rely on the map overlays.[48] The LandForm software was also test flown at the Army Yuma Proving Ground in 1999. In the photo at right one can see the map markers indicating runways, air traffic control tower, taxiways, and hangars overlaid on the video.[49]
+AR can augment the effectiveness of navigation devices. Information can be displayed on an automobile's windshield indicating destination directions and meter, weather, terrain, road conditions and traffic information as well as alerts to potential hazards in their path.[258][259][260] Since 2012, a Swiss-based company WayRay has been developing holographic AR navigation systems that use holographic optical elements for projecting all route-related information including directions, important notifications, and points of interest right into the drivers' line of sight and far ahead of the vehicle.[261][262] Aboard maritime vessels, AR can allow bridge watch-standers to continuously monitor important information such as a ship's heading and speed while moving throughout the bridge or performing other tasks.[263]
+
+Workplace[edit]
+In a research project, AR was used to facilitate collaboration among distributed team members via conferences with local and virtual participants. AR tasks included brainstorming and discussion meetings utilizing common visualization via touch screen tables, interactive digital whiteboards, shared design spaces and distributed control rooms.[264][265][266]
+In industrial environments, augmented reality is proving to have a substantial impact with use cases emerging across all aspect of the product lifecycle, starting from product design and new product introduction (NPI) to manufacturing to service and maintenance, to material handling and distribution. For example, labels were displayed on parts of a system to clarify operating instructions for a mechanic performing maintenance on a system.[267][268] Assembly lines benefited from the usage of AR. In addition to Boeing, BMW and Volkswagen were known for incorporating this technology into assembly lines for monitoring process improvements.[269][270][271] Big machines are difficult to maintain because of their multiple layers or structures. AR permits people to look through the machine as if with an x-ray, pointing them to the problem right away.[272]
+As AR technology has progressed, the impact of AR in enterprise has grown. In the Harvard Business Review, Magid Abraham and Marco Annunziata discussed how AR devices are now being used to "boost workers' productivity on an array of tasks the first time they're used, even without prior training".[273] They contend that "these technologies increase productivity by making workers more skilled and efficient, and thus have the potential to yield both more economic growth and better jobs".[273]
+Machine maintenance can also be executed with the help of mixed reality. Larger companies with multiple manufacturing locations and a lot of machinery can use mixed reality to educate and instruct their employees. The machines need regular checkups and have to be adjusted every now and then. These adjustments are mostly done by humans, so employees need to be informed about needed adjustments. By using mixed reality, employees from multiple locations can wear headsets and receive live instructions about the changes. Instructors can operate the representation that every employee sees, and can glide through the production area, zooming in to technical details and explaining every change needed. Employees completing a five-minute training session with such a mixed-reality program have been shown to attain the same learning results as reading a 50-page training manual.[274] An extension to this environment is the incorporation of live data from operating machinery into the virtual collaborative space and then associated with three dimensional virtual models of the equipment. This enables training and execution of maintenance, operational and safety work processes, which would otherwise be difficult in a live setting, while making use of expertise, no matter their physical location.[275]
+
+Product content management[edit]
+Product content management before the advent of augmented reality consisted largely of brochures and little customer-product engagement outside of this 2-dimensional realm.[276] With augmented reality technology improvements, new forms of interactive product content management has emerged. Most notably, 3-dimensional digital renderings of normally 2-dimensional products have increased reachability and effectiveness of consumer-product interaction.[277]
+Augmented reality allows sellers to show the customers how a certain commodity will suit their demands. A seller may demonstrate how a certain product will fit into the homes of the buyer. The buyer with the assistance of the VR can virtually pick the item, spin around and place to their desired points. This improves the buyer's confidence of making a purchase and reduces the number of returns.[278] Architectural firms can allow customers to virtually visit their desired homes.
+
+Functional mockup[edit]
+Augmented reality can be used to build mockups that combine physical and digital elements. With the use of simultaneous localization and mapping (SLAM), mockups can interact with the physical world to gain control of more realistic sensory experiences[279] like object permanence, which would normally be infeasible or extremely difficult to track and analyze without the use of both digital and physical aides.[280]
+
+Broadcast and live events[edit]
+Weather visualizations were the first application of augmented reality in television. It has now become common in weather casting to display full motion video of images captured in real-time from multiple cameras and other imaging devices. Coupled with 3D graphics symbols and mapped to a common virtual geospatial model, these animated visualizations constitute the first true application of AR to TV.
+AR has become common in sports telecasting. Sports and entertainment venues are provided with see-through and overlay augmentation through tracked camera feeds for enhanced viewing by the audience. Examples include the yellow "first down" line seen in television broadcasts of American football games showing the line the offensive team must cross to receive a first down. AR is also used in association with football and other sporting events to show commercial advertisements overlaid onto the view of the playing area. Sections of rugby fields and cricket pitches also display sponsored images. Swimming telecasts often add a line across the lanes to indicate the position of the current record holder as a race proceeds to allow viewers to compare the current race to the best performance. Other examples include hockey puck tracking and annotations of racing car performance[281] and snooker ball trajectories.[104][282]
+AR has been used to enhance concert and theater performances. For example, artists allow listeners to augment their listening experience by adding their performance to that of other bands/groups of users.[283][284][285]
+
+Tourism and sightseeing[edit]
+Travelers may use AR to access real-time informational displays regarding a location, its features, and comments or content provided by previous visitors. Advanced AR applications include simulations of historical events, places, and objects rendered into the landscape.[286][287][288]
+AR applications linked to geographic locations present location information by audio, announcing features of interest at a particular site as they become visible to the user.[289][290][291]
+
+Translation[edit]
+AR applications such as Word Lens can interpret the foreign text on signs and menus and, in a user's augmented view, re-display the text in the user's language. Spoken words of a foreign language can be translated and displayed in a user's view as printed subtitles.[292][293][294]
+
+Music[edit]
+It has been suggested that augmented reality may be used in new methods of music production, mixing, control and visualization.[295][296][297][298]
+
+Human-in-the-loop operation of robots[edit]
+Recent advances in mixed-reality technologies have renewed interest in alternative modes of communication for human-robot interaction.[299] Human operators wearing augmented reality headsets such as HoloLens can interact with (control and monitor) e.g. robots and lifting machines[300] on site in a digital factory setup. This use case typically requires real-time data communication between a mixed reality interface with the machine / process / system,  which could be enabled by incorporating digital twin technology.[300]
+
+Apps[edit]
+Snapchat users have access to augmented reality features. In September 2017, Snapchat announced a feature called "Sky Filters" that will be available on its app. This new feature makes use of augmented reality to alter the look of a picture taken of the sky, much like how users can apply the app's filters to other pictures. Users can choose from sky filters such as starry night, stormy clouds, beautiful sunsets, and rainbow.[301]
+Google launched an augmented reality feature for Google Maps on Pixel phones that identifies users' location and places signs and arrows on the device screen to show a user navigation directions.[302]
+
+Concerns[edit]
+Reality modifications[edit]
+In a paper titled "Death by Pokémon GO", researchers at Purdue University's Krannert School of Management claim the game caused "a disproportionate increase in vehicular crashes and associated vehicular damage, personal injuries, and fatalities in the vicinity of locations, called PokéStops, where users can play the game while driving."[303] Using data from one municipality, the paper extrapolates what that might mean nationwide and concluded "the increase in crashes attributable to the introduction of Pokémon GO is 145,632 with an associated increase in the number of injuries of 29,370 and an associated increase in the number of fatalities of 256 over the period of 6 July 2016, through 30 November 2016." The authors extrapolated the cost of those crashes and fatalities at between $2bn and $7.3 billion for the same period. Furthermore, more than one in three surveyed advanced Internet users would like to edit out disturbing elements around them, such as garbage or graffiti.[304] They would like to even modify their surroundings by erasing street signs, billboard ads, and uninteresting shopping windows. Consumers want to use augmented reality glasses to change their surroundings into something that reflects their own personal opinions. Around two in five want to change the way their surroundings look and even how people appear to them. [citation needed]
+
+Privacy concerns[edit]
+Augmented reality devices that use cameras for 3D tracking or video passthrough depend on the ability of the device to record and analyze the environment in real time. Because of this, there are potential legal concerns over privacy.
+In late 2024, Meta's collaboration with Ray-Ban on smart glasses faced heightened scrutiny due to significant privacy concerns. A notable incident involved two Harvard students who developed a program named I-XRAY, which utilized the glasses' camera in conjunction with facial recognition software to identify individuals in real-time.[305]
+According to recent studies, users are especially concerned that augmented reality smart glasses might compromise the privacy of others, potentially causing peers to become uncomfortable or less open during interactions.[306]
+While the First Amendment to the United States Constitution allows for such recording in the name of public interest, the constant recording of an AR device makes it difficult to do so without also recording outside of the public domain. Legal complications would be found in areas where a right to a certain amount of privacy is expected or where copyrighted media are displayed.
+In terms of individual privacy, there exists the ease of access to information that one should not readily possess about a given person. This is accomplished through facial recognition technology. Assuming that AR automatically passes information about persons that the user sees, there could be anything seen from social media, criminal record, and marital status.[307]
+
+Notable researchers[edit]
+Ronald Azuma is a scientist and author of works on AR.
+Jeri Ellsworth headed a research effort for Valve on augmented reality (AR), later taking that research to her own start-up CastAR. The company, founded in 2013, eventually shuttered. Later, she created another start-up based on the same technology called Tilt Five; another AR start-up formed by her with the purpose of creating a device for digital board games.[308]
+Steve Mann formulated an earlier concept of mediated reality in the 1970s and 1980s, using cameras, processors, and display systems to modify visual reality to help people see better (dynamic range management), building computerized welding helmets, as well as "augmediated reality" vision systems for use in everyday life. He is also an adviser to Meta.[309]
+Dieter Schmalstieg and Daniel Wagner developed a marker tracking systems for mobile phones and PDAs in 2009.[310]
+Ivan Sutherland invented the first VR head-mounted display at Harvard University.
+See also[edit]
+
+ARTag – Fiducial marker system
+Augmented reality-based testing – type of testingPages displaying wikidata descriptions as a fallback
+WebAR – Web technology
+Automotive head-up display – Advanced driver assistance system
+Bionic contact lens – Proposed device to display information
+Computer-mediated reality – Ability to manipulate one's perception of reality through the use of a computer
+Cyborg – Being with both organic and biomechatronic body parts
+Holography – Recording to reproduce a three-dimensional light field
+List of augmented reality software
+Location-based service – General class of computer program-level services that use location data to control features
+Optical head-mounted display – Type of wearable devicePages displaying short descriptions of redirect targets
+Simulated reality – Concept of a false version of reality
+Visuo-haptic mixed reality
+Wearable computer – Small computing device worn on the body
+
+References[edit]
+
+
+^ a b c d Rosenberg, Louis B. (1992). "The Use of Virtual Fixtures as Perceptual Overlays to Enhance Operator Performance in Remote Environments". DTIC. Archived from the original on 10 July 2019.
+
+^ Steuer,"Defining virtual reality: Dimensions Determining Telepresence". Archived from the original on 17 July 2022. Retrieved 27 November 2018., Department of Communication, Stanford University. 15 October 1993.
+
+^ Introducing Virtual Environments Archived 21 April 2016 at the Wayback Machine National Center for Supercomputing Applications, University of Illinois.
+
+^ Cipresso, Pietro; Giglioli, Irene Alice Chicchi; Raya, iz; Riva, Giuseppe (7 December 2011). "The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature". Frontiers in Psychology. 9: 2086. doi:10.3389/fpsyg.2018.02086. PMC 6232426. PMID 30459681.
+
+^ Rosenberg, L.B. (1993). "Virtual fixtures: Perceptual tools for telerobotic manipulation". Proceedings of IEEE virtual reality Annual International Symposium. pp. 76–82. doi:10.1109/VRAIS.1993.380795. ISBN 0-7803-1363-1. S2CID 9856738.
+
+^ a b Dupzyk, Kevin (6 September 2016). "I Saw the Future Through Microsoft's Hololens". Popular Mechanics.
+
+^ Arai, Kohei, ed. (2022), "Augmented Reality: Reflections at Thirty Years", Proceedings of the Future Technologies Conference (FTC) 2021, Volume 1, Lecture Notes in Networks and Systems, vol. 358, Cham: Springer International Publishing, pp. 1–11, doi:10.1007/978-3-030-89906-6_1, ISBN 978-3-030-89905-9, S2CID 239881216
+
+^ Dargan, Shaveta; Bansal, Shally; Mittal, Ajay; Kumar, Krishan (2023). "Augmented Reality: A Comprehensive Review". Archives of Computational Methods in Engineering. 30 (2): 1057–1080. doi:10.1007/s11831-022-09831-7. Retrieved 27 February 2024.
+
+^ "Phenomenal Augmented Reality, IEEE Consumer Electronics, Volume 4, No. 4, October 2015, cover+pp92-97" (PDF).
+
+^ Time-frequency perspectives, with applications, in Advances in Machine Vision, Strategies and Applications, World Scientific Series in Computer Science: Volume 32, C Archibald and Emil Petriu, Cover + pp 99–128, 1992.
+
+^ Mann, Steve; Feiner, Steve; Harner, Soren; Ali, Mir Adnan; Janzen, Ryan; Hansen, Jayse; Baldassi, Stefano (15 January 2015). "Wearable Computing, 3D Aug* Reality, Photographic/Videographic Gesture Sensing, and Veillance". Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction - TEI '14. ACM. pp. 497–500. doi:10.1145/2677199.2683590. ISBN 9781450333054. S2CID 12247969.
+
+^ Wu, Hsin-Kai; Lee, Silvia Wen-Yu; Chang, Hsin-Yi; Liang, Jyh-Chong (March 2013). "Current status, opportunities and challenges of augmented reality in education...". Computers & Education. 62: 41–49. doi:10.1016/j.compedu.2012.10.024. S2CID 15218665.
+
+^ Milgram, Paul; Takemura, Haruo; Utsumi, Akira; Kishino, Fumio (21 December 1995). "Augmented reality: a class of displays on the reality-virtuality continuum". Telemanipulator and Telepresence Technologies. 2351. SPIE: 282–292. Bibcode:1995SPIE.2351..282M. doi:10.1117/12.197321.
+
+^ Chen, Brian (25 August 2009). "If You're Not Seeing Data, You're Not Seeing". Wired. Retrieved 18 June 2019.
+
+^ "Augmented Reality (AR)". augmentedrealityon.com. Archived from the original on 5 April 2012. Retrieved 18 June 2019.
+
+^ a b Azuma, Ronald (August 1997). "A Survey of Augmented Reality" (PDF). Presence: Teleoperators and Virtual Environments. 6 (4). MIT Press: 355–385. doi:10.1162/pres.1997.6.4.355. S2CID 469744. Retrieved 2 June 2021.
+
+^ Rokhsaritalemi, S., Sadeghi-Niaraki, A., & Choi, S. M. (2020). A review on mixed reality: Current trends, challenges and prospects. Applied Sciences, 10(2), 636.
+
+^ Buhalis, D., & Karatay, N. (2022). Mixed reality (MR) for generation Z in cultural heritage tourism towards metaverse. In Information and communication technologies in tourism 2022: Proceedings of the ENTER 2022 eTourism conference, January 11–14, 2022 (pp. 16-27). Springer International Publishing.
+
+^ "Augmented Reality vs Mixed Reality: Decoding the Key Differences". 5 March 2024. Retrieved 28 June 2025.
+
+^ "Augmented reality vs. virtual reality vs. mixed reality | TechTarget". Search ERP. Retrieved 28 June 2025.
+
+^ "Meta Quest 3S: New Mixed Reality Headset - Shop Now". www.meta.com. Archived from the original on 24 June 2025. Retrieved 28 June 2025.
+
+^ Cosco, F.; Garre, C.; Bruno, F.; Muzzupappa, M.; Otaduy, M. A. (January 2013). "Visuo-Haptic Mixed Reality with Unobstructed Tool-Hand Integration". IEEE Transactions on Visualization and Computer Graphics. 19 (1): 159–172. doi:10.1109/TVCG.2012.107. PMID 22508901.
+
+^ Aygün, Mehmet Murat; Öğüt, Yusuf Çağrı; Baysal, Hulusi; Taşcıoğlu, Yiğit (January 2020). "Visuo-Haptic Mixed Reality Simulation Using Unbound Handheld Tools". Applied Sciences. 10 (15): 5344. doi:10.3390/app10155344. ISSN 2076-3417.
+
+^ Carmigniani, Julie; Furht, Borko; Anisetti, Marco; Ceravolo, Paolo; Damiani, Ernesto; Ivkovic, Misa (1 January 2011). "Augmented reality technologies, systems and applications". Multimedia Tools and Applications. 51 (1): 341–377. doi:10.1007/s11042-010-0660-6. ISSN 1573-7721. S2CID 4325516.
+
+^ Ma, Minhua; C. Jain, Lakhmi; Anderson, Paul (2014). Virtual, Augmented Reality and Serious Games for Healthcare 1. Springer Publishing. p. 120. ISBN 978-3-642-54816-1.
+
+^ Marvin, Rob (16 August 2016). "Augment Is Bringing the AR Revolution to Business". PC Mag. Retrieved 23 February 2021.
+
+^ Stamp, Jimmy (30 August 2019). "Retail is getting reimagined with augmented reality". The Architect's Newspaper. Archived from the original on 15 November 2019.
+
+^ Mahmood 2019-04-12T11:30:27Z, Ajmal (12 April 2019). "The future is virtual - why AR and VR will live in the cloud". TechRadar. Retrieved 12 December 2019.{{cite web}}:  CS1 maint: numeric names: authors list (link)
+
+^ J. van Kokswijk, Hum@n, Telecoms & Internet as Interface to Interreality Archived 26 September 2007 at the Wayback Machine (Bergboek, The Netherlands, 2003).
+
+^ Gintautas, Vadas; Hübler, Alfred W. (25 May 2007). "Experimental evidence for mixed reality states in an interreality system". Physical Review E. 75 (5): 057201. arXiv:physics/0611293. Bibcode:2007PhRvE..75e7201G. doi:10.1103/PhysRevE.75.057201. PMID 17677199.
+
+^ Repetto, C. and Riva, G., 2020. From Virtual Reality To Interreality In The Treatment Of Anxiety Disorders. [online] Jneuropsychiatry.org. Available at: https://www.jneuropsychiatry.org/peer-review/from-virtual-reality-to-interreality-in-the-treatment-of-anxiety-disorders-neuropsychiatry.pdf  [Accessed 30 October 2020].
+
+^ Johnson, Joel. "The Master Key": L. Frank Baum envisions augmented reality glasses in 1901 Mote & Beam 10 September 2012.
+
+^ Sutherland, Ivan E. (1968). "A head-mounted three dimensional display". Proceedings of the December 9-11, 1968, fall joint computer conference, part I on - AFIPS '68 (Fall, part I). p. 757. doi:10.1145/1476589.1476686. S2CID 4561103.
+
+^ a b c Lintern, Gavan (1980). "Transfer of landing skill after training with supplementary visual cues". Human Factors. 22 (1): 81–88. doi:10.1177/001872088002200109. PMID 7364448. S2CID 113087380.
+
+^ Mann, Steve (2 November 2012). "Eye Am a Camera: Surveillance and Sousveillance in the Glassage". Time. Retrieved 14 October 2013.
+
+^ "Absolute Display Window Mouse/Mice". Archived from the original on 6 November 2019. Retrieved 19 October 2020. (context & abstract only) IBM Technical Disclosure Bulletin 1 March 1987
+
+^ 
+"Absolute Display Window Mouse/Mice". Archived from the original on 19 October 2020. Retrieved 19 October 2020. (image of anonymous printed article) IBM Technical Disclosure Bulletin 1 March 1987
+
+^ George, Douglas B.; Morris, L. Robert (1989). "A computer-driven astronomical telescope guidance and control system with superimposed star field and celestial coordinate graphics display". Journal of the Royal Astronomical Society of Canada. 83: 32. Bibcode:1989JRASC..83...32G.
+
+^ Lee, Kangdon (7 February 2012). "Augmented Reality in Education and Training". TechTrends. 56 (2): 13–21. doi:10.1007/s11528-012-0559-3. S2CID 40826055.
+
+^ Louis B. Rosenberg. "The Use of Virtual Fixtures As Perceptual Overlays to Enhance Operator Performance in Remote Environments." Technical Report AL-TR-0089, USAF Armstrong Laboratory (AFRL), Wright-Patterson AFB OH, 1992.
+
+^ a b Abernathy, M., Houchard, J., Puccetti, M., and Lambert, J,"Debris Correlation Using the Rockwell WorldView System", Proceedings of 1993 Space Surveillance Workshop 30 March to 1 April 1993, pages 189–195
+
+^ Wellner, Pierre; Mackay, Wendy; Gold, Rich (1 July 1993). "Back to the real world". Communications of the ACM. 36 (7): 24–27. doi:10.1145/159544.159555. S2CID 21169183.
+
+^ Barrilleaux, Jon. Experiences and Observations in Applying Augmented Reality to Live Training.
+
+^ Ravela, S. (16 March 1996). "Tracking Object Motion Across Aspect Changes for Augmented Reality" – via scholarworks.umass.edu. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ Ravela, S.; Draper, B.; Lim, J.; Weiss, R. (16 August 1995). "Adaptive tracking and model registration across distinct aspects". Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots. Vol. 1. pp. 174–180 vol.1. doi:10.1109/IROS.1995.525793. ISBN 0-8186-7108-4 – via IEEE Xplore.
+
+^ "US Patent for Projection of images of computer models in three dimensional space Patent (Patent # 5,687,305 issued November 11, 1997) - Justia Patents Search". patents.justia.com. Retrieved 17 October 2021.
+
+^ a b Ramesh Raskar, Greg Welch, Henry Fuchs Spatially Augmented Reality, First International Workshop on Augmented Reality, Sept 1998.
+
+^ a b Delgado, F., Abernathy, M., White J., and Lowrey, B. Real-Time 3-D Flight Guidance with Terrain for the X-38, SPIE Enhanced and Synthetic Vision 1999, Orlando Florida, April 1999, Proceedings of the SPIE Vol. 3691, pages 149–156
+
+^ a b Delgado, F., Altman, S., Abernathy, M., White, J. Virtual Cockpit Window for the X-38, SPIE Enhanced and Synthetic Vision 2000, Orlando Florida, Proceedings of the SPIE Vol. 4023, pages 63–70
+
+^ "Information Technology". www.nrl.navy.mil.
+
+^ AviationNow.com Staff, "X-38 Test Features Use of Hybrid Synthetic Vision" AviationNow.com, 11 December 2001
+
+^ Behringer, R.; Tam, C.; McGee, J.; Sundareswaran, S.; Vassiliou, M. (2000). "A wearable augmented reality testbed for navigation and control, built solely with commercial-off-the-shelf (COTS) hardware". Proceedings IEEE and ACM International Symposium on Augmented Reality (ISAR 2000). pp. 12–19. doi:10.1109/ISAR.2000.880918. ISBN 0-7695-0846-4. S2CID 18892611.
+
+^ Behringer, R.; Tam, C.; McGee, J.; Sundareswaran, S.; Vassiliou, M. (2000). "Two wearable testbeds for augmented reality: ItWARNS and WIMMIS". Digest of Papers. Fourth International Symposium on Wearable Computers. pp. 189–190. doi:10.1109/ISWC.2000.888495. ISBN 0-7695-0795-6. S2CID 13459308.
+
+^ a b Outdoor AR. TV One News, 8 March 2004.
+
+^ 7732694, "United States Patent: 7732694 - Portable music player with synchronized transmissive visual overlays", published 9 August 2006, issued 8 June 2010 
+
+^ Slawski, Bill (4 September 2011). "Google Picks Up Hardware and Media Patents from Outland Research". SEO by the Sea ⚓.
+
+^ Wikitude AR Travel Guide. YouTube.com. Retrieved 9 June 2012.
+
+^ Cameron, Chris. Flash-based AR Gets High-Quality Markerless Upgrade, ReadWriteWeb 9 July 2010.
+
+^ Microsoft Channel, YouTube [1], 23 January 2015.
+
+^ Bond, Sarah (17 July 2016). "After the Success of Pokémon Go, How Will Augmented Reality Impact Archaeological Sites?". Retrieved 17 July 2016.
+
+^ Haselton, Todd (8 August 2018). "After almost a decade and billions in outside investment, Magic Leap's first product is finally on sale for $2,295. Here's what it's like". CNBC. Retrieved 2 June 2024.
+
+^ "Leap Motion's 'Project North Star' could help make cheap AR headsets a reality". Mashable. 9 April 2018. Retrieved 26 March 2024.
+
+^ "Leap Motion designed a $100 augmented reality headset with super-powerful hand tracking". The Verge. 9 April 2018. Retrieved 26 March 2024.
+
+^ "Project North Star is Now Open Source". Leap Motion. 6 June 2018. Retrieved 26 March 2024.
+
+^ "Leap Motion Open-sources Project North Star, An AR Headset Prototype With Impressive Specs". Road to VR. 6 June 2018. Retrieved 26 March 2024.
+
+^ Official Blog, Microsoft [2], 24 February 2019.
+
+^ "Magic Leap 2 is the best AR headset yet, but will an enterprise focus save the company?". Engadget. 11 November 2022. Retrieved 26 March 2024.
+
+^ Vanian, Jonathan (27 September 2024). "Hands-on with Meta's Orion AR glasses prototype and the possible future of computing". CNBC. Retrieved 28 September 2024.
+
+^ Metz, Rachael (2 August 2012). "Augmented Reality Is Finally Getting Real". technologyreview.com. Retrieved 18 June 2019.
+
+^ Marino, Emanuele; Bruno, Fabio; Barbieri, Loris; Lagudi, Antonio (2022). "Benchmarking Built-In Tracking Systems for Indoor AR Applications on Popular Mobile Devices". Sensors. 22 (14): 5382. Bibcode:2022Senso..22.5382M. doi:10.3390/s22145382. PMC 9320911. PMID 35891058.
+
+^ Boland, Mike (7 November 2024). "Passthrough vs. Seethrough AR: The Answer is 'Both'". AR Insider. Retrieved 21 April 2025.
+
+^ Rolland, Jannick P.; Holloway, Richard L.; Fuchs, Henry (21 December 1995). Comparison of optical and video see-through, head-mounted displays. pp. 293–307. doi:10.1117/12.197322. Retrieved 21 April 2025.
+
+^ "Fleet Week: Office of Naval Research Technology". eweek.com. 28 May 2012. Retrieved 18 June 2019.
+
+^ Rolland, Jannick; Baillott, Yohan; Goon, Alexei.A Survey of Tracking Technology for Virtual Environments, Center for Research and Education in Optics and Lasers, University of Central Florida.
+
+^ Klepper, Sebastian. "Augmented Reality - Display Systems" (PDF). campar.in.tum.de. Archived from the original (PDF) on 28 January 2013. Retrieved 18 June 2019.
+
+^ Komura, Shinichi (19 July 2024). "Optics of AR/VR using liquid crystals". Molecular Crystals and Liquid Crystals. 768 (17): 1014–1039. Bibcode:2024MCLC..768.1014K. doi:10.1080/15421406.2024.2379694. ISSN 1542-1406.
+
+^ Rolland, Jannick P.; Biocca, Frank; Hamza-Lup, Felix; Ha, Yanggang; Martins, Ricardo (October 2005). "Development of Head-Mounted Projection Displays for Distributed, Collaborative, Augmented Reality Applications". Presence: Teleoperators and Virtual Environments. 14 (5): 528–549. arXiv:1902.07769. doi:10.1162/105474605774918741. S2CID 5328957.
+
+^ "Gestigon Gesture Tracking – TechCrunch Disrupt". TechCrunch. Retrieved 11 October 2016.
+
+^ Matney, Lucas (29 August 2016). "uSens shows off new tracking sensors that aim to deliver richer experiences for mobile VR". TechCrunch. Retrieved 29 August 2016.
+
+^ Crisostomo, Christian (27 September 2018). "Introduction To AR Headsets Technology: The Field Of View". ARPost. Retrieved 21 April 2025.
+
+^ "What is Augmented Reality (AR): Augmented Reality Defined, iPhone Augmented Reality Apps and Games and More". Digital Trends. 3 November 2009. Retrieved 8 October 2015.
+
+^ Grifatini, Kristina. Augmented Reality Goggles, Technology Review 10 November 2010.
+
+^ Arthur, Charles. UK company's 'augmented reality' glasses could be better than Google's, The Guardian, 10 September 2012.
+
+^ Gannes, Liz. "Google Unveils Project Glass: Wearable Augmented-Reality Glasses". allthingsd.com. Retrieved 4 April 2012., All Things D.
+
+^ Benedetti, Winda. Xbox leak reveals Kinect 2, augmented reality glasses NBC News. Retrieved 23 August 2012.
+
+^ Marker vs Markerless AR Archived 28 January 2013 at the Wayback Machine, Dartmouth College Library.
+
+^ Feiner, Steve (3 March 2011). "Augmented reality: a long way off?". AR Week. Pocket-lint. Retrieved 3 March 2011.
+
+^ "Full Page Reload". IEEE Spectrum: Technology, Engineering, and Science News. 10 April 2013. Retrieved 6 May 2020.
+
+^ "Contact lens for the display of information such as text, graphics, or pictures".
+
+^ Greenemeier, Larry. Computerized Contact Lenses Could Enable In-Eye Augmented Reality. Scientific American, 23 November 2011.
+
+^ Yoneda, Yuka. Solar Powered Augmented Contact Lenses Cover Your Eye with 100s of LEDs. inhabitat, 17 March 2010.
+
+^ Rosen, Kenneth (8 December 2012). "Contact Lenses Can Display Your Text Messages". Mashable.com. Retrieved 13 December 2012.
+
+^ O'Neil, Lauren. "LCD contact lenses could display text messages in your eye". CBC News. Archived from the original on 11 December 2012. Retrieved 12 December 2012.
+
+^ Anthony, Sebastian. US military developing multi-focus augmented reality contact lenses. ExtremeTech, 13 April 2012.
+
+^ Bernstein, Joseph. 2012 Invention Awards: Augmented-Reality Contact Lenses Popular Science, 5 June 2012.
+
+^ "Full Page Reload". IEEE Spectrum: Technology, Engineering, and Science News. 16 January 2020. Retrieved 6 May 2020.
+
+^ "Mojo Vision's AR contact lenses are very cool, but many questions remain". TechCrunch. 16 January 2020. Retrieved 6 May 2020.
+
+^ "Mojo Vision is developing AR contact lenses". TechCrunch. 16 January 2020. Retrieved 6 May 2020.
+
+^ a b Viirre, E.; Pryor, H.; Nagata, S.; Furness, T. A. (1998). "The virtual retinal display: a new technology for virtual reality and augmented vision in medicine". Studies in Health Technology and Informatics. 50 (Medicine Meets virtual reality): 252–257. doi:10.3233/978-1-60750-894-6-252. ISSN 0926-9630. PMID 10180549.
+
+^ Tidwell, Michael; Johnson, Richard S.; Melville, David; Furness, Thomas A.The Virtual Retinal Display – A Retinal Scanning Imaging System Archived 13 December 2010 at the Wayback Machine, Human Interface Technology Laboratory, University of Washington.
+
+^ Knight, Will. Augmented reality brings maps to life 19 July 2005.
+
+^ Sung, Dan. Augmented reality in action – maintenance and repair. Pocket-lint, 1 March 2011.
+
+^ Schmalstieg, Dieter; Hollerer, Tobias (2016). Augmented Reality: Principles and Practice. Addison-Wesley Professional. pp. 209–10. ISBN 978-0-13-315320-0.
+
+^ a b Azuma, Ronald; Balliot, Yohan; Behringer, Reinhold; Feiner, Steven; Julier, Simon; MacIntyre, Blair. Recent Advances in Augmented Reality Computers & Graphics, November 2001.
+
+^ Maida, James; Bowen, Charles; Montpool, Andrew; Pace, John. Dynamic registration correction in augmented-reality systems Archived 18 May 2013 at the Wayback Machine, Space Life Sciences, NASA.
+
+^ State, Andrei; Hirota, Gentaro; Chen, David T; Garrett, William; Livingston, Mark. Superior Augmented Reality Registration by Integrating Landmark Tracking and Magnetic Tracking, Department of Computer Science, University of North Carolina at Chapel Hill.
+
+^ Bajura, Michael; Neumann, Ulrich. Dynamic Registration Correction in Augmented-Reality Systems Archived 13 July 2012, University of North Carolina, University of Southern California.
+
+^ Hegde, Naveen (19 March 2023). "What is Augmented Reality". Codegres. Retrieved 19 March 2023.
+
+^ "Markerless Augmented Reality is here". Marxent | Top Augmented Reality Apps Developer. 9 May 2014. Retrieved 23 January 2018.
+
+^ Marshall, Gary.Beyond the mouse: how input is evolving, Touch, voice and gesture recognition and augmented realityTechRadar.computing\PC Plus 23 August 2009.
+
+^ Simonite, Tom. Augmented Reality Meets Gesture Recognition, Technology Review, 15 September 2011.
+
+^ Chaves, Thiago; Figueiredo, Lucas; Da Gama, Alana; de Araujo, Christiano; Teichrieb, Veronica. Human Body Motion and Gestures Recognition Based on Checkpoints. SVR '12 Proceedings of the 2012 14th Symposium on Virtual and Augmented Reality pp. 271–278.
+
+^ Barrie, Peter; Komninos, Andreas; Mandrychenko, Oleksii.A Pervasive Gesture-Driven Augmented Reality Prototype using Wireless Sensor Body Area Networks.
+
+^ Bosnor, Kevin (19 February 2001). "How Augmented Reality Works". howstuffworks.
+
+^ Meisner, Jeffrey; Donnelly, Walter P.; Roosen, Richard (6 April 1999). "Augmented reality technology".
+
+^ Krevelen, Poelman, D.W.F, Ronald (2010). A Survey of Augmented Reality Technologies, Applications and Limitations. International Journal of virtual reality. pp. 3, 6.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+
+^ "ARML 2.0 SWG". Open Geospatial Consortium website. Open Geospatial Consortium. Archived from the original on 12 November 2013. Retrieved 12 November 2013.
+
+^ "Top 5 AR SDKs". Augmented Reality News. Archived from the original on 13 December 2013. Retrieved 15 November 2013.
+
+^ "Top 10 AR SDKs". Augmented World Expo. Archived from the original on 23 November 2013. Retrieved 15 November 2013.
+
+^ Bajarin, Tim (31 January 2017). "This Technology Could Replace the Keyboard and Mouse". Time. Retrieved 19 June 2019.
+
+^ Mathew, Neil (28 January 2018). "Why is Occlusion in Augmented Reality So Hard?". HackerNoon. Retrieved 21 April 2025.
+
+^ a b c d Wilson, Tyler (30 January 2018). ""The Principles of Good UX for Augmented Reality – UX Collective." UX Collective". Retrieved 19 June 2019.
+
+^ a b "Best Practices for Mobile AR Design- Google". blog.google. 13 December 2017.
+
+^ "Human Computer Interaction with Augmented Reality" (PDF). eislab.fim.uni-passau.de. Archived from the original (PDF) on 25 May 2018.
+
+^ "Basic Patterns of Mobile Navigation". theblog.adobe.com. 9 May 2017. Archived from the original on 13 April 2018. Retrieved 12 April 2018.
+
+^ "Principles of Mobile App Design: Engage Users and Drive Conversions". thinkwithgoogle.com. Archived from the original on 13 April 2018.
+
+^ "Inside Out: Interaction Design for Augmented Reality-UXmatters". uxmatters.com.
+
+^ Moro, Christian; Štromberga, Zane; Raikos, Athanasios; Stirling, Allan (2017). "The effectiveness of virtual and augmented reality in health sciences and medical anatomy". Anatomical Sciences Education. 10 (6): 549–559. doi:10.1002/ase.1696. ISSN 1935-9780. PMID 28419750. S2CID 25961448.
+
+^ "Don't be blind on wearable cameras insists AR genius". SlashGear. 20 July 2012. Retrieved 21 October 2018.
+
+^ Groundbreaking Augmented Reality-Based Reading Curriculum Launches, PRweb, 23 October 2011.
+
+^ Stewart-Smith, Hanna. Education with Augmented Reality: AR textbooks released in Japan, ZDnet, 4 April 2012.
+
+^ Augmented reality in education smarter learning.
+
+^ Lubrecht, Anna. Augmented Reality for Education Archived 5 September 2012 at the Wayback Machine The Digital Union, The Ohio State University 24 April 2012.
+
+^ Moro, Christian; Birt, James; Stromberga, Zane; Phelps, Charlotte; Clark, Justin; Glasziou, Paul; Scott, Anna Mae (May 2021). "Virtual and Augmented Reality Enhancements to Medical and Science Student Physiology and Anatomy Test Performance: A Systematic Review and Meta-Analysis" (PDF). Anatomical Sciences Education. 14 (3): 368–376. doi:10.1002/ase.2049. PMID 33378557.
+
+^ Moro, Christian; Phelps, Charlotte; Redmond, Petrea; Stromberga, Zane (March 2021). "HoloLens and mobile augmented reality in medical and health science education: A randomised controlled trial" (PDF). British Journal of Educational Technology. 52 (2): 680–694. doi:10.1111/bjet.13049.
+
+^ Shumaker, Randall; Lackey, Stephanie (20 July 2015). Virtual, Augmented and Mixed Reality: 7th International Conference, VAMR 2015, Held as Part of HCI International 2015, Los Angeles, CA, USA, 2–7 August 2015, Proceedings. Springer. ISBN 9783319210674.
+
+^ Moro, Christian; Birt, James; Stromberga, Zane; Phelps, Charlotte; Clark, Justin; Glasziou, Paul; Scott, Anna Mae (2021). "Virtual and Augmented Reality Enhancements to Medical and Science Student Physiology and Anatomy Test Performance: A Systematic Review and Meta-Analysis". Anatomical Sciences Education. 14 (3): 368–376. doi:10.1002/ase.2049. ISSN 1935-9772. PMID 33378557. S2CID 229929326.
+
+^ "How to Transform Your Classroom with Augmented Reality - EdSurge News". 2 November 2015.
+
+^ Crabben, Jan van der (16 October 2018). "Why We Need More Tech in History Education". ancient.eu. Archived from the original on 23 October 2018. Retrieved 23 October 2018.
+
+^ An, A (14 February 2023). "Adopting metaverse-related mixed reality technologies to tackle urban development challenges: An empirical study of an Australian municipal government". IET Smart Cities. 5 (1): 64–72. doi:10.1049/smc2.12051.
+
+^ "Augmented reality, an evolution of the application of mobile devices" (PDF). Archived from the original (PDF) on 17 April 2015. Retrieved 19 June 2014.
+
+^ Maier, Patrick; Tönnis, Marcus; Klinker, Gudron. Augmented Reality for teaching spatial relations Archived 28 January 2013 at the Wayback Machine, Conference of the International Journal of Arts & Sciences (Toronto 2009).
+
+^ Plunkett, Kyle N. (12 November 2019). "A Simple and Practical Method for Incorporating Augmented Reality into the Classroom and Laboratory". Journal of Chemical Education. 96 (11): 2628–2631. Bibcode:2019JChEd..96.2628P. doi:10.1021/acs.jchemed.9b00607.
+
+^ "Anatomy 4D". Qualcomm. Archived from the original on 11 March 2016. Retrieved 2 July 2015.
+
+^ Moro, Christian; Štromberga, Zane; Raikos, Athanasios; Stirling, Allan (November 2017). "The effectiveness of virtual and augmented reality in health sciences and medical anatomy: VR and AR in Health Sciences and Medical Anatomy". Anatomical Sciences Education. 10 (6): 549–559. doi:10.1002/ase.1696. PMID 28419750. S2CID 25961448.
+
+^ Birt, James; Stromberga, Zane; Cowling, Michael; Moro, Christian (31 January 2018). "Mobile Mixed Reality for Experiential Learning and Simulation in Medical and Health Sciences Education". Information. 9 (2): 31. doi:10.3390/info9020031. ISSN 2078-2489.
+
+^ Catal, Cagatay; Akbulut, Akhan; Tunali, Berkay; Ulug, Erol; Ozturk, Eren (1 September 2020). "Evaluation of augmented reality technology for the design of an evacuation training game". Virtual Reality. 24 (3): 359–368. doi:10.1007/s10055-019-00410-z. ISSN 1434-9957.
+
+^ Gong, Peizhen; Lu, Ying; Lovreglio, Ruggiero; Lv, Xiaofeng; Chi, Zexun (1 October 2024). "Applications and effectiveness of augmented reality in safety training: A systematic literature review and meta-analysis". Safety Science. 178: 106624. doi:10.1016/j.ssci.2024.106624. ISSN 0925-7535.
+
+^ Paes, Daniel; Feng, Zhenan; King, Maddy; Khorrami Shad, Hesam; Sasikumar, Prasanth; Pujoni, Diego; Lovreglio, Ruggiero (June 2024). "Optical see-through augmented reality fire safety training for building occupants". Automation in Construction. 162: 105371. doi:10.1016/j.autcon.2024.105371.
+
+^ Lovreglio, Ruggiero; Kinateder, Max (October 2020). "Augmented reality for pedestrian evacuation research: Promises and limitations". Safety Science. 128: 104750. doi:10.1016/j.ssci.2020.104750.
+
+^ Mantoro, Teddy; Alamsyah, Zaenal; Ayu, Media Anugerah (October 2021). "Pathfinding for Disaster Emergency Route Using Sparse A* and Dijkstra Algorithm with Augmented Reality". 2021 IEEE 7th International Conference on Computing, Engineering and Design (ICCED). pp. 1–6. doi:10.1109/ICCED53389.2021.9664869. ISBN 978-1-6654-3996-1.
+
+^ Lovreglio, R.; Paes, D.; Feng, Z.; Zhao, X. (2024), Huang, Xinyan; Tam, Wai Cheong (eds.), "Digital Technologies for Fire Evacuations", Intelligent Building Fire Safety and Smart Firefighting, Cham: Springer Nature Switzerland, pp. 439–454, doi:10.1007/978-3-031-48161-1_18, ISBN 978-3-031-48160-4, retrieved 15 March 2024
+
+^ Duguet, Anne-Marie (2003). Jeffrey Shaw, Future Cinema. The Cinematic Imaginary after Film. ZKM Karlsruhe and MIT Press, Cambridge, Massachusetts. pp. 376–381. ISBN 9780262692861.
+
+^ Duguet, Anne-Marie; Klotz, Heinrich; Weibel, Peter (1997). Jeffrey Shaw: A User's Manual. From Expanded Cinema to Virtual Reality. ZKM Cantz. pp. 9–20.
+
+^ Freeman, John Craig. "ManifestAR: An Augmented Reality Manifesto." Leonardo Electronic Almanac, Vol. 19, No. 1, 2013.
+
+^ Paul, Christiane. "Digital Art" (Third edition). Thames & Hudson, 2015.
+
+^ tom Dieck, M. Claudia; Jung, Timothy; Han, Dai-In (July 2016). "Mapping requirements for the wearable smart glasses augmented reality museum application". Journal of Hospitality and Tourism Technology. 7 (3): 230–253. doi:10.1108/JHTT-09-2015-0036. ISSN 1757-9880.
+
+^ Kipper, Greg; Rampolla, Joseph (31 December 2012). Augmented Reality: An Emerging Technologies Guide to AR. Elsevier. ISBN 9781597497343.
+
+^ "Augmented Reality Is Transforming Museums". WIRED. Retrieved 30 September 2018.
+
+^ Webley, Kayla (11 November 2010). "The 50 Best Inventions of 2010 - EyeWriter". Time. Archived from the original on 14 November 2010. Retrieved 26 March 2024.
+
+^ a b Mourtzis, Dimitris; Zogopoulos, Vasilios; Xanthi, Fotini (11 June 2019). "Augmented reality application to support the assembly of highly customized products and to adapt to production re-scheduling". The International Journal of Advanced Manufacturing Technology. 105 (9): 3899–3910. doi:10.1007/s00170-019-03941-6. ISSN 0268-3768. S2CID 189904235.
+
+^ Boccaccio, A.; Cascella, G. L.; Fiorentino, M.; Gattullo, M.; Manghisi, V. M.; Monno, G.; Uva, A. E. (2019), Cavas-Martínez, Francisco; Eynard, Benoit; Fernández Cañavate, Francisco J.; Fernández-Pacheco, Daniel G. (eds.), "Exploiting Augmented Reality to Display Technical Information on Industry 4.0 P&ID", Advances on Mechanics, Design Engineering and Manufacturing II, Lecture Notes in Mechanical Engineering, Springer International Publishing, pp. 282–291, doi:10.1007/978-3-030-12346-8_28, ISBN 978-3-030-12345-1, S2CID 150159603
+
+^ a b Mourtzis, Dimitris; Zogopoulos, Vasilios; Katagis, Ioannis; Lagios, Panagiotis (2018). "Augmented Reality based Visualization of CAM Instructions towards Industry 4.0 paradigm: a CNC Bending Machine case study". Procedia CIRP. 70: 368–373. doi:10.1016/j.procir.2018.02.045.
+
+^ Marino, Emanuele; Barbieri, Loris; Colacino, Biagio; Fleri, Anna Kum; Bruno, Fabio (2021). "An Augmented Reality inspection tool to support workers in Industry 4.0 environments". Computers in Industry. 127. doi:10.1016/j.compind.2021.103412. S2CID 232272256.
+
+^ Michalos, George; Kousi, Niki; Karagiannis, Panagiotis; Gkournelos, Christos; Dimoulas, Konstantinos; Koukas, Spyridon; Mparis, Konstantinos; Papavasileiou, Apostolis; Makris, Sotiris (November 2018). "Seamless human robot collaborative assembly – An automotive case study". Mechatronics. 55: 194–211. doi:10.1016/j.mechatronics.2018.08.006. ISSN 0957-4158. S2CID 115979090.
+
+^ Hawkins, Mathew. Augmented Reality Used To Enhance Both Pool And Air Hockey Game Set Watch15 October 2011.
+
+^ One Week Only – Augmented Reality Project Archived 6 November 2013 at the Wayback Machine Combat-HELO Dev Blog 31 July 2012.
+
+^ "Best VR, Augmented Reality apps & games on Android". Archived from the original on 15 February 2017. Retrieved 14 February 2017.
+
+^ a b "Bamzooki (TV Series 2004–2010) - IMDb", IMDb. [Online]. Available: https://www.imdb.com/title/tt2065104/. [Accessed: 01- Nov- 2020].
+
+^ a b "FightBox (TV Series 2003–2004) - IMDb", IMDb. [Online]. Available: https://www.imdb.com/title/tt0386197/. [Accessed: 01- Nov- 2020].
+
+^ a b c Cheok, Adrian David; Haller, Michael; Fernando, Owen Noel Newton; Wijesena, Janaka Prasad (January 2009). "Mixed Reality Entertainment and Art". International Journal of Virtual Reality. 8 (2): 83–90. doi:10.20870/IJVR.2009.8.2.2729.
+
+^ "Ogmento First AR Gaming Startup to Win VC Funding". 26 May 2010.
+
+^ Swatman, Rachel (10 August 2016). "Pokémon Go catches five new world records". Guinness World Records. Retrieved 28 August 2016.
+
+^ "Mario Kart Live: Home Circuit – Official Site". mklive.nintendo.com. Retrieved 1 November 2020.
+
+^ Romano, Sal (22 October 2020). "Famitsu Sales: 10/12/20 – 10/18/20". Gematsu. Retrieved 22 October 2020.
+
+^ Stapleton, C.; Hughes, C.; Moshell, M.; Micikevicius, P.; Altman, M. (December 2002). "Applying mixed reality to entertainment". Computer. 35 (12): 122–124. doi:10.1109/MC.2002.1106186.
+
+^ Noelle, S. (2002). "Stereo augmentation of simulation results on a projection wall by combining two basic ARVIKA systems". Proceedings. International Symposium on Mixed and Augmented Reality. pp. 271–322. CiteSeerX 10.1.1.121.1268. doi:10.1109/ISMAR.2002.1115108. ISBN 0-7695-1781-1. S2CID 24876142.
+
+^ Verlinden, Jouke; Horvath, Imre. "Augmented Prototyping as Design Means in Industrial Design Engineering". Delft University of Technology. Archived from the original on 16 June 2013. Retrieved 7 October 2012.
+
+^ Pang, Y.; Nee, Andrew Y. C.; Youcef-Toumi, Kamal; Ong, S. K.; Yuan, M. L. (January 2005). "Assembly Design and Evaluation in an Augmented Reality Environment". hdl:1721.1/7441.
+
+^ Divecha, Devina.Augmented Reality (AR) used in architecture and design Archived 14 February 2013 at the Wayback Machine. designMENA 8 September 2011.
+
+^ Architectural dreams in augmented reality. University News, University of Western Australia. 5 March 2012.
+
+^ Churcher, Jason. "Internal accuracy vs external accuracy". Retrieved 7 May 2013.
+
+^ "Augment for Architecture & Construction". Archived from the original on 8 November 2015. Retrieved 12 October 2015.
+
+^ "App gives a view of city as it used to be". Stuff. 10 December 2011. Retrieved 20 May 2018.
+
+^ Lee, Gun (2012). "CityViewAR outdoor AR visualization". Proceedings of the 13th International Conference of the NZ Chapter of the ACM's Special Interest Group on Human-Computer Interaction - CHINZ '12. ACM. p. 97. doi:10.1145/2379256.2379281. hdl:10092/8693. ISBN 978-1-4503-1474-9. S2CID 34199215.
+
+^ Stuart Eve (2012). "Augmenting Phenomenology: Using Augmented Reality to Aid Archaeological Phenomenology in the Landscape" (PDF). Journal of Archaeological Method and Theory. 19 (4): 582–600. doi:10.1007/s10816-012-9142-7. S2CID 4988300.
+
+^ Dähne, Patrick; Karigiannis, John N. (2002). Archeoguide: System Architecture of a Mobile Outdoor Augmented Reality System. IEEE Computer Society Press. ISBN 9780769517810. Retrieved 6 January 2010.
+
+^ LBI-ArchPro (5 September 2011). "School of Gladiators discovered at Roman Carnuntum, Austria". Retrieved 29 December 2014.
+
+^ Papagiannakis, George; Schertenleib, Sébastien; O'Kennedy, Brian; Arevalo-Poizat, Marlene; Magnenat-Thalmann, Nadia; Stoddart, Andrew; Thalmann, Daniel (1 February 2005). "Mixing virtual and real scenes in the site of ancient Pompeii". Computer Animation and Virtual Worlds. 16 (1): 11–24. CiteSeerX 10.1.1.64.8781. doi:10.1002/cav.53. ISSN 1546-427X. S2CID 5341917.
+
+^ Benko, H.; Ishak, E.W.; Feiner, S. (2004). "Collaborative Mixed Reality Visualization of an Archaeological Excavation". Third IEEE and ACM International Symposium on Mixed and Augmented Reality. pp. 132–140. doi:10.1109/ISMAR.2004.23. ISBN 0-7695-2191-6. S2CID 10122485.
+
+^ Katts, Rima. Elizabeth Arden brings new fragrance to life with augmented reality Mobile Marketer, 19 September 2012.
+
+^ Meyer, David. Telefónica bets on augmented reality with Aurasma tie-in gigaom, 17 September 2012.
+
+^ Mardle, Pamela.Video becomes reality for Stuprint.com Archived 12 March 2013 at the Wayback Machine. PrintWeek, 3 October 2012.
+
+^ Giraldo, Karina.Why mobile marketing is important for brands? Archived 2 April 2015 at the Wayback Machine. SolinixAR, Enero 2015.
+
+^ "Augmented reality could be advertising world's best bet". The Financial Express. 18 April 2015. Archived from the original on 21 May 2015.
+
+^ Humphries, Mathew.[3] Archived 26 June 2012 at the Wayback Machine.Geek.com 19 September 2011.
+
+^ Netburn, Deborah.Ikea introduces augmented reality app for 2013 catalog Archived 2 December 2012 at the Wayback Machine. Los Angeles Times, 23 July 2012.
+
+^ "This small iOS 12 feature is the birth of a whole industry". Jonny Evans. 19 September 2018. Retrieved 19 September 2018.
+
+^ "Shopify is bringing Apple's latest AR tech to their platform". Lucas Matney. 17 September 2018. Retrieved 3 December 2018.
+
+^ Magazine, QA Education (4 September 2018). "History re-made: New AR classroom application lets pupils see how York looked over 1,900 years ago". QA Education. Retrieved 4 September 2018.
+
+^ "Sheffield's Twinkl claims AR first with new game". Prolific North. 19 September 2018. Retrieved 19 September 2018.
+
+^ "Technology from Twinkl brings never seen before objects to the classroom". The Educator UK. 21 September 2018. Retrieved 21 December 2018.
+
+^ Pavlik, John V., and Shawn McIntosh. "Augmented Reality." Converging Media: a New Introduction to Mass Communication, 5th ed., Oxford University Press, 2017, pp. 184–185.
+
+^ a b Dacko, Scott G. (November 2017). "Enabling smart retail settings via mobile augmented reality shopping apps" (PDF). Technological Forecasting and Social Change. 124: 243–256. doi:10.1016/j.techfore.2016.09.032.
+
+^ a b "How Neiman Marcus is turning technology innovation into a 'core value'". Retail Dive. Retrieved 23 September 2018.
+
+^ a b c d e Arthur, Rachel. "Augmented Reality Is Set To Transform Fashion And Retail". Forbes. Retrieved 23 September 2018.
+
+^ "Augmented Reality Apps for Interior Visualization". archvisualizations.com. 30 January 2024. Retrieved 9 April 2024.
+
+^ Pardes, Arielle (20 September 2017). "IKEA's new app flaunts what you'll love most about AR". Wired. Retrieved 20 September 2017.
+
+^ "IKEA Highlights 2017". Archived from the original on 8 October 2018. Retrieved 8 October 2018.
+
+^ "Performance". www.inter.ikea.com. Archived from the original on 26 June 2018.
+
+^ Indriani, Masitoh; Liah Basuki Anggraeni (30 June 2022). "What Augmented Reality Would Face Today? The Legal Challenges to the Protection of Intellectual Property in Virtual Space". Media Iuris. 5 (2): 305–330. doi:10.20473/mi.v5i2.29339. ISSN 2621-5225. S2CID 250464007.
+
+^ "Augmented Reality (AR) vs. virtual reality (VR): What's the Difference?". PCMAG. Retrieved 6 November 2020.
+
+^ Sandee LaMotte (13 December 2017). "The very real health dangers of virtual reality". CNN. Retrieved 6 November 2020.
+
+^ Thier, Dave. "'Jurassic World Alive' Makes Two Big Improvements Over 'Pokémon GO'". Forbes. Retrieved 6 November 2020.
+
+^ "Augmented Reality—Emerging Technology for Emergency Management", Emergency Management  24 September 2009.
+
+^ "What Does the Future Hold for Emergency Management?", Emergency Management Magazine, 8 November 2013
+
+^ Cooper, Joseph (15 November 2007). Supporting Flight Control for UAV-Assisted Wilderness Search and Rescue Through Human Centered Interface Design (Master's thesis). Brigham Young University.
+
+^ "Effects of Augmented Reality on Social Interactions". Electronics Diary. 27 May 2019.
+
+^ Mountney, Peter; Giannarou, Stamatia; Elson, Daniel; Yang, Guang-Zhong (2009). "Optical Biopsy Mapping for Minimally Invasive Cancer Screening". Medical Image Computing and Computer-Assisted Intervention – MICCAI 2009. Lecture Notes in Computer Science. Vol. 5761. pp. 483–490. doi:10.1007/978-3-642-04268-3_60. ISBN 978-3-642-04267-6. PMID 20426023.
+
+^ Scopis Augmented Reality: Path guidance to craniopharyngioma on YouTube
+
+^ Loy Rodas, Nicolas; Padoy, Nicolas (2014). "3D Global Estimation and Augmented Reality Visualization of Intra-operative X-ray Dose". Medical Image Computing and Computer-Assisted Intervention – MICCAI 2014. Lecture Notes in Computer Science. Vol. 8673. pp. 415–422. doi:10.1007/978-3-319-10404-1_52. ISBN 978-3-319-10403-4. PMID 25333145. S2CID 819543.
+
+^ 3D Global Estimation and Augmented Reality Visualization of Intra-operative X-ray Dose on YouTube
+
+^ "UNC Ultrasound/Medical Augmented Reality Research". Archived from the original on 12 February 2010. Retrieved 6 January 2010.
+
+^ Mountney, Peter; Fallert, Johannes; Nicolau, Stephane; Soler, Luc; Mewes, Philip W. (2014). "An Augmented Reality Framework for Soft Tissue Surgery". Medical Image Computing and Computer-Assisted Intervention – MICCAI 2014. Lecture Notes in Computer Science. Vol. 8673. pp. 423–431. doi:10.1007/978-3-319-10404-1_53. ISBN 978-3-319-10403-4. PMID 25333146.
+
+^ Botella, Cristina; Bretón-López, Juani; Quero, Soledad; Baños, Rosa; García-Palacios, Azucena (September 2010). "Treating Cockroach Phobia With Augmented Reality". Behavior Therapy. 41 (3): 401–413. doi:10.1016/j.beth.2009.07.002. PMID 20569788. S2CID 29889630.
+
+^ Zimmer, Anja; Wang, Nan; Ibach, Merle K.; Fehlmann, Bernhard; Schicktanz, Nathalie S.; Bentz, Dorothée; Michael, Tanja; Papassotiropoulos, Andreas; de Quervain, Dominique J. F. (1 August 2021). "Effectiveness of a smartphone-based, augmented reality exposure app to reduce fear of spiders in real-life: A randomized controlled trial". Journal of Anxiety Disorders. 82: 102442. doi:10.1016/j.janxdis.2021.102442. ISSN 0887-6185. PMID 34246153. S2CID 235791626.
+
+^ "Augmented Reality Revolutionizing Medicine". Health Tech Event. 6 June 2014. Archived from the original on 12 October 2014. Retrieved 9 October 2014.
+
+^ Thomas, Daniel J. (December 2016). "Augmented reality in surgery: The Computer-Aided Medicine revolution". International Journal of Surgery. 36 (Pt A): 25. doi:10.1016/j.ijsu.2016.10.003. ISSN 1743-9159. PMID 27741424.
+
+^ Cui, Nan; Kharel, Pradosh; Gruev, Viktor (8 February 2017). "Augmented reality with Microsoft Holo Lens holograms for near-infrared fluorescence based image guided surgery". In Pogue, Brian W; Gioux, Sylvain (eds.). Augmented reality with Microsoft HoloLens holograms for near-infrared fluorescence based image guided surgery. Molecular-Guided Surgery: Molecules, Devices, and Applications III. Vol. 10049. International Society for Optics and Photonics. pp. 100490I. doi:10.1117/12.2251625. S2CID 125528534.
+
+^ Moro, C; Birt, J; Stromberga, Z; Phelps, C; Clark, J; Glasziou, P; Scott, AM (May 2021). "Virtual and Augmented Reality Enhancements to Medical and Science Student Physiology and Anatomy Test Performance: A Systematic Review and Meta-Analysis". Anatomical Sciences Education. 14 (3): 368–376. doi:10.1002/ase.2049. PMID 33378557. S2CID 229929326.
+
+^ Barsom, E. Z.; Graafland, M.; Schijven, M. P. (1 October 2016). "Systematic review on the effectiveness of augmented reality applications in medical training". Surgical Endoscopy. 30 (10): 4174–4183. doi:10.1007/s00464-016-4800-6. ISSN 0930-2794. PMC 5009168. PMID 26905573.
+
+^ Magee, D.; Zhu, Y.; Ratnalingam, R.; Gardner, P.; Kessel, D. (1 October 2007). "An augmented reality simulator for ultrasound guided needle placement training" (PDF). Medical & Biological Engineering & Computing. 45 (10): 957–967. doi:10.1007/s11517-007-0231-9. ISSN 1741-0444. PMID 17653784. S2CID 14943048.
+
+^ Tagaytayan, Raniel; Kelemen, Arpad; Sik-Lanyi, Cecilia (2018). "Augmented reality in neurosurgery". Archives of Medical Science. 14 (3): 572–578. doi:10.5114/aoms.2016.58690. ISSN 1734-1922. PMC 5949895. PMID 29765445.
+
+^ "Taipei hits highs in Medica 2017". healthcare-in-europe.com. Retrieved 5 April 2019.
+
+^ a b c d "Mixed Reality vs. Augmented Reality vs. Virtual Reality: Their Differences and Use in Healthcare". Brainlab. Retrieved 7 March 2024.
+
+^ M. Pell, Envisioning Holograms Design Breakthrough Experiences for Mixed Reality, 1st ed. 2017. Berkeley, CA: Apress, 2017.[page needed]
+
+^ Mixed-reality headsets in hospitals help protect doctors and reduce need for PPE
+
+^ Wish-Baratz, Susanne; Crofton, Andrew R.; Gutierrez, Jorge; Henninger, Erin; Griswold, Mark A. (1 September 2020). "Assessment of Mixed-Reality Technology Use in Remote Online Anatomy Education". JAMA Network Open. 3 (9): e2016271. doi:10.1001/jamanetworkopen.2020.16271. PMC 7499123. PMID 32940677.
+
+^ Davis, Nicola (7 January 2015). "Project Anywhere: digital route to an out-of-body experience". The Guardian. Retrieved 21 September 2016.
+
+^ "Project Anywhere: an out-of-body experience of a new kind". Euronews. 25 February 2015. Retrieved 21 September 2016.
+
+^ Project Anywhere at studioany.com
+
+^ Lintern, Gavan; Roscoe, Stanley N.; Sivier, Jonathan E. (June 1990). "Display Principles, Control Dynamics, and Environmental Factors in Pilot Training and Transfer". Human Factors. 32 (3): 299–317. doi:10.1177/001872089003200304. S2CID 110528421.
+
+^ a b Rosenberg, Louis B. (1992). "The Use of Virtual Fixtures As Perceptual Overlays to Enhance Operator Performance in Remote Environments". Technical Report AL-TR-0089, USAF Armstrong Laboratory, Wright-Patterson AFB OH, 1992.
+
+^ Rosenberg, Louis B. (21 December 1993). "Virtual fixtures as tools to enhance operator performance in telepresence environments". Telemanipulator Technology and Space Telerobotics. 2057: 10–21. Bibcode:1993SPIE.2057...10R. doi:10.1117/12.164901.
+
+^ Hughes, C.E.; Stapleton, C.B.; Hughes, D.E.; Smith, E.M. (November 2005). "Mixed reality in education, entertainment, and training". IEEE Computer Graphics and Applications. 25 (6): 24–30. doi:10.1109/MCG.2005.139. PMID 16315474.
+
+^ Pandher, Gurmeet Singh (2 March 2016). "Microsoft HoloLens Preorders: Price, Specs Of The Augmented Reality Headset". The Bitbag. Archived from the original on 4 March 2016. Retrieved 1 April 2016.
+
+^ VirTra Inc. "VirTra's Police Training Simulators Chosen by Three of the Largest U.S. Law Enforcement Departments". GlobeNewswire News Room. Retrieved 22 August 2018.
+
+^ "How do police use VR? Very well | Police Foundation". www.policefoundation.org. 14 August 2017. Archived from the original on 22 February 2020. Retrieved 22 August 2018.
+
+^ Eagen, Andrew S (2017). Expanding Simulations as a Means of Tactical Training with Multinational Partners (Thesis). DTIC AD1038670.[page needed]
+
+^ Bukhari, Hatim; Andreatta, Pamela; Goldiez, Brian; Rabelo, Luis (January 2017). "A Framework for Determining the Return on Investment of Simulation-Based Training in Health Care". Inquiry. 54. doi:10.1177/0046958016687176. PMC 5798742. PMID 28133988.
+
+^ Smith, Roger (February 2010). "The Long History of Gaming in Military Training". Simulation & Gaming. 41 (1): 6–19. doi:10.1177/1046878109334330.
+
+^ Shufelt, Jr., J.W. (2006) A Vision for Future Virtual Training. In Virtual Media for Military Applications (pp. KN2-1 – KN2-12). Meeting Proceedings RTO-MP-HFM-136, Keynote 2. Neuilly-sur-Seine, France: RTO. Available from:Mixed Reality (MR)Archived 13 June 2007 at the Wayback Machine
+
+^ "STAND-TO!". www.army.mil. Retrieved 22 August 2018.
+
+^ "Augmented reality may revolutionize Army training". www.arl.army.mil. Archived from the original on 10 August 2017. Retrieved 22 August 2018.
+
+^ Calhoun, G. L., Draper, M. H., Abernathy, M. F., Delgado, F., and Patzek, M. "Synthetic Vision System for Improving Unmanned Aerial Vehicle Operator Situation Awareness," 2005 Proceedings of SPIE Enhanced and Synthetic Vision, Vol. 5802, pp. 219–230.
+
+^ Cameron, Chris. Military-Grade Augmented Reality Could Redefine Modern Warfare ReadWriteWeb 11 June 2010.
+
+^ a b Slyusar, Vadym (19 July 2019). "Augmented reality in the interests of ESMRM and munitions safety".
+
+^ GM's Enhanced Vision System. Techcrunch.com (17 March 2010). Retrieved 9 June 2012.
+
+^ Couts, Andrew. New augmented reality system shows 3D GPS navigation through your windshield Digital Trends,27 October 2011.
+
+^ Griggs, Brandon. Augmented-reality' windshields and the future of driving CNN Tech, 13 January 2012.
+
+^ "WayRay's AR in-car HUD convinced me HUDs can be better". TechCrunch. Retrieved 3 October 2018.
+
+^ Walz, Eric (22 May 2017). "WayRay Creates Holographic Navigation: Alibaba Invests $18 Million". FutureCar. Retrieved 17 October 2018.
+
+^ Cheney-Peters, Scott (12 April 2012). "CIMSEC: Google's AR Goggles". Retrieved 20 April 2012.
+
+^ Stafford, Aaron; Piekarski, Wayne; Thomas, Bruce H. "Hand of God". Archived from the original on 7 December 2009. Retrieved 18 December 2009.
+
+^ Benford, Steve; Greenhalgh, Chris; Reynard, Gail; Brown, Chris; Koleva, Boriana (1 September 1998). "Understanding and constructing shared spaces with mixed-reality boundaries". ACM Transactions on Computer-Human Interaction. 5 (3): 185–223. doi:10.1145/292834.292836. S2CID 672378.
+
+^ Office of Tomorrow Media Interaction Lab.
+
+^ The big idea:Augmented Reality. Ngm.nationalgeographic.com (15 May 2012). Retrieved 9 June 2012.
+
+^ Henderson, Steve; Feiner, Steven. "Augmented Reality for Maintenance and Repair (ARMAR)". Archived from the original on 6 March 2010. Retrieved 6 January 2010.
+
+^ Sandgren, Jeffrey. The Augmented Eye of the Beholder Archived 21 June 2013 at the Wayback Machine, BrandTech News 8 January 2011.
+
+^ Cameron, Chris. Augmented Reality for Marketers and Developers, ReadWriteWeb.
+
+^ Dillow, Clay BMW Augmented Reality Glasses Help Average Joes Make Repairs, Popular Science September 2009.
+
+^ King, Rachael. Augmented Reality Goes Mobile, Bloomberg Business Week Technology 3 November 2009.
+
+^ a b Abraham, Magid; Annunziata, Marco (13 March 2017). "Augmented Reality Is Already Improving Worker Performance". Harvard Business Review. Retrieved 13 January 2019.
+
+^ "Manufacturers are successfully using mixed reality today". The Manufacturer.
+
+^ Bingham and Conner "The New Social Learning" Chapter 6 - Immersive Environments Refine Learning
+
+^ Lunka, Ryan (3 November 2015). "What is product content management? | nChannel Blog". www.nchannel.com. Retrieved 7 March 2024.
+
+^ Melroseqatar.com. 2020. MELROSE Solutions W.L.L. [online] Available at: http://www.melroseqatar.com/reality-technologies.html  [Accessed 25 October 2020].
+
+^ "Adopting New Technologies for Effective Procurement - SIPMM Publications". publication.sipmm.edu.sg. 29 January 2018. Retrieved 1 November 2022.
+
+^ Bruno, Fabio; Barbieri, Loris; Muzzupappa, Maurizio (September 2020). "A Mixed Reality system for the ergonomic assessment of industrial workstations". International Journal on Interactive Design and Manufacturing (IJIDeM). 14 (3): 805–812. doi:10.1007/s12008-020-00664-x.
+
+^ "Virtual Reality Design: User Experience Design Software". dummies. Retrieved 7 March 2024.
+
+^ Archived at Ghostarchive and the Wayback Machine: Arti AR highlights at SRX -- the first sports augmented reality live from a moving car!, 14 July 2021, retrieved 14 July 2021
+
+^ Marlow, Chris. Hey, hockey puck! NHL PrePlay adds a second-screen experience to live games, digitalmediawire 27 April 2012.
+
+^ Pair, J.; Wilson, J.; Chastine, J.; Gandy, M. (2002). "The Duran Duran project: The augmented reality toolkit in live performance". The First IEEE International Workshop Agumented Reality Toolkit. p. 2. doi:10.1109/ART.2002.1107010. ISBN 0-7803-7680-3. S2CID 55820154.
+
+^ Broughall, Nick. Sydney Band Uses Augmented Reality For Video Clip. Gizmodo, 19 October 2009.
+
+^ Pendlebury, Ty. Augmented reality in Aussie film clip. c|net 19 October 2009.
+
+^ Saenz, Aaron Augmented Reality Does Time Travel Tourism SingularityHUB 19 November 2009.
+
+^ Sung, Dan Augmented reality in action – travel and tourism Pocket-lint 2 March 2011.
+
+^ Dawson, Jim Augmented Reality Reveals History to Tourists Life Science 16 August 2009.
+
+^ Bartie, Phil J.; MacKaness, William A. (2006). "Development of a Speech-Based Augmented Reality System to Support Exploration of Cityscape". Transactions in GIS. 10 (1): 63–86. Bibcode:2006TrGIS..10...63B. doi:10.1111/j.1467-9671.2006.00244.x. S2CID 13325561.
+
+^ Benderson, Benjamin B. Audio Augmented Reality: A Prototype Automated Tour Guide Archived 1 July 2002 at the Wayback Machine Bell Communications Research, ACM Human Computer in Computing Systems Conference, pp. 210–211.
+
+^ Jain, Puneet and Manweiler, Justin and Roy Choudhury, Romit. OverLay: Practical Mobile Augmented Reality
+ACM MobiSys, May 2015.
+
+^ Tsotsis, Alexia. Word Lens Translates Words Inside of Images. Yes Really. TechCrunch (16 December 2010).
+
+^ N.B. Word Lens: This changes everything The Economist: Gulliver blog 18 December 2010.
+
+^ Borghino, Dario Augmented reality glasses perform real-time language translation. gizmag, 29 July 2012.
+
+^ "Music Production in the Era of Augmented Reality". Medium. 14 October 2016. Retrieved 5 January 2017.
+
+^ "Augmented Reality music making with Oak on Kickstarter – gearnews.com". gearnews.com. 3 November 2016. Retrieved 5 January 2017.
+
+^ Clouth, Robert (1 January 2013). "Mobile Augmented Reality as a Control Mode for Real-time Music Systems". Retrieved 5 January 2017.
+
+^ Farbiz, Farzam; Tang, Ka Yin; Wang, Kejian; Ahmad, Waqas; Manders, Corey; Jyh Herng, Chong; Kee Tan, Yeow (2007). "A multimodal augmented reality DJ music system". 2007 6th International Conference on Information, Communications & Signal Processing. pp. 1–5. doi:10.1109/ICICS.2007.4449564. ISBN 978-1-4244-0982-2. S2CID 17807179.
+
+^ Chakraborti, Tathagata; Sreedharan, Sarath; Kulkarni, Anagha; Kambhampati, Subbarao (2018). "Projection-Aware Task Planning and Execution for Human-in-the-Loop Operation of Robots in a Mixed-Reality Workspace". 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). pp. 4476–4482. doi:10.1109/IROS.2018.8593830. ISBN 978-1-5386-8094-0.
+
+^ a b Tu, Xinyi; Autiosalo, Juuso; Jadid, Adnane; Tammi, Kari; Klinker, Gudrun (12 October 2021). "A Mixed Reality Interface for a Digital Twin Based Crane". Applied Sciences. 11 (20): 9480. doi:10.3390/app11209480.
+
+^ Miller, Chance. "Snapchat's Latest Augmented Reality Feature Lets You Paint the Sky with New Filters." 9to5Mac, 9to5Mac, 25 Sept. 2017, 9to5mac.com/2017/09/25/how-to-use-snapchat-sky-filters/.
+
+^ Bastone, Nick (31 May 2019). "We tried Google's new augmented reality feature for Maps that's currently available only on its Pixel smartphones, and we don't know what we'd do without it". Business Insider. Retrieved 21 April 2025.
+
+^ Faccio, Mara; McConnell, John J. (2017). "Death by Pokémon GO". doi:10.2139/ssrn.3073723. SSRN 3073723.
+
+^ Peddie, J., 2017, Agumented Reality, Springer[page needed]
+
+^ Song, Victoria (2 October 2024). "College students used Meta's smart glasses to dox people in real time". The Verge. Retrieved 27 January 2025.
+
+^ Rauschnabel, Philipp A.; He, Jun; Ro, Young K. (1 November 2018). "Antecedents to the adoption of augmented reality smart glasses: A closer look at privacy risks". Journal of Business Research. 92: 374–384. doi:10.1016/j.jbusres.2018.08.008. ISSN 0148-2963.
+
+^ Roesner, Franziska; Kohno, Tadayoshi; Denning, Tamara; Calo, Ryan; Newell, Bryce Clayton (2014). "Augmented reality". Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing Adjunct Publication - UbiComp '14 Adjunct. pp. 1283–1288. doi:10.1145/2638728.2641709. ISBN 978-1-4503-3047-3. S2CID 15190154.
+
+^ Markoff, John (24 October 2019). "Always Building, From the Garage to Her Company". The New York Times. ISSN 0362-4331. Retrieved 12 December 2019.
+
+^ Mann, S. (1997). "Wearable computing: a first step toward personal imaging". Computer. 30 (2): 25–32. doi:10.1109/2.566147. S2CID 28001657.
+
+^ Wagner, Daniel (29 September 2009). First Steps Towards Handheld Augmented Reality. ACM. ISBN 9780769520346. Retrieved 29 September 2009.
+
+
+External links[edit]
+ Media related to Augmented reality at Wikimedia Commons
+
+vteExtended reality (XR)
+From least to most virtual: Augmented reality (AR)
+Mixed reality (MR)
+Virtual reality (VR)
+Virtuality
+ConceptsMain
+Cinematic virtual reality
+Computer-mediated reality
+Immersion
+Metaverse
+Avatar
+Projection augmented model
+"Room-scale"
+Six degrees of freedom (6DoF)
+Spatial computing
+Telepresence
+Virtual reality applications
+Virtual reality sickness
+Virtual world
+Other
+Camera filter
+Quantified self
+Screen-door effect
+Simulation hypothesis
+Transhumanism
+Vergence-accommodation conflict
+VTuber
+TechnologiesDisplay
+EyeTap
+Head-mounted display
+optical
+Head-up display
+Pancake lens
+Smartglasses
+Virtual reality headset
+list
+Virtual retinal display
+3D interaction
+Brain–computer interface
+Eye tracking
+Facial motion capture
+Finger/hand tracking
+Pose tracking
+Simultaneous localization and mapping
+Software
+Asynchronous reprojection
+Foveated rendering
+Image-based modeling and rendering
+Spatial audio
+Photography
+360-degree video
+Free viewpoint television
+Omnidirectional (360-degree) camera
+VR photography
+Other
+Haptic suit
+Omnidirectional treadmill
+Wearable computer
+Peripherals
+Cyberith Virtualizer
+Leap Motion
+Oculus Touch
+PlayStation Move
+Razer Hydra
+Virtuix Omni
+Wired glove
+Wizdish ROVR
+Companies
+Apple Inc.
+Brilliant Labs
+ByteDance
+Collabora
+Google
+HTC
+Khronos Group
+Liquid Image
+Magic Leap
+Meta Platforms
+Reality Labs
+Microsoft
+Niantic, Inc.
+Pimax
+Rokoko
+Samsung Electronics
+Valve Corporation
+Varjo
+Vuzix
+DevicesCurrent
+Apple Vision Pro
+Bigscreen Beyond
+Golden-i headsets
+HTC Vive
+Magic Leap
+Meta Quest 3
+3S
+Open Source Virtual Reality
+PICO 4 Ultra
+Pimax
+PlayStation VR2
+Valve Index
+Vuzix
+Former
+AntVR
+castAR
+EyePhone
+Google Cardboard
+Google Daydream
+Google Glass
+Meta Quest Pro
+Microsoft HoloLens
+2
+Oculus Go
+Oculus Quest
+Oculus/Meta Quest 2
+Oculus Rift
+CV1
+S
+PICO 4
+PlayStation VR
+Samsung Gear VR
+Sensorama
+SixthSense
+The Sword of Damocles
+VFX1 Headgear
+Virtual Boy
+Virtual fixture
+Virtuality
+VR-1
+Unreleased
+Project Iris
+Sega VR
+SoftwareGeneral
+Interactive art
+Virtual graffiti
+Metaverse
+Pervasive game
+Software related to augmented reality
+Virtual reality game
+Operating systems anddesktop environments
+Android XR
+Meta Horizon OS
+version history
+visionOS
+Windows Mixed Reality
+Development tools andgame engines
+A-Frame
+ARCore
+ARKit
+ARToolKit
+Godot Engine
+Jetpack Compose XR
+Meta Spatial SDK
+OpenVR
+OpenXR
+RealityKit
+S&box
+TabletopKit
+Unity
+Universal Scene Description
+Unreal Engine
+Vuforia Augmented Reality SDK
+WebXR
+Games
+List of HTC Vive games
+List of Meta Quest games
+List of Oculus Rift games
+List of PlayStation VR games
+VR2
+Communities andsocial networks
+AltspaceVR
+FaceTime for visionOS
+Horizon Worlds
+NeosVR
+Rec Room
+Resonite
+Sansar
+Sensorium
+Sinespace
+VRChat
+VTime XR
+People
+Philippe Bekaert
+Maurice Benayoun
+Simon Birrell
+Mark Bolas
+Brendan Bradley
+Fred Brooks
+Boštjan Burger
+John Carmack
+Tim Cook
+Carolina Cruz-Neira
+Ela Darling
+Char Davies
+Thomas A. DeFanti
+Steven K. Feiner
+Scott Fisher
+Jerome Foster II
+Henry Fuchs
+Thomas A. Furness III
+Morton Heilig
+Eric Howlett
+Brendan Iribe
+Myron W. Krueger
+Jaron Lanier
+R. Bowen Loftin
+Palmer Luckey
+Mark Stephen Meadows
+Michelle and Uri Kranot
+Tony Parisi
+Nonny de la Peña
+Elia Petridis
+Warren Robinett
+Lawrence J. Rosenblum
+Daniel J. Sandin
+Dieter Schmalstieg
+Bob Sproull
+Nicole Stenger
+Ivan Sutherland
+Susumu Tachi
+Gunpei Yokoi
+Mark Zuckerberg
+In fiction
+Attack of the Killer App (Futurama Episode)
+Holodeck (Star Trek)
+Netrunner
+Neuromancer
+Ready Player One
+film
+Ready Player Two
+Snow Crash
+Superhot
+Sword Art Online
+The Matrix
+
+ Portals
+Technology
+ Category
+Augmented reality
+Mixed reality
+Virtual reality
+Metaverse
+Spatial computing
+ Commons
+Augmented reality
+Mixed reality
+Virtual reality
+Metaverse
+
+Authority control databases: National GermanyUnited StatesJapanCzech RepublicPolandIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Augmented_reality&oldid=1297771962"
+Categories: Augmented realityApplications of computer visionUser interface techniques3D GUIs3D human-computer interactionHidden categories: Webarchive template wayback linksCS1 maint: numeric names: authors listCS1 errors: missing periodicalCS1 maint: multiple names: authors listWikipedia articles needing page number citations from April 2025Wikipedia articles needing page number citations from October 2019Articles with short descriptionShort description is different from WikidataArticles needing cleanup from June 2025All pages needing cleanupCleanup tagged articles with a reason field from June 2025Wikipedia pages needing cleanup from June 2025Wikipedia articles that are excessively detailed from June 2025All articles that are excessively detailedWikipedia articles with style issues from June 2025All articles with style issuesArticles with multiple maintenance issuesUse dmy dates from October 2019Wikipedia articles in need of updating from August 2024All Wikipedia articles in need of updatingAll articles with unsourced statementsArticles with unsourced statements from February 2017Articles with unsourced quotesArticles containing potentially dated statements from 2018All articles containing potentially dated statementsAll articles lacking reliable referencesArticles lacking reliable references from October 2019Articles with unsourced statements from September 2020Pages displaying wikidata descriptions as a fallback via Module:Annotated linkPages displaying short descriptions of redirect targets via Module:Annotated linkCommons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 28 June 2025, at 11:16 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Augmented reality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

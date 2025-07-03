@@ -1,0 +1,563 @@
+
+
+
+
+Continuous deployment - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Motivation
+
+
+
+
+
+
+
+
+2
+Example
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Continuous deployment
+
+
+
+7 languages
+
+
+
+
+EspañolفارسیFrançais한국어日本語Norsk bokmål中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+A software engineering approach
+Continuous deployment (CD) is a software engineering approach in which software functionalities are delivered frequently and through automated deployments.[1][2][3]
+Continuous deployment contrasts with continuous delivery (also abbreviated CD), a similar approach in which software functionalities are also frequently delivered and deemed to be potentially capable of being deployed, but are actually not deployed.[4] As such, continuous deployment can be viewed as a more complete form of automation than continuous delivery.[5]
+
+
+Motivation[edit]
+A major motivation for continuous deployment is that deploying software into the field more often makes it easier to find, catch, and fix bugs. A bug is easier to fix when it comes from code deployed five minutes ago instead of five days ago.[6]
+
+Example[edit]
+In an environment in which data-centric microservices provide the functionality, and where the microservices can have multiple instances, continuous deployment consists of instantiating the new version of a microservice and retiring the old version once it has drained all the requests in flight.[7][8][9]
+
+See also[edit]
+CI/CD, the combined practices of either (more often) continuous integration and continuous delivery, or (less often) continuous integration and continuous deployment
+Canary release
+Blue–green deployment
+References[edit]
+
+
+^ Shahin, Mojtaba; Ali Babara, Muhammad; Zhu, Liming (2017). "Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices". IEEE Access. 5: 3909–3943. arXiv:1703.07019. Bibcode:2017arXiv170307019S. doi:10.1109/ACCESS.2017.2685629. S2CID 11638909.
+
+^ Holmstrom Olsson, Helena; Alahyari, Hiva; Bosch, Jan (2012). "Climbing the "Stairway to Heaven" -- A Mulitiple-Case Study Exploring Barriers in the Transition from Agile Development towards Continuous Deployment of Software". 2012 38th Euromicro Conference on Software Engineering and Advanced Applications. IEEE Computer Society. pp. 392–399. doi:10.1109/SEAA.2012.54. ISBN 978-0-7695-4790-9. S2CID 15199568.
+
+^ Claps, Gerry Gerard; Berntsson Svenssonb, Richard; Aurum, Aybüke (2014). "On the journey to continuous deployment: Technical and social challenges along the way". Information and Software Technology. 57: 21–31. doi:10.1016/j.infsof.2014.07.009.
+
+^ Shahin, Mojtaba; Babar, Muhammad Ali; Zahedi, Mansooreh; Zhu, Liming (2017). "Beyond Continuous Delivery: An Empirical Investigation of Continuous Deployment Challenges". 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). pp. 111–120. doi:10.1109/ESEM.2017.18. ISBN 978-1-5090-4039-1. S2CID 3479812.
+
+^ "Continuous Deployment: An Essential Guide". IBM. 2019-10-02. Retrieved 2022-11-28. Continuous deployment is the natural outcome of continuous delivery done well. Eventually, the manual approval delivers little or no value and is merely slowly things down. At that point, it is done away with and continuous delivery becomes continuous deployment.
+
+^ Rossel, Sander (2017). Continuous Integration, Delivery, and Deployment.
+
+^ Vera-Rivera, F. H. (2018). "A development process of enterprise applications with microservices". Journal of Physics: Conference Series. 1126 (1): 012017. Bibcode:2018JPhCS1126a2017V. doi:10.1088/1742-6596/1126/1/012017. ISSN 1742-6596.
+
+^ Serlet, Bertrand (2019). "Data-centric Software Manifesto". Fungible. Archived from the original on 2019-10-14. Retrieved 2019-10-14.
+
+^ Butler, Brandon (2016-11-09). "What you should know about microservices". Computerworld. Retrieved 2019-10-14.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Continuous_deployment&oldid=1260218225"
+Categories: Software development processSoftware releaseHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 29 November 2024, at 15:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Continuous deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,803 @@
+
+
+
+
+Employee retention - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Cost of turnover
+
+
+
+
+
+
+
+
+2
+Theory
+
+
+
+
+
+
+
+
+3
+Retention programs
+
+
+
+
+Toggle Retention programs subsection
+
+
+
+
+
+3.1
+Flexible work arrangements
+
+
+
+
+
+
+
+
+
+
+4
+Retention tools and resources
+
+
+
+
+
+
+
+
+5
+Join, stay, leave model
+
+
+
+
+
+
+
+
+6
+Best practices
+
+
+
+
+
+
+
+
+7
+Outsourcing employee retention program
+
+
+
+
+
+
+
+
+8
+Technological advancements in retention strategies
+
+
+
+
+
+
+
+
+9
+Diversity and inclusion
+
+
+
+
+Toggle Diversity and inclusion subsection
+
+
+
+
+
+9.1
+Challenges of diversity initiatives
+
+
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Employee retention
+
+
+
+4 languages
+
+
+
+
+العربيةDeutschفارسیעברית
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Ability of an organization to keep its employees
+The neutrality of this article is disputed. Relevant discussion may be found on the talk page. Please do not remove this message until conditions to do so are met. (October 2023) (Learn how and when to remove this message)
+Employee retention is the ability of an organization to retain its employees and ensure sustainability. Employee retention can be represented by a simple statistic (for example, a retention rate of 80% usually indicates that an organization kept 80% of its employees in a given period). Employee retention is also the strategies employers use to try to retain the employees in their workforce.[1]
+A distinction should be drawn between low-performing employees and top performers, and efforts to retain employees should be targeted at valuable, contributing employees. Employee turnover is a sign of deeper issues that have not been resolved, which may include low employee morale, absence of a clear career path, lack of recognition, poor employee-manager relationships or many other issues. A lack of job satisfaction and commitment to the organization can also cause an employee to withdraw and begin looking for other opportunities. Pay sometimes plays a smaller role in inducing turnover as is typically believed.[2]
+In a business setting, the goal of employers is usually to decrease employee turnover,[3] thereby decreasing training costs, recruitment costs and loss of talent and of organisational knowledge. By implementing lessons learned from key organizational behavior concepts, employers can improve retention rates and decrease the associated costs of high turnover. Some employers seek "positive turnover" whereby they aim to maintain only those employees whom they consider to be high performers.
+In today's environmental conscious behavior society, companies that are more responsible towards environment and sustainability practices can attract and retain employees. Employees like to be associated with companies that are environmentally friendly.[4]
+
+
+Cost of turnover[edit]
+Studies have shown that cost related to directly replacing an employee can be as high as 50–60% of the employee's annual salary, but the total cost of turnover can reach as high as 90–200% of the employee's annual salary.[5] These costs include candidate views, new hire training, the internal recruiter's salary, the costs to retain a 3rd party recruiter, separation processing, job errors, lost sales, reduced morale and a number of other costs to the organization. Turnover also affects organizational performance. High-turnover industries such as retailing, food services, call centres, elder-care nurses, and salespeople make up almost a quarter of the United States population. Replacing workers in these industries is less expensive than in other, more stable, employment fields but costs can still reach over $500 per employee.[6] As of November 2022, Gallup found that 49% of U.S. employees were watching for or actively seeking a new job.[7]
+
+Theory[edit]
+An alternative motivation theory to Maslow's hierarchy of needs is the motivator-hygiene (Herzberg's) theory. While Maslow's hierarchy implies the addition or removal of the same need stimuli will enhance or detract from the employee's satisfaction, Herzberg's findings indicate that factors garnering job satisfaction are separate from factors leading to poor job satisfaction and employee turnover. Herzberg's system of needs is segmented into motivators and hygiene factors. Hygiene factors include expected conditions that if missing will create dissatisfaction. Examples of hygiene factors include bathrooms, lighting, and the appropriate tools for a given job. Employers must utilize positive reinforcement methods while maintaining expected hygiene factors to maximize employee satisfaction and retention.[8]
+
+Retention programs[edit]
+It is important to first pinpoint the root cause of the retention issue before implementing a program to address it. Once identified, a program can be tailored to meet the unique needs of the organization. A variety of programs exist to help increase employee retention.[9]
+Orientation and onboarding – An employee's perception of an organization takes shape during the first several days on the job and continues throughout their first six months, with 90% of employees still deciding whether or not to stay in the organization during this time.[10] It is in the best interest of both the employee and the organization to impart knowledge about the company quickly and effectively to integrate the new employee into the workforce. In addition, providing continual reinforced learning through extended onboarding over the first year can increase new hire retention by 25%.[11] By implementing an effective onboarding process, new hire turnover rates will decrease and productivity will increase.
+Women's retention programs – Programs such as mentoring, leadership development and networking that are geared specifically toward women can help retain top talent and decrease turnover costs. There are many Diversity, Equity, and Inclusion[12] efforts that can contribute significantly to retaining women employees. By implementing programs to improve work/life balance, employees can be more engaged and productive while at work.[13]
+Employee recognition programs - Some of the biggest reasons for employee turnover are results of toxic company culture and not feeling engaged or recognized for their work. Companies have now started investing billions of dollars each year into bonus and employee perks programs. Forbes found in 2019 that companies that scored in the top 20% for building a ‘recognition-rich culture’ had 31% lower voluntary turnover rates.[14]
+Mental health support programs - Mental health support programs form the cornerstone of employee well-being strategies. These programs typically offer access to mental health professionals, counseling services, and other resources aimed at maintaining and improving employees' mental health. For instance, companies like Google and Microsoft have implemented comprehensive Employee Assistance Programs (EAPs) that provide free access to therapists and proactive outreach initiatives encouraging employees to seek help when needed. According to the World Health Organization (WHO),[15] for every dollar invested in mental health programs, there is a return of four dollars in improved health and productivity. These programs are particularly effective in high-stress industries such as finance, healthcare, and IT, where the risk of burnout and absenteeism is elevated.
+Flexible work arrangements - According to research from the Harvard Business Review,[16] flexible working conditions can reduce turnover by as much as 50% in some industries. By providing such arrangements, organizations signal their commitment to supporting the holistic well-being of their workforce, fostering loyalty and decreasing the likelihood of voluntary turnover.
+Stress management and mindfulness programs - Stress is a common factor in employee dissatisfaction, absenteeism, and high turnover. Mindfulness programs, which often include meditation, yoga, and cognitive-behavioral strategies, help employees develop resilience to workplace stressors. IBM[17] has incorporated mindfulness training into its well-being program, offering weekly sessions that have improved both mental clarity and employee engagement. This integration has led to a measurable reduction in stress-related absenteeism and a higher retention rate among participants. Similarly, Deloitte’s[18] focus on mindfulness and mental health initiatives has resulted in a 30% increase in employee retention, according to internal reviews. These programs promote a culture of openness and destigmatize conversations about mental health, encouraging employees to seek help and engage in practices that reduce stress, thereby enhancing their overall work experience and loyalty to the organization.
+
+Flexible work arrangements[edit]
+Flexible work arrangements (FWAs) can improve employee turnover within organizations. Both public and private sectors in countries around the world have widely adopted FWAs. These arrangements involve adapting an organization's work system to become more flexible, which may include adjusting how tasks are distributed among employees or allowing staff to set their own working hours and location.
+In fact, the concept of FWAs existed before the COVID-19 pandemic. However, the trend of using FWAs in both public and private sectors globally surged during the pandemic. According to a 2023 OECD report, almost all public sector organizations in OECD countries implemented flexible working arrangements, at least in the form of part-time work and flextime. Additionally, it is expected that more countries will increasingly adopt FWAs in the future.[19]
+Types of FWAs
+Flexible work arrangements can be categorized into two main types;[20]
+
+Flextime (or flexitime) – Increasing flexibility in working hours, such as: Fully-flextime working, Part-time working, Compressed working week and Trust-based working hours.
+Flexplace – Increasing flexibility in work location, such as:
+Telecommuting: Employees work from home or another location outside of the traditional office, using technology to communicate and collaborate.
+Remote work: Similar to telecommuting, but it often refers to a fully remote arrangement where employees never need to come to the office and work entirely from an off-site location.[21]
+Flexible work arrangements also include other models such as;[22]
+
+Hybrid work: A work model where some employees work from the office while others work remotely, blending both in-office and remote work to create flexibility.
+Job sharing: A practice where two or more employees share the responsibilities of one full-time job, distributing tasks among them based on their availability.
+Impact of FWAs on employee retention
+FWAs were found to have a positive impact on employee retention and also organizational productivity in a study.[23] The implementation of FWAs, regardless of the type, benefits employees in two key aspects:
+
+Autonomy: FWAs increase flexibility in when, where, and sometimes how employees work. For example, employees may work during nighttime instead of core hours, or choose to work from home rather than the office. This increased autonomy gives employees greater independence in managing, controlling, and making decisions about their tasks, with less oversight from supervisors. As a result, employees with higher autonomy tend to value their jobs more, experience greater happiness and job satisfaction, and are more likely to stay with their employer.[24]
+Work-life balance: Employees who work under FWAs are able to achieve greater work-life balance satisfaction due to the benefits gained from FWAs and/or increased autonomy. For example, FWAs such as working from home can reduce job-related expenses, like transportation costs, making employment more financially sustainable. FWAs like flextime also allow employees to allocate more time to their families or engage in relaxing activities. As a result, employees are less likely to experience stress and burnout—key factors that contribute to turnover. The increased autonomy and improved work-life balance help employees feel more valued and supported by their employers, ultimately reducing turnover.[25]
+Factors and limitations affecting the effectiveness of FWAs in employee retention
+FWAs are not a one-size-fits-all solution. The success of implementing FWAs to retain employees can be influenced by various factors and limitations, particularly in the public sector. This includes job characteristics, organizational capacity and resources, and supportive national policies.[26] For instance, the public sector may be unable to legally implement FWAs due to a lack of statutory support from the government. Certain roles, such as service officers or technicians, may not be suitable for FWAs, and some organizations or employees may struggle with remote work due to a lack of appropriate tools like computers or reliable internet access.
+Moreover, FWAs can sometimes negatively impact employee retention.[27] Issues such as stress and work-life conflict from unclear working hours, isolation due to a lack of physical interaction in remote work, health problems caused by compressed workweeks, or reduced engagement and productivity due to inadequate work tools can all arise. Therefore, organizations must carefully assess their circumstances, goals, the need of employees, and workforce structure to determine which types of FWAs are best suited to achieving both performance improvements and employee retention.
+
+Retention tools and resources[edit]
+Employee surveys – By surveying employees, organizations can gain insight into the motivation, engagement and satisfaction of their employees. It is important for organizations to understand the perspective of the employee in order to create programs targeting any particular issues that may impact employee retention.
+Exit interviews – By including exit interviews in the process of employee separation, organizations can gain valuable insight into the workplace experience. Exit interviews allow the organization to understand the triggers of the employee's desire to leave as well as the aspects of their work that they enjoyed. The organization can then use this information to make necessary changes to their company to retain top talent. Exit interviews must, however, ask the right questions and elicit honest responses from separating employees to be effective.
+Employee retention consultants – An employee retention consultant can assist organizations in the process of retaining top employees. Consultants can provide expertise on how to best identify the issues within an organization that are related to turnover. Once identified, a consultant can suggest programs or organizational changes to address these issues and may also assist in the implementation of these programs or changes.[28]
+Join, stay, leave model[edit]
+Why employees join – The attractiveness of the position is usually what entices employees to join an organization. However, recruiting candidates is only half the problem while retaining employees is another. Understanding what your employees are looking for in the job while simultaneously making sure your expectations are correct are both important factors to address in the hiring process.[29] High performing employees are more likely to be retained when they are given realistic job previews. Organizations that attempt to oversell the position or company are only contributing to their own detriment when employees experience a discord between the position and what they were initially told. To assess and maintain retention, employers should mitigate any immediate conflicts of misunderstanding in order to prolong the employee's longevity with the organization. New-hire surveys can help to identify the breakdowns in trust that occur early on when employees decide that the job was not necessarily what they envisioned.[30]
+Why employees stay – Understanding why employees stay with an organization is equally as important to understanding why employees choose to leave. Recent studies have suggested that as employees participate in their professional and community life, they develop a web of connections and relationships. These relationships prompt employees to become more embedded in their jobs and by leaving a job; this would sever or rearrange these social networks. The more embedded employees are in an organization, the more they are likely to stay.[31] Additionally, the extent to which employees experience fit between themselves at their job, the lesser chance they will search elsewhere. Organizations can ascertain why employees stay by conducting stay interviews with top performers. A stay survey can help to take the pulse of an organization's current work environment and its impact on their high performing employees. Employers that are concerned with over-using stay interviews can achieve the same result by favoring an ongoing dialogue with employees and asking them critical questions pertaining to why they stay and what their goals are.[2]
+Why employees leave – By understanding the reasons behind why employees leave, organizations can better cater to their existing workforce and influence these decisions in the future. Oftentimes, it is low satisfaction and commitment that initiates the withdrawal process, which includes thoughts of quitting in search of more attractive alternatives. If administered correctly, exit interviews can provide a great resource to why employees leave. Typically, employees are stock in their responses because they fear being reprimanded or jeopardizing any potential future reference.[30] The most common reasons for why employees leave are better pay, better hours and better opportunity. These typical answers for leaving, often signal a much deeper issue that employers should investigate further into. By asking relevant questions and perhaps utilizing a neutral third party provider to conduct the interview, employers can obtain more accurate and quantifiable data. Contrary to what most organizations believe, employees often leave due to relationships with manager and/or treatment of employees and not compensation, as this is often a response that employees are uncomfortable expressing to their organization directly.[30] Retention Diagnostic is a rapid benchmarking process that identifies the costs and can help uncover what affects employee loyalty, performance and engagement.[32]
+
+Best practices[edit]
+Recruitment – Presenting applicants with realistic job previews during the recruitment process have a positive effect on retaining new hires. Employers that are transparent about the positive and negative aspects of the job, as well as the challenges and expectations are positioning themselves to recruit and retain stronger candidates.[2]
+Selection – Life experiences associated with employees may include tenure on previous jobs, education experiences, and involvement and leadership in related work experiences.[2]
+Socialization – Socialization practices delivered via a strategic onboarding and assimilation program can help new employees become embedded in the company and thus more likely to stay. Research has shown that socialization practices can help new hires become embedded in the company and thus more likely to stay. These practices include shared and individualized learning experiences, activities that allow people to get to know one another. Such practices may include providing employees with a role model, mentor or trainer or providing timely and adequate feedback.[2]
+Training and development – Providing ample training and development opportunities can discourage turnover by keeping employees satisfied and well-positioned for future growth opportunities. In fact, dissatisfaction with potential career development is one of the top three reasons employees (35%) often feel inclined to look elsewhere. if employees are not given opportunities to continually update their skills, they are more likely to leave. Those who receive more training are less likely to quit than those who receive little or no training. Employers that fear providing training will make their employees more marketable and thus increase turnover can offer job specific training, which is less transferable to other contexts. Additionally, employers can increase retention through development opportunities such as allowing employees to further their education and reimbursing tuition for employees who remain with the company for a specified amount of time.[2]
+Compensation and rewards – Pay levels and satisfaction are only modest predictors of an employee's decision to leave the organization; however organizations can lead the market with a strong compensation and reward package as 53% of employees often look elsewhere because of poor compensation and benefits. Organizations can explicitly link rewards to retention (i.e. vacation hours to seniority, offer retention Bonus payments or Employee stock options, or define benefit plan payouts to years of services)[33] Research has shown that defined compensation and rewards as associated with longer tenure. Additionally, organizations can also look to intrinsic rewards such as increased decision-making autonomy.
+Effective leaders – An employee's relationship with his/her immediately ranking supervisor or manager is equally important to keeping to making an employee feel embedded and valued within the organization. Supervisors need to know how to motivate their employees and reduce cost while building loyalty in their key people. Managers need to reinforce employee productivity and open communication, to coach employees and provide meaningful feedback and inspire employees to work as an effective team.[34] In order to achieve this, organizations need to prepare managers and supervisors to lead and develop effective relationships with their subordinates. Executive Coaching can help increase an individual's effectiveness as a leader as well as boast a climate of learning, trust and teamwork in an organization. to encourage supervisors to focus on retention among their teams, organizations can incorporate a retention metric into their organization's evaluation.
+Employee engagement – Employees who are satisfied with their jobs, enjoy their work and the organization, believe their job to be more important, take pride in the company and feel their contributions are impactful are five times less likely to quit than employees who were not engaged.[35] Engaged employees give their companies crucial competitive advantages, including higher productivity and lower employee turnover.
+Employee benefits - Benefits are a critical piece of the equation in retaining employees. Employees are looking for benefits that span more than the core basics. With a robust rewards and benefits package and an effective benefits communication plan, employee engagement and retention can improve. Nurturing your employees understanding of the total value of their benefits package and how to strategically use it will enhance their experience and total well-being.[36]
+
+Outsourcing employee retention program[edit]
+Turnover costs can have significant negative impact on a company's performance. Turnover cost can represent more than 12 percent of pre-tax income for the average company and nearly 40 percent for companies at the 75th percentile for turnover rate.[37]
+
+Technological advancements in retention strategies[edit]
+Recent technological advancements have significantly transformed employee retention strategies, enabling organizations to adopt more sophisticated and data-driven approaches.
+One of the most impactful technologies in this area is Artificial Intelligence (AI), which has revolutionized how companies understand and address employee turnover. AI tools analyze extensive datasets, such as employee performance metrics, feedback, and engagement levels, to identify patterns that may indicate potential turnover.[38] By applying machine learning algorithms, these systems can predict which employees are at risk of leaving and suggest interventions to enhance their job satisfaction and engagement.[39] This predictive capability allows HR professionals to proactively address issues, such as career development needs and workplace culture improvements, thereby reducing turnover rates and retaining top talent.
+Human resource analytics, which includes the methodical collecting and analysis of employee data and human resource metrics to enhance retention-related decision-making processes, complements AI's impact on retention strategies. Organizations can identify the root causes of employee attrition by using HR analytics, which offers a holistic perspective of workforce dynamics. By addressing issues identified through data analysis, such as inadequate career advancement opportunities or non-competitive compensation packages, organizations can enhance employee satisfaction and commitment.[40] Furthermore, HR analytics supports the personalization of employee experiences, allowing companies to tailor development programs, benefits, and recognition systems to individual preferences, thereby fostering a more engaging and supportive work environment.[41]
+Digital platforms and mobile applications have also become integral to modern retention strategies, facilitating real-time communication and feedback between employees and management. These platforms often incorporate gamification elements to enhance motivation and participation. Gamification is the process of turning ordinary tasks into interesting challenges by including elements from games, like leaderboards, badges, and points. This increases employee happiness and involvement.[42] This approach contributes to a positive organizational culture by making employees feel valued and heard. Moreover, digital platforms provide a channel for employees to voice their concerns and suggestions, fostering an environment of trust and transparency.[43]
+New technologies like augmented reality (AR) and virtual reality (VR) are being investigated to improve staff development programs, which are essential parts of retention tactics. With the use of these immersive technologies, training sessions may be effectively and engagingly delivered, enhancing both skill acquisition and job satisfaction. With the use of VR and AR, workers may practice and learn new skills in a risk-free environment by simulating real-world circumstances.[44]
+
+Diversity and inclusion[edit]
+Diversity, equity, and inclusion (DEI) initiatives are designed to promote equity, combat discrimination, and provide support for diverse employee needs. Research conducted by Ashikali and Groeneveld in 2015 established that the positive effect of diversity management on employee commitment is often mediated by the inclusiveness of the organizational culture and the role of transformational leadership.[45] Supervisors who promote inclusion are crucial in the effective implementation of these initiatives, enhancing employee attachment and reducing turnover. Trochmann, Stewart, and Ragusa (2023) found that positive perceptions of diversity and inclusion were significantly associated with higher levels of job satisfaction and overall workplace happiness in racially diverse agencies. This demonstrates that public organizations can improve retention by cultivating environments where diversity is positively affirmed and acknowledged.[46] Brimhall, Lizano, and Barak (2014) emphasized that a positive diversity climate reduces employees' intention to leave by fostering a sense of inclusion and job satisfaction.[47] This effect is particularly notable in child welfare services, where diverse employees felt more valued when inclusive practices were present, which, in turn, reduced turnover rates.[citation needed]
+
+Challenges of diversity initiatives[edit]
+Diversity initiatives could unintentionally alienate traditionally advantaged groups, who may perceive these programs as unfair or believe that they disadvantage them in hiring and promotion.[48] These perceptions can lead to internal conflicts and negatively affect the overall inclusiveness of the workplace, ultimately reducing the effectiveness of retention efforts. Another challenge lies in the implementation of childcare programs as part of diversity initiatives. Chordiya (2018) found that, although these programs aimed to support diverse employees, they were not equally effective across genders. For instance, female employees benefited more from inclusive organizational practices combined with childcare support than from childcare support alone.[49]
+Ritz and Alfes (2018) showed that in multilingual public administrations, employees’ attachment to their jobs increased when their supervisors actively supported diversity and fostered an inclusive environment.[50] Choi and Rainey (2014) highlighted the importance of leadership in promoting perceived organizational fairness, which positively correlates with job satisfaction and retention rates.[51]
+
+References[edit]
+
+
+^ "What is Employee retention".
+
+^ a b c d e f Allen, D.G. (2008). Retaining Talent. Retrieved from "The resource cannot be found".
+
+^ Main, Kelly (12 October 2022). "Employee Turnover rate - Definition and Calculation". Forbes.
+
+^ Wisker, Zazli Lily; Kwiatek, Piotr (2019-04-23). "Environmental orientation and employee-based brand equity in 4 to 5-star hotels". Anatolia. 30 (3): 404–419. Bibcode:2019Anato..30..404W. doi:10.1080/13032917.2019.1604393. ISSN 1303-2917. S2CID 169947915.
+
+^ Cascio, W.F. 2006. Managing Human Resources: Productivity, Quality of Work Life, Profits (7th ed.). Burr Ridge, IL: Irwin/McGraw-Hill. Mitchell, T.R., Holtom, B.C., & Lee, T.W. 2001. How to keep your best employees:
+
+^ "Labours Lost". The Economist. Retrieved 18 January 2015.
+
+^ Gallup's Indicators: Employee Retention & Attraction
+
+^ Breaugh, James A., and Mary Starke. "Research on Employee Recruitment: So Many Studies, So Many Remaining Questions." Journal of Management (2000): 305-434. Web. 12 March 2011.
+
+^ "Talent Wars: The Struggle for Tomorrow's Workforce" (PDF). The Economist. Economist Intelligence Unit. Retrieved 18 January 2015.
+
+^ Partnership for Public Service, Getting On Board: A Model for Integrating and Engaging New Employees,” 2008
+
+^ "Employee Onboarding Program Strategies | Chronus". Retrieved 2015-08-31.
+
+^ "Women in the workplace 2022". McKinsey. October 18, 2022.
+
+^ "Retention Skills Training: New and Current Managers".
+
+^ "5 Ways to Provide Meaningful Recognition | PerkUp". Retrieved 2021-11-17.
+
+^ World Health Organization. "Mental health in the workplace: Going global". www.who.int.
+
+^ "The benefits of flexible work arrangements". Harvard Business Review. 4 October 2021.
+
+^ IBM. "Mindfulness and stress reduction in the workplace". IBM.
+
+^ Deloitte. "Mental health initiatives and employee retention". Deloitte.
+
+^ OECD (2023-06-30). "Flexible ways of working". Government at a Glance 2023. OECD. doi:10.1787/ed219e29-en. ISBN 978-92-64-67279-6.
+
+^ Thompson, Rebecca J.; Payne, Stephanie C.; Taylor, Aaron B. (December 2015). "Applicant attraction to flexible work arrangements: Separating the influence of flextime and flexplace". Journal of Occupational and Organizational Psychology. 88 (4): 726–749. doi:10.1111/joop.12095. ISSN 0963-1798.
+
+^ "Telework vs. Remote Work: What's the Difference?". Velocity Global. Retrieved 2024-09-27.
+
+^ Joyner, Sam (2023-07-11). "8 Types of Flexible Work Arrangements Explained". ViewSonic Library. Retrieved 2024-09-25.
+
+^ University of Nigeria, Nsukka, Nigeria; Onyekwelu, Njideka Phina; Monyei, Ezieshi Francis; Nnamdi Azikiwe University, Awka, Nigeria; Muogbo, Uju Sussan; Chukwuemeka Odumegwu Ojukwu University, Igbariam, Nigeria (2022-12-01). "Flexible Work Arrangements and Workplace Productivity: Examining The Nexus". International Journal of Financial, Accounting, and Management. 4 (3): 303–314. doi:10.35912/ijfam.v4i3.1059.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+
+^ Metselaar, Samantha Alexandra; den Dulk, Laura; Vermeeren, Brenda (September 2023). "Teleworking at Different Locations Outside the Office: Consequences for Perceived Performance and the Mediating Role of Autonomy and Work-Life Balance Satisfaction". Review of Public Personnel Administration. 43 (3): 456–478. doi:10.1177/0734371X221087421. ISSN 0734-371X.
+
+^ "Analysis of the Pros and Cons of Implementing Flexible Working Arrangements and Optimization of Strategies". Academic Journal of Business & Management. 5 (27). 2023. doi:10.25236/AJBM.2023.052712.
+
+^ Brega, Carla; Briones, Samuel; Javornik, Jana; León, Margarita; Yerkes, Mara (2023-01-01). "Flexible work arrangements for work-life balance: a cross-national policy evaluation from a capabilities perspective". International Journal of Sociology and Social Policy. 43 (13/14): 278–294. doi:10.1108/IJSSP-03-2023-0077. ISSN 0144-333X.
+
+^ Soga, Lebene Richmond; Bolade-Ogunfodun, Yemisi; Mariani, Marcello; Nasr, Rita; Laker, Benjamin (2022-03-01). "Unmasking the other face of flexible working practices: A systematic literature review". Journal of Business Research. 142: 648–662. doi:10.1016/j.jbusres.2022.01.024. hdl:11585/858268. ISSN 0148-2963.
+
+^ "Retensa - Employee Retention Strategies that Reduce Staff Turnover". Retensa.
+
+^ "3 Proven Ways to Make Your Company More Attractive". Randstad USA. Retrieved 18 January 2015.
+
+^ a b c Hash, Susan, (2012). Getting a handle on agent turnover. Contact Center Pipeline
+
+^ "Managing for Employee Retention". Archived from the original on 2021-08-16. Retrieved 2021-09-17.
+
+^ "Benchmark, Forecast, and Solve Workforce Issues".
+
+^ Managing employee retention. Employee retention
+
+^ "Retensa - Employee Retention Strategies that Reduce Staff Turnover". Retensa.
+
+^ "Work Culture: Developing and Sustaining Employee Engagement - Leadership Articles and Quotes - Born Leadership". www.bornleadership.com. 2022-01-20. Retrieved 2022-02-24.
+
+^ "Best Practices to Help Employees Maximize Benefits Value". Benefitfocus.
+
+^ "Measure Cost Of Turnover, Solve Turnover Problems".
+
+^ Marín Díaz, Gabriel; Galán Hernández, José Javier; Galdón Salvador, José Luis (January 2023). "Analyzing Employee Attrition Using Explainable AI for Strategic HR Decision-Making". Mathematics. 11 (22): 4677. doi:10.3390/math11224677. hdl:10251/212976. ISSN 2227-7390.
+
+^ Hall, Owen P. (2021). "Managing employee turnover: machine learning to the rescue". International Journal of Data Science. 6 (1): 57. doi:10.1504/IJDS.2021.117472. ISSN 2053-0811.
+
+^ Virani, Dr. Farida (2023). "Application of HR Analytics in Business". Met Management Review. 07 (2): 05–19. doi:10.34047/mmr.2020.7201.
+
+^ Malik, Ashish; Budhwar, Pawan; Patel, Charmi; Srikanth, N. R. (2022-03-26). "May the bots be with you! Delivering HR cost-effectiveness and individualised employee experiences in an MNE". The International Journal of Human Resource Management. 33 (6): 1148–1178. doi:10.1080/09585192.2020.1859582. ISSN 0958-5192.
+
+^ Silic, Mario; Marzi, Giacomo; Caputo, Andrea; Bal, P. Matthijs (April 2020). "The effects of a gamified human resource management system on job satisfaction and engagement". Human Resource Management Journal. 30 (2): 260–277. doi:10.1111/1748-8583.12272. ISSN 0954-5395.
+
+^ Ghani, Bilqees; Malik, Muhammad Abdur Rahman (2023-10-26). "Social media and employee voice: a comprehensive literature review". Behaviour & Information Technology. 42 (14): 2407–2427. doi:10.1080/0144929X.2022.2126329. ISSN 0144-929X.
+
+^ Holuša, Věroslav; Vaněk, Michal; Beneš, Filip; Švub, Jiří; Staša, Pavel (January 2023). "Virtual Reality as a Tool for Sustainable Training and Education of Employees in Industrial Enterprises". Sustainability. 15 (17): 12886. doi:10.3390/su151712886. hdl:10084/152381. ISSN 2071-1050.
+
+^ Ashikali, Tanachia; Groeneveld, Sandra (June 2015). "Diversity Management in Public Organizations and Its Effect on Employees' Affective Commitment: The Role of Transformational Leadership and the Inclusiveness of the Organizational Culture". Review of Public Personnel Administration. 35 (2): 146–168. doi:10.1177/0734371X13511088. ISSN 0734-371X.
+
+^ Trochmann, Maren; Stewart, Kendra; Ragusa, Jordan (December 2023). "The Impact of Employee Perceptions of Inclusion in a Racially Diverse Agency: Lessons From a State Government Survey". Public Personnel Management. 52 (4): 543–565. doi:10.1177/00910260231187544. ISSN 0091-0260.
+
+^ Brimhall, Kim C.; Lizano, Erica Leeanne; Mor Barak, Michàlle E. (2014-05-01). "The mediating role of inclusion: A longitudinal study of the effects of leader–member exchange and diversity climate on job satisfaction and intention to leave among child welfare workers". Children and Youth Services Review. 40: 79–88. doi:10.1016/j.childyouth.2014.03.003. ISSN 0190-7409.
+
+^ Dover, Tessa L.; Kaiser, Cheryl R.; Major, Brenda (January 2020). "Mixed Signals: The Unintended Effects of Diversity Initiatives". Social Issues and Policy Review. 14 (1): 152–181. doi:10.1111/sipr.12059. ISSN 1751-2395.
+
+^ Chordiya, Rashmi (April 2019). "Are Federal Child Care Programs Sufficient for Employee Retention? Critical Examination From a Gendered Perspective". The American Review of Public Administration. 49 (3): 338–352. doi:10.1177/0275074018804662. ISSN 0275-0740.
+
+^ Ritz, Adrian; Alfes, Kerstin (March 2018). "Multicultural public administration: Effects of language diversity and dissimilarity on public employees' attachment to employment". Public Administration. 96 (1): 84–103. doi:10.1111/padm.12366. ISSN 0033-3298.
+
+^ Choi, Sungjoo; Rainey, Hal G. (December 2014). "Organizational Fairness and Diversity Management in Public Organizations: Does Fairness Matter in Managing Diversity?". Review of Public Personnel Administration. 34 (4): 307–331. doi:10.1177/0734371X13486489. ISSN 0734-371X.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Employee_retention&oldid=1293536861"
+Categories: Human resource managementEmployee relationsHidden categories: CS1 maint: multiple names: authors listArticles with short descriptionShort description is different from WikidataWikipedia neutral point of view disputes from October 2023All Wikipedia neutral point of view disputesAll articles with unsourced statementsArticles with unsourced statements from October 2024
+
+
+
+
+
+
+ This page was last edited on 2 June 2025, at 07:20 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Employee retention
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

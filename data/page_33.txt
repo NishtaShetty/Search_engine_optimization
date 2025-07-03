@@ -1,0 +1,1090 @@
+
+
+
+
+Home automation - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Applications and technologies
+
+
+
+
+
+
+
+
+3
+Implementations
+
+
+
+
+
+
+
+
+4
+Criticism and controversies
+
+
+
+
+
+
+
+
+5
+Impact
+
+
+
+
+
+
+
+
+6
+Gallery
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Home automation
+
+
+
+49 languages
+
+
+
+
+العربيةAzərbaycancaБългарскиBosanskiCatalàČeštinaDanskEestiEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego한국어Հայերենहिन्दीHrvatskiIgboBahasa IndonesiaIsiZuluItalianoעבריתҚазақшаLatviešuLombardMagyarNederlands日本語Norsk bokmålOccitanOʻzbekcha / ўзбекчаPolskiPortuguêsRomânăРусскийSlovenčinaSlovenščinaСрпски / srpskiSvenskaதமிழ்ไทยTürkçeУкраїнськаVènetoTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Smart homes)
+Building automation for a home
+
+
+"Domotic" redirects here and is not to be confused with Demotic.
+"Smart house" redirects here. For the film, see Smart House.
+Part of a series onAutomation
+Automation in general
+
+Banking
+Building
+Home
+Highway system
+Laboratory
+Library
+Broadcast
+Mix
+Pool cleaner
+Pop music
+Reasoning
+Semi-automation
+Telephone
+Attendant
+Switchboard
+Teller machine
+Vehicular
+Vending machine
+
+
+Robotics and robots
+
+Domestic
+Vacuum cleaner
+Roomba
+Lawn mower
+Guided vehicle
+Industrial
+Paint
+ODD
+
+
+Impact of automation
+
+Manumation
+OOL
+Bias
+Self-driving cars
+Technological unemployment
+Jobless recovery
+Post-work society
+Threat
+
+
+Trade shows and awards
+
+ASP-DAC
+DAC
+DATE
+IEEE Robotics and Automation Award
+ICCAD
+
+vte
+Room control unit
+CITIB-AMX control panel
+Nest Learning Thermostat showing weather's impact on energy usage
+Ring video doorbell with Wi-Fi camera
+August Home smart lock
+Home automation or domotics[1] is building automation for a home. A home automation system will monitor and/or control home attributes such as lighting, climate, entertainment systems, and appliances. It may also include home security such as access control and alarm systems. 
+The phrase smart home refers to home automation devices that have internet access.  Home automation, a broader category, includes any device that can be monitored or controlled via wireless radio signals, not just those having internet access.  When connected with the Internet, home sensors and activation devices are an important constituent of the Internet of Things ("IoT").[2]
+A home automation system typically connects controlled devices to a central smart home hub (sometimes called a "gateway"). The user interface for control of the system uses either wall-mounted terminals, tablet or desktop computers, a mobile phone application, or a Web interface that may also be accessible off-site through the Internet.
+
+
+History
+Early home automation began with labor-saving machines. Self-contained electric or gas powered home appliances became viable in the 1900s with the introduction of electric power distribution[3] and led to the introduction of washing machines (1904), water heaters (1889), refrigerators (1913), sewing machines, dishwashers, and clothes dryers.
+In 1975, the first general purpose home automation network technology, X10, was developed. It is a communication protocol for electronic devices. It primarily uses electric power transmission wiring for signalling and control, where the signals involve brief radio frequency bursts of digital data, and remains the most widely available.[4]
+By 2012, in the United States, according to ABI Research, 1.5 million home automation systems were installed.[5]
+Per research firm Statista[6] more than 45 million smart home devices will be installed in U.S. homes by the end of the year 2018.[7] From 2018 to 2023, the number of U.S. homes equipped with smart devices grew at 10.2% per year to reach 63.43 million by 2023.[8]
+The word "domotics" is a contraction of the Latin word for a home (domus) and the word robotics.[1] The word "smart" in "smart home" refers to the system being aware of the state of its devices, which is done through the information and communication technologies (ICT) protocol and the Internet of Things (IoT).[9]
+
+Applications and technologies
+Home automation is prevalent in a variety of different realms, including:
+
+Heating, ventilation and air conditioning (HVAC): it is possible to have remote control of all home energy monitors over the internet incorporating a simple and friendly user interface.[10][11]
+Lighting control system: a "smart" network that incorporates communication between various lighting system inputs and outputs, using one or more central computing devices.
+Occupancy-aware control system: it is possible to sense the occupancy of the home using smart meters[12] and environmental sensors like CO2 sensors,[13] which can be integrated into the building automation system to trigger automatic responses for energy efficiency and building comfort applications.
+Appliance control and integration with the smart grid and a smart meter, taking advantage, for instance, of high solar panel output in the middle of the day to run washing machines.[14][15]
+Home robots and security: a household security system integrated with a home automation system can provide additional services such as remote surveillance of security cameras over the Internet, or access control and central locking of all perimeter doors and windows.[16]
+Leak detection, smoke and CO detectors[17][18]
+Laundry-folding machine, self-making bed
+Indoor positioning systems (IPS).
+Home automation for the elderly and disabled.
+Pet and baby care, for example tracking the pets and babies' movements and controlling pet access rights.[19]
+Air quality control (inside and outside). For example, Air Quality Egg is used by people at home to monitor the air quality and pollution level in the city and create a map of the pollution.[20]
+Smart kitchen, with refrigerator inventory, premade cooking programs, cooking surveillance, etc.
+Voice control devices like Amazon Alexa or Google Nest used to control home appliances or systems.
+Implementations
+Internet enabled cat feederIn 2011, Microsoft Research found that home automation could involve a high cost of ownership, inflexibility of interconnected devices, and poor manageability.[21] When designing and creating a home automation system, engineers take into account several factors including scalability, how well the devices can be monitored and controlled, ease of installation and use for the consumer, affordability, speed, security, and ability to diagnose issues.[22] Findings from iControl showed that consumers prioritize ease-of-use over technical innovation, and although consumers recognize that new connected devices have an unparalleled cool factor, they are not quite ready to use them in their own homes yet.[23]
+Historically, systems have been sold as complete systems where the consumer relies on one vendor for the entire system including the hardware, the communications protocol, the central hub, and the user interface. However, there are now open hardware and open source software systems which can be used instead of or with proprietary hardware.[21] Many of these systems interface with consumer electronics such as the Arduino or Raspberry Pi, which are easily accessible online and in most electronics stores.[24] In addition, home automation devices are increasingly interfaced with mobile phones through Bluetooth, allowing for increased affordability and customizability for the user.[9]
+
+Criticism and controversies
+Home automation suffers from platform fragmentation and lack of technical standards[25][26][27][28][29][30] a situation where the variety of home automation devices, in terms of both hardware variations and differences in the software running on them, makes the task of developing applications that work consistently between different inconsistent technology ecosystems hard.[31] Customers may hesitate to bet their IoT future on proprietary software or hardware devices that use proprietary protocols that may fade or become difficult to customize and interconnect.[32]
+The nature of home automation devices can also be a problem for security, data security and data privacy, since patches to bugs found in the core operating system often do not reach users of older and lower-price devices.[33][34] One set of researchers say that the failure of vendors to support older devices with patches and updates leaves more than 87% of active devices vulnerable.[35][36]
+Concerns have been raised by tenants renting from landlords who decide to upgrade units with smart home technology.[37] These concerns include weak wireless connections that render the door or appliance unusable or impractical; the security of door passcodes kept by the landlord; and the potential invasion of privacy that comes with connecting smart home technologies to home networks.[38]
+Researchers have also conducted user studies to determine what the barriers are for consumers when integrating home automation devices or systems into their daily lifestyle. One of the main takeaways was regarding ease of use, as consumers tend to steer towards "plug and play" solutions over more complicated setups.[39] One study found that there were large gaps in the mental-models generated by users regarding how the devices actually work.[39] Specifically, the findings showed that there was a lot of misunderstanding related to where the data collected by smart devices was stored and how it was used.[39] For example, in a smart light setup, one participant thought that her iPad communicated directly with the light, telling it to either turn-off or on.[39] In reality, the iPad sends a signal to the cloud system that the company uses (in this case, the Hue Bridge) which then signals directly to the device.[39]
+Overall, this field is still evolving and the nature of each device is constantly changing. While technologists work to create more secure, streamlined, and standardized security protocols, consumers also need to learn more about how these devices work and what the implications of putting them in their homes can be. The growth of this field is currently limited not only by technology but also by a user's ability to trust a device and integrate it successfully into his/her daily life.
+
+Impact
+Utilizing home automation could lead to more efficient and intelligent energy-saving techniques.[40] By integrating information and communication technologies (ICT) with renewable energy systems such as solar power or wind power, homes can autonomously make decisions about whether to store energy or expend it for a given appliance,[40] leading to overall positive environmental impacts and lower electricity bills for the consumers using the system. To do this, researchers propose using data from sensors regarding consumer activity within the home to anticipate consumer needs and balance that with energy consumption.[41]
+Furthermore, home automation has a large potential regarding family safety and security. According to a 2015 survey done by iControl, the primary drivers of the demand for smart and connected devices are first "personal and family security", and second "excitement about energy savings".[42] Home automation includes a variety of smart security systems and surveillance setups. This allows consumers to monitor their homes while away, and to give trusted family members access to that information in case anything bad happens.
+While there are many competing vendors, there are increasing efforts towards open source systems. However, there are issues with the current state of home automation including a lack of standardized security measures and deprecation of older devices without backwards compatibility.
+Home automation has high potential for sharing data between family members or trusted individuals for personal security purposes and could lead to energy saving measures with a positive environmental impact in the future.
+The home automation market was worth US$64 billion in 2022 and is projected to grow to over $163 billion in 2028.[citation needed]
+
+Gallery
+
+
+
+Domestic patch panel, unstructured
+
+
+
+Well and booster pump automation
+
+
+See also
+
+Housing portal
+Home automation companies
+List of home automation software
+Index of home automation articles
+Home network
+List of network buses
+Mobile manipulator and Mobile robot
+Smart device and smart speaker
+Web of Things
+References
+
+
+^ a b Hill, Jim (12 September 2015). "The smart home: a glossary guide for the perplexed". T3. Retrieved 27 March 2017.
+
+^ Chakraborty, Arindom; Islam, Monirul; Shahriyar, Fahim; Islam, Sharnali; Zaman, Hasan U.; Hasan, Mehedi (2023). "Smart Home System: A Comprehensive Review". Journal of Electrical and Computer Engineering. 2023: 1–30. doi:10.1155/2023/7616683.
+
+^ Home Automation & Wiring (1 ed.). New York: McGraw-Hill/TAB Electronics. 1999-03-31. ISBN 978-0-07-024674-4.
+
+^ Rye, Dave (October 1999). "My Life at X10". AV and Automation Industry eMagazine. Archived from the original on September 30, 2014. Retrieved October 8, 2014.
+
+^ "1.5 Million Home Automation Systems Installed in the US This Year". ABI Research. November 19, 2012. Retrieved 2016-11-22.
+
+^ "Smart Home - United States | Statista Market Forecast". Statista. Retrieved 2019-11-07.
+
+^ Caccavale, Michael (September 24, 2018). "The Impact Of The Digital Revolution On The Smart Home Industry". Forbes. Retrieved 2019-11-07.
+
+^ "Number of users of the smart home segment smart appliances in the United States from 2019 to 2028". Statista. Feb 24, 2025. Retrieved 2025-04-11.
+
+^ a b Mandula, K.; Parupalli, R.; Murty, C. A. S.; Magesh, E.; Lunagariya, R. (December 2015). "Mobile based home automation using Internet of Things(IoT)". 2015 International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT). pp. 340–343. doi:10.1109/ICCICCT.2015.7475301. ISBN 978-1-4673-9825-1. S2CID 14737576.
+
+^ Preville, Cherie (26 Aug 2013). "Control Your Castle: The Latest in HVAC Home Automation". ACHRNews. Retrieved 15 Jun 2015.
+
+^ Asadullah, Muhammad (22 Dec 2016). "An Overview of Home Automation Systems". Conference Paper. IEEE. pp. 27–31. doi:10.1109/ICRAI.2016.7791223. ISBN 978-1-5090-4059-9.
+
+^ Jin, M.; Jia, R.; Spanos, C. (2017-01-01). "Virtual Occupancy Sensing: Using Smart Meters to Indicate Your Presence". IEEE Transactions on Mobile Computing. PP (99): 3264–3277. arXiv:1407.4395. doi:10.1109/TMC.2017.2684806. ISSN 1536-1233. S2CID 1997078.
+
+^ Jin, M.; Bekiaris-Liberis, N.; Weekly, K.; Spanos, C. J.; Bayen, A. M. (2016-01-01). "Occupancy Detection via Environmental Sensing". IEEE Transactions on Automation Science and Engineering. PP (99): 443–455. doi:10.1109/TASE.2016.2619720. ISSN 1545-5955. S2CID 4600376.
+
+^ Berger, Lars T.; Schwager, Andreas; Pagani, Pascal; Schneider, Daniel M. (February 2014). Smart Grid Applications, Communications, and Security. Devices, Circuits, and Systems. CRC Press. ISBN 978-1-4665-5752-9.
+
+^ "Tips: Smart Appliances | Department of Energy". energy.gov. Archived from the original on 2015-09-29. Retrieved 2016-04-20.
+
+^ Griffiths, Melanie (June 2016). "Smart Home Security". Homebuilding & Renovating. Retrieved 27 February 2012.
+
+^ "Nest Protect | Smoke and CO Alarms - Consumer Reports News". www.consumerreports.org. Retrieved 2016-04-20.
+
+^ "Nest Protect | Smoke and CO Alarms - Consumer Reports News". Retrieved 2016-11-22.
+
+^ "Sure Flap - Smart Cat Flap Coming Soon! - News - Smart Home Geeks". Smart Home Geeks. 2017-04-06. Retrieved 2017-08-11.
+
+^ Kamel Boulos, Maged N; Al-Shorbaji, Najeeb M (2014). "On the Internet of Things, smart cities and the WHO Healthy Cities". International Journal of Health Geographics. 13 (1): 10. doi:10.1186/1476-072x-13-10. PMC 3987056. PMID 24669838.
+
+^ a b Brush, A. J.; Lee, Bongshin; Mahajan, Ratul; Agarwal, Sharad; Saroiu, Stefan; Dixon, Colin (2011-05-01). "Home Automation in the Wild: Challenges and Opportunities". Microsoft Research.
+
+^ Sriskanthan, N.; Tan, F.; Karande, A. (August 2002). "Bluetooth based home automation system". Microprocessors and Microsystems. 26 (6): 281–289. doi:10.1016/S0141-9331(02)00039-X.
+
+^ "2015 State of the Smart Home Report" (PDF). iControl Networks. Archived from the original (PDF) on 29 June 2021. Retrieved 5 November 2020.
+
+^ Rout, Kshirod Kumar; Mallick, Samuchita; Mishra, Sivkuinar (July 2018). "Design and Implementation of an Internet of Things based Prototype for Smart Home Automation System". 2018 International Conference on Recent Innovations in Electrical, Electronics & Communication Engineering (ICRIEECE). Bhubaneswar, India: IEEE. pp. 67–72. doi:10.1109/ICRIEECE44171.2018.9008410. ISBN 978-1-5386-5995-3. S2CID 211688876.
+
+^ "IoT experts fret over fragmentation". Mobile World Live. 2016-02-25. Retrieved 2016-11-22.
+
+^ "Fragmentation is the enemy of the Internet of Things". Qualcomm. 2016-02-19. Retrieved 2016-11-22.
+
+^ "Internet of Things: Opportunities and challenges for semiconductor companies". McKinsey & Company. Retrieved 2016-11-22.
+
+^ "IOT Brings Fragmentation in Platform" (PDF). Archived from the original (PDF) on 2016-10-07. Retrieved 2018-03-19.
+
+^ "Countering Fragmentation with the Web of Things" (PDF).
+
+^ Steve Kovach (July 30, 2013). "Android Fragmentation Report". Business Insider. Retrieved October 19, 2013.
+
+^ Brown, Eric (September 13, 2016). "Who Needs the Internet of Things?". Linux.com. Retrieved 2016-11-22.
+
+^ "21 Open Source Projects for IoT". Linux.com. 20 September 2016. Retrieved 2016-11-22.
+
+^ Franceschi-Bicchierai, Lorenzo (July 29, 2015). "Goodbye, Android". Motherboard. Vice. Retrieved August 2, 2015.
+
+^ Kingsley-Hughes, Adrian (June 9, 2014). "The Android 'toxic hellstew' survival guide". ZDnet. Retrieved August 2, 2015.
+
+^ Tung, Liam (2015-10-13). "Android security a 'market for lemons' that leaves 87 percent vulnerable". ZDNet. Retrieved 2015-10-14.
+
+^ Thomas, Daniel R.; Beresford, Alastair R.; Rice, Andrew (2015). Proceedings of the 5th Annual ACM CCS Workshop on Security and Privacy in Smartphones and Mobile Devices - SPSM '15 (PDF). Computer Laboratory, University of Cambridge. pp. 87–98. doi:10.1145/2808117.2808118. ISBN 978-1-4503-3819-6. S2CID 14832327. Retrieved 2015-10-14.
+
+^ Ng, Alfred (March 7, 2019). "Your landlord turns your apartment into a smart home. Now what?". CNET. Retrieved 2020-10-02.
+
+^ Rehman, Aqeel-ur; Rehman, Sadiq Ur; Khan, Iqbal Uddin; Moiz, Malaika (December 2016). "Security and Privacy Issues in IoT". International Journal of Communication Networks and Information Security. 8 (3): 147–157.
+
+^ a b c d e Kaaz, Kim J.; Hoffer, Alex; Saeidi, Mahsa; Sarma, Anita; Bobba, Rakesh B. (October 2017). "Understanding user perceptions of privacy, and configuration challenges in home automation". 2017 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC). Raleigh, NC: IEEE. pp. 297–301. doi:10.1109/VLHCC.2017.8103482. ISBN 978-1-5386-0443-4. S2CID 36313196.
+
+^ a b Risteska Stojkoska, Biljana L.; Trivodaliev, Kire V. (January 2017). "A review of Internet of Things for smart home: Challenges and solutions". Journal of Cleaner Production. 140: 1454–1464. Bibcode:2017JCPro.140.1454R. doi:10.1016/j.jclepro.2016.10.006. S2CID 53696817.
+
+^ Heierman, E.O.; Cook, D.J. (2003). "Improving home automation by discovering regularly occurring device usage patterns". Third IEEE International Conference on Data Mining. Melbourne, FL, USA: IEEE Comput. Soc. pp. 537–540. doi:10.1109/ICDM.2003.1250971. ISBN 978-0-7695-1978-4. S2CID 10329347.
+
+^ Kaaz, Kim J.; Hoffer, Alex; Saeidi, Mahsa; Sarma, Anita; Bobba, Rakesh B. (October 2017). "Understanding user perceptions of privacy, and configuration challenges in home automation". 2017 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC). Raleigh, NC: IEEE. pp. 297–301. doi:10.1109/VLHCC.2017.8103482. ISBN 978-1-5386-0443-4. S2CID 36313196.
+
+
+External links
+ Media related to Home automation at Wikimedia Commons
+vteHome automationSystemElements
+Actuators
+Hardware controllers
+Sensors
+Interconnection typeWired
+Cable (xDSL)
+Optical fiber
+Powerline
+PLCBUS
+Universal powerline bus (UPB)
+X10
+Wireless
+Radio frequency
+Bluetooth
+Bluetooth Low Energy
+DECT
+EnOcean
+GPRS
+MyriaNed
+One-Net
+Thread
+UMTS
+Wi-Fi
+Zigbee
+Z-Wave
+Infrared (Consumer IR)
+Both
+Insteon
+KNX
+Matter
+Networktechnologies,by functionDeviceinterconnection
+Bluetooth
+Bluetooth Low Energy
+FireWire
+IrDA
+USB
+Zigbee
+Control andautomation
+AllJoyn
+Bus SCS with OpenWebNet
+C-Bus (protocol)
+CEBus
+EnOcean
+EHS
+Insteon
+IP500
+Luxom
+KNX
+LonWorks
+One-Net
+Universal powerline bus
+X10
+Zigbee
+Z-Wave
+Datanetworking
+Ethernet
+HomePlug
+HomePNA
+Wi-Fi
+Tasks
+Audio and video
+Heating, ventilation, and air conditioning
+Lighting control system
+Other systems
+Robotics
+Security
+Thermostat automation
+Gateway
+Smart home hub
+Other
+Costs
+Mesh networking
+Organizations
+Smart grid
+
+See also
+Home of the future
+Building automation
+Floor plan
+Home automation
+Home energy monitor
+Home network
+Home server
+House navigation system
+INTEGER Millennium House
+The House for the Future
+Ubiquitous computing
+Xanadu Houses
+
+vteRoboticsMain articles
+Outline
+Glossary
+Index
+History
+Geography
+Hall of Fame
+Ethics
+Laws
+Competitions
+AI competitions
+Types
+Aerobot
+Anthropomorphic
+Humanoid
+Android
+Cyborg
+Gynoid
+Claytronics
+Companion
+Automaton
+Animatronic
+Audio-Animatronics
+Industrial
+Articulated
+arm
+Domestic
+Educational
+Entertainment
+Juggling
+Military
+Medical
+Service
+Disability
+Agricultural
+Food service
+Retail
+BEAM robotics
+Soft robotics
+Classifications
+Biorobotics
+Cloud robotics
+Continuum robot
+Unmanned vehicle
+aerial
+ground
+Mobile robot
+Microbotics
+Nanorobotics
+Necrobotics
+Robotic spacecraft
+Space probe
+Swarm
+Telerobotics
+Underwater
+remotely-operated
+Robotic fish
+Locomotion
+Tracks
+Walking
+Hexapod
+Climbing
+Electric unicycle
+Robotic fins
+Navigation and mapping
+Motion planning
+Simultaneous localization and mapping
+Visual odometry
+Vision-guided robot systems
+Research
+Evolutionary
+Kits
+Simulator
+Suite
+Open-source
+Software
+Adaptable
+Developmental
+Human–robot interaction
+Paradigms
+Perceptual
+Situated
+Ubiquitous
+Companies
+ABB
+Amazon Robotics
+Anybots
+Barrett Technology
+Boston Dynamics
+Doosan Robotics
+Energid Technologies
+FarmWise
+FANUC
+Figure AI
+Foster-Miller
+Harvest Automation
+HD Hyundai Robotics
+Honeybee Robotics
+Intuitive Surgical
+IRobot
+KUKA
+Rainbow Robotics
+Starship Technologies
+Symbotic
+Universal Robotics
+Wolf Robotics
+Yaskawa
+Related
+Critique of work
+Powered exoskeleton
+Workplace robotics safety
+Robotic tech vest
+Technological unemployment
+Terrainability
+Fictional robots
+
+ Category
+ Outline
+
+vteEmerging technologiesFieldsManufacturing
+3D microfabrication
+3D printing
+3D publishing
+Claytronics
+Molecular assembler
+Smart manufacturing
+Utility fog
+Materials science
+Aerogel
+Amorphous metal
+Artificial muscle
+Conductive polymer
+Femtotechnology
+Fullerene
+Graphene
+High-temperature superconductivity
+High-temperature superfluidity
+Linear acetylenic carbon
+Metamaterials
+Metamaterial cloaking
+Metal foam
+Multi-function structures
+Nanotechnology
+Carbon nanotubes
+Molecular nanotechnology
+Nanomaterials
+Picotechnology
+Programmable matter
+Quantum dots
+Silicene
+Synthetic diamond
+Robotics
+Domotics
+Nanorobotics
+Powered exoskeleton
+Self-reconfiguring modular robot
+Swarm robotics
+Uncrewed vehicle
+Topics
+Automation
+Collingridge dilemma
+Differential technological development
+Disruptive innovation
+Ephemeralization
+Ethics
+AI
+Bioethics
+Cyberethics
+Neuroethics
+Robot ethics
+Exploratory engineering
+Proactionary principle
+Technological change
+Technological unemployment
+Technological convergence
+Technological evolution
+Technological paradigm
+Technology forecasting
+Accelerating change
+Future-oriented technology analysis
+Horizon scanning
+Moore's law
+Technological singularity
+Technology scouting
+Technology in science fiction
+Technology readiness level
+Technology roadmap
+Transhumanism
+
+ List
+
+Authority control databases: National GermanyUnited StatesFranceBnF dataJapanSpainIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Home_automation&oldid=1296403627"
+Categories: Home automationBuilding engineeringHidden categories: Articles with short descriptionShort description matches WikidataWikipedia indefinitely semi-protected pagesAll articles with unsourced statementsArticles with unsourced statements from December 2022Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 19 June 2025, at 20:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Home automation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

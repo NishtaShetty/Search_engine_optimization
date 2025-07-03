@@ -1,0 +1,769 @@
+
+
+
+
+Employee monitoring - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Surveillance methods
+
+
+
+
+
+
+
+
+2
+Legality
+
+
+
+
+
+
+
+
+3
+Legal applications
+
+
+
+
+
+
+
+
+4
+Legal issues
+
+
+
+
+
+
+
+
+5
+Financial costs of monitoring
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Employee monitoring
+
+
+
+5 languages
+
+
+
+
+DeutschFrançaisIgboРусскийSlovenščina
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Workplace monitoring)
+Surveillance of workers' activity
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Employee monitoring" – news · newspapers · books · scholar · JSTOR (June 2018) (Learn how and when to remove this message)
+Employee monitoring is the (often automated) surveillance of workers' activity. Organizations engage in employee monitoring for different reasons, such as to track performance, avoid legal liability, protect trade secrets, or address other security concerns.[1] This practice may impact employee satisfaction due to its impact on the employee's privacy. Among organizations, the extent and methods of employee monitoring differ.[2]
+
+
+Surveillance methods[edit]
+A company can use its everyday electronic devices to monitor its employees almost continuously. Common methods include software monitoring, telephone tapping, video surveillance, email monitoring, and location monitoring.
+Software monitoring. Companies often use employee monitoring software to track what their employees are doing on their computers. Tracking data may include typing speed, mistakes, applications used, and what specific keys are pressed.
+
+Main article: Employee monitoring software
+Telephone tapping can be used to monitor and record employees' phone call details and conversations. The number of calls, the duration of each call, and the idle time between calls can all go into a log for analysis by the company.[2][3]
+
+Main article: Telephone tapping
+Video surveillance can provide video feed of employee activities that are passed through to a central location where they are monitored by another person. These can be recorded and stored for future reference, which some believe is the most accurate way to monitor employees. "This is a benefit because it provides an unbiased method of performance evaluation and prevents the interference of a manager's feelings in an employee's review" (Mishra and Crampton, 1998). Management can review an employee's performance by checking the surveillance to detect and potentially prevent problems".[2]
+
+Main article: Video surveillance
+Email monitoring gives employers the ability to look at email messages sent or received by their employees. Emails can be viewed and recovered even if they had been previously deleted. In the United States, the Electronic Communications Privacy Act provides some privacy protections regarding monitoring of employees' email messages and other electronic communications. See Electronic Communications Privacy Act#Employee privacy.
+
+Main articles: Computer and network surveillance and Email privacy
+Location monitoring can be used for employees that move their place of work. Common examples of companies that use location monitoring are delivery and transportation industries. Sometimes the employee monitoring is incidental as the location is tracked for other purposes.[vague]
+
+Main articles: Geolocation software and Device tracking software
+Key logging, or keystroke logging, is a process that records a user's typing.[4] Key logging software may also capture screenshots when triggered by predefined keywords. Some[who?] see it as violating workplace privacy, and it is notorious for being used with malicious intent.[citation needed] Keyloggers can collect and store passwords, bank account information, private messages, credit card numbers, PIN numbers, and usernames. 
+
+Main article: Keystroke logging
+Legality[edit]
+Employee monitoring often is in conflict with employees' privacy.[5] Monitoring collects work-related activities, but it can also collect employee's personal information that is not linked to their work. Monitoring in the workplace may put employers and employees at odds because both sides are trying to protect personal interests. Employees want to maintain their privacy while employers want to ensure company resources aren't misused. In any case, companies can minimize the unethicality of theit monitoring policies by avoiding indiscriminate monitoring of employees' activities.[6] The employee needs to understand what is expected of them while the employer needs to establish that rule.[vague]
+With employee monitoring, many guidelines have been developed to protect interests of the company or the employee. Some following cases are ones that have shaped certain rules and regulations that are in effect today. For instance, in Canada, it is illegal to perform invasive monitoring, such as reading an employee's emails, unless it can be shown that it is a necessary precaution and there are no other alternatives.[7] In Maryland, everyone involved in a conversation must give consent before the conversation can be recorded (especially during telephone calls). The state of California requires that the monitored conversations have a beep at certain intervals or there must be a message informing the caller that the conversations may be recorded. However, this does not inform the company representative which calls are being recorded. All employers must create a comprehensive employee handbook that includes both mandatory and recommended policies. Handbooks must explain in detail what employees are permitted or forbidden to do in the workplace. Employers must update handbooks if employment laws or policies change. Other states, including Connecticut, New York, Pennsylvania, Colorado and New Jersey, have laws relating to when a conversation can be recorded. "Lawyers generally advise that one way for businesses to avoid liability for monitoring employees’ online activities is to take all necessary steps to eliminate any reasonable expectation of privacy that employees may have concerning their use of company email and other communications systems."[8] I.e., businesses can minimize liability by making the use of employee monitoring tools known to employees explicitly. They could announce this during new hire orientation, in a staff meeting, or even in a workplace contract that employees sign either at the time of hire or after a form of misconduct.
+Since May 7, 2022, employers in the state of New York have been required to provide prior notice for the monitoring of employee internet, telephone, or email usage. The law is an amendment to the New York civil rights law and applies to any private individual or entity with a place of business in the state of New York.[9]
+
+Legal applications[edit]
+Businesses use employee monitoring for various reasons, including but not limited to the following:[citation needed][10]
+
+Finding needed business information when the employee is not available.
+Protecting security of proprietary information and data.
+Preventing or investigating possible criminal activities by employees.
+Preventing personal use of employer facilities.
+Checking for violations of company policy against sending an offensive or pornographic email.
+Investigating complaints of harassment.
+Checking for illegal software.
+Legal issues[edit]
+In January 2016, European Court of Human Rights issued a landmark ruling in the case of Bărbulescu v Romania (61496/08) regarding monitoring of employees’ computers. The employee, Mr. Bărbulescu, accused the employer of violating his rights to ‘private life’ and ‘correspondence’ set in the Article 8 of the European Convention on Human Rights.[11] It held that a sales engineer had a 'reasonable expectation of privacy' against personal messages being read (including those to his fiance and his brother), even though he was told not to use a workplace Yahoo messenger for personal reasons, because "an employer’s instructions cannot reduce private social life in the workplace to zero. Respect for private life and for the privacy of correspondence continues to exist, even if these may be restricted in so far as necessary".[12] It follows that there is a human right to private communication, regardless of what an employer says.[vague]
+A year later, in July 2017, a German court ruled that computer monitoring of employees is reasonable but the use of keylogging software is excessive.[13]
+Employee monitoring software developers warn that it is still recommended to consult a legal representative in each case.[14] Majority of instances are a case by case situation and is hard to treat all the issues and problems as one. As new laws have been enacted dictating the bounds of these practices, employers have been forced to change their monitoring protocols.[15]
+
+Financial costs of monitoring[edit]
+According to the American Management Association, almost half (48%) of the American companies surveyed use video monitoring to counter theft, violence, and sabotage. Only 7% use video surveillance to track employees' on-the-job performance. Most employers notify employees of anti-theft video surveillance (78%) and performance-related video monitoring (89%) (retrieved from the article The Latest on Workplace Monitoring and Surveillance). In an article in Labour Economics, it has been argued that forbidding employers to track employees' on-the-job performance can make economic sense according to efficiency wage theory, while surveillance to prevent illegal activities should be allowed.[16]
+An indirect way that companies can be affected financially through employee monitoring is that they can be sure they are billing clients correctly. According to "Business 2 Community," inaccurately billing clients is always possible because of human error. Such inaccuracies can cause disputes between a company and a client which could eventually lead to the client terminating its business with the company. This sort of termination will not only hurt the company's revenue stream but also its reputation with other clients or potential clients. The suggested solution to this problem is a time tracking software to monitor the number of hours a client spends with an employee.[17]
+
+See also[edit]
+Abusive supervision
+Computer surveillance in the workplace
+Counterproductive work behavior
+Mass surveillance
+Occupational health psychology
+Right to privacy
+Surveillance
+Workplace privacy
+Workplace deviance
+Workplace incivility
+Workplace health surveillance
+References[edit]
+
+
+^ Martin, Kirsten, and R. Edward Freeman. "Some problems with employee monitoring". Journal of Business Ethics.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+
+^ a b c Mishra, Jitendra M; Crampton, Suzanne (1998). "Employee monitoring: Privacy in the workplace?". S.A.M. Advanced Management Journal. 63 (3): 4–14. ProQuest 231233456.
+
+^ SHERMAN, MARK. "GOV'T OBTAINS WIDE AP PHONE RECORDS IN PROBE". Archived from the original on May 14, 2013. Retrieved May 13, 2013.
+
+^ Leijten, Mariëlle; Van Waes, Luuk (July 2013). "Keystroke Logging in Writing Research: Using Inputlog to Analyze and Visualize Writing Processes". Written Communication. 30 (3): 358–392. doi:10.1177/0741088313491692. S2CID 145446935.
+
+^ Mishra, J. M. & Crampton, S. M. (1998). "Employee monitoring: Privacy in the workplace?". S.A.M. Advanced Management Journal. 63 (3): 4.
+
+^ Burks, F. Ethical Issues & Employer Monitoring Internet Usage. Chron.com, 2010.
+
+^ "Supreme Court rules employees have right to privacy on work computers".
+
+^ Yerby, Johnathan (2013). "Legal and ethical issues of employee monitoring". Online Journal of Applied Knowledge Management. 1 (2): 44–55.
+
+^ Francis, Simone R.D. (2021-12-29). "Electronic Monitoring of Employees in New York: New Restrictions and Requirements Will Take Effect in 2022". The National Law Review. Retrieved 2021-12-30.
+
+^ Mishra, Jitendra M. "Employee monitoring: Privacy in the workplace?". S.A.M. Advanced Management Journal. 63.
+
+^ "CASE OF BĂRBULESCU v. ROMANIA (Application no. 61496/08)". European Court of Human Rights. 2016-12-01.
+
+^ [2017] ECHR 754, [80]
+
+^ Catalin Cimpanu (2017-05-08). "Companies Can't Use Keyloggers to Spy on Employees, Says German Court".
+
+^ "How Companies Monitor Their Employees". 2016-09-23.
+
+^ Yerby, Johnathan. "Legal and ethical issues of employee monitoring". Online Journal of Applied Knowledge Management.
+
+^ Schmitz, Patrick W. (2005). "Workplace surveillance, privacy protection, and efficiency wages" (PDF). Labour Economics. 12 (6): 727–738. doi:10.1016/j.labeco.2004.06.001. hdl:10419/22931.
+
+^ Vessella, Victoria (October 12, 2015). "6 Benefits of Employee Monitoring". Business 2 Community. Retrieved March 3, 2020.
+
+
+vteAspects of workplacesTopics
+Absenteeism
+Abusive supervision
+Aggression
+Anti-pattern
+Artificial intelligence
+Bullying
+Climate
+Culture
+Computer surveillance
+Conflict
+Control freak
+Counterproductive behaviour
+Coworking
+Culture of fear
+Democracy
+Deviance
+Discrimination
+Diversity
+Divide and rule
+Drug tests
+Effects of overtime
+Emotional labor
+Emotions
+Employee assistance
+Employee engagement
+Employee experience
+Employee monitoring
+Employee morale
+Employee recognition
+Employee silence
+Employee surveys
+Empowerment
+Evaluation
+Feminisation
+Generations
+Goofing off
+Gossip
+Happiness
+Harassment
+Health promotion
+Health surveillance
+Hostile work environment
+Humor
+Incivility
+Inequality
+Intervention
+Jargon
+Kick the cat
+Kiss up kick down
+Listening
+Machiavellianism
+Menopause
+Micromanagement
+Mobbing
+Narcissism
+Office politics
+Overwork
+Parkinson's law
+Performance appraisal
+Personality clash
+Phobia
+Positive psychology
+Privacy
+Probation
+Profanity
+Psychopathy
+Quality of working life
+Queen bee syndrome
+Rat race
+Relationships
+Revenge
+Robotics safety
+Role conflict
+Sabotage
+Spirituality
+Strategy
+Stress
+Toxic workplace
+Toxic leader
+Training
+Turnover
+Undermining
+Violence
+Virtual
+Wellness
+Work–family conflict
+Workload
+Workplace harassment
+Workwear
+See also
+Corporation
+Employment
+Factory
+Headquarters
+Job
+Job sharing
+Labour movement
+Labor rights
+Office
+Organization
+Remote work
+Strike action
+Trade union
+Whistleblower
+ Templates
+Aspects of corporations
+Aspects of jobs
+Aspects of occupations
+Aspects of organizations
+Employment
+
+Authority control databases: National Czech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Employee_monitoring&oldid=1289194029"
+Categories: SurveillancePrivacyEthically disputed working conditionsWorkplaceEmployee relationsHidden categories: CS1 maint: multiple names: authors listArticles with short descriptionShort description matches WikidataArticles needing additional references from June 2018All articles needing additional referencesAll Wikipedia articles needing clarificationWikipedia articles needing clarification from July 2021All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from July 2021All articles with unsourced statementsArticles with unsourced statements from April 2025Wikipedia articles needing clarification from April 2025Articles with unsourced statements from December 2020
+
+
+
+
+
+
+ This page was last edited on 7 May 2025, at 01:45 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Employee monitoring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
