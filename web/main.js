@@ -21,7 +21,7 @@ function displayResults(results) {
 
 document.getElementById('searchButton').addEventListener('click', function() {
     const query = document.getElementById('searchQuery').value;
-    fetch('/search', {
+    fetch('https://YOUR-BACKEND.onrender.com/search', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
