@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify, send_from_directory
+from flask_cors import CORS
 import sys
 import os
 import logging
@@ -6,12 +7,13 @@ import logging
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
 
-# Add the scripts directory to the Python path
+# Add scripts directory to Python path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'scripts')))
 
 from search import search
 
 app = Flask(__name__, static_folder='.', static_url_path='')
+CORS(app)  # ✅ Enable CORS
 
 @app.route('/')
 def serve_index():
@@ -28,4 +30,5 @@ def search_endpoint():
     return jsonify(results=[doc for doc in results])
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 10000))  # ✅ Render port
+    app.run(host='0.0.0.0', port=port)
